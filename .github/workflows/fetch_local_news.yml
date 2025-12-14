@@ -2,8 +2,7 @@ name: Fetch Local News
 
 on:
   schedule:
-    # Every 3 hours
-    - cron: "0 */3 * * *"
+    - cron: "0 */3 * * *"   # every 3 hours
   workflow_dispatch: {}
 
 jobs:
@@ -29,7 +28,7 @@ jobs:
       - name: Run local news fetcher
         run: python fetch_local_news.py
 
-      - name: Commit & push local news JSON (if changed)
+      - name: Commit & push local news JSON
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update local news json"
