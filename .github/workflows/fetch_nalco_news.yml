@@ -1,8 +1,8 @@
-name: Fetch NALCO News
+name: Fetch NALCO & Local News
 
 on:
   schedule:
-    # Every 4 hours (change if you want)
+    # Every 4 hours
     - cron: "0 */4 * * *"
   workflow_dispatch: {}
 
@@ -24,13 +24,20 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4
+          pip install requests beautifulsoup4 feedparser
 
-      - name: Run news fetcher
+      # EXISTING – DO NOT TOUCH SCRIPT
+      - name: Run NALCO news fetcher
         run: python fetch_nalco_news.py
+
+      # NEW – LOCAL AREA NEWS
+      - name: Run Local news fetcher
+        run: python fetch_local_news.py
 
       - name: Commit & push JSON (if changed)
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update nalco news json"
-          file_pattern: json/nalco_news.json
+          commit_message: "chore: auto update nalco & local news json"
+          file_pattern: |
+            json/nalco_news.json
+            json/local_news.json
