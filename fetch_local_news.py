@@ -1,6 +1,7 @@
 import feedparser
 import json
 from datetime import datetime, timezone
+from urllib.parse import quote_plus
 
 KEYWORDS = [
     "Damanjodi",
@@ -17,14 +18,14 @@ KEYWORDS = [
 ]
 
 MAX_ITEMS = 25
-
 all_items = {}
 now = datetime.now(timezone.utc)
 
 for key in KEYWORDS:
+    encoded = quote_plus(key)   # ✅ FIX
     url = (
         "https://news.google.com/rss/search?"
-        f"q={key}&hl=en-IN&gl=IN&ceid=IN:en"
+        f"q={encoded}&hl=en-IN&gl=IN&ceid=IN:en"
     )
 
     feed = feedparser.parse(url)
@@ -60,4 +61,4 @@ output = {
 with open("json/local_news.json", "w", encoding="utf-8") as f:
     json.dump(output, f, indent=2, ensure_ascii=False)
 
-print(f"Local news updated: {len(items)} items")
+print(f"✅ Local news updated: {len(items)} items")
