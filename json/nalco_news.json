@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-01-31T20:30:07.505558Z",
+  "updated_at": "2026-02-01T02:42:31.198800Z",
   "count": 40,
   "items": [
+    {
+      "source": "Google News",
+      "title": "National Aluminium Company Ltd Reports Positive Quarterly Performance Amid Margin Pressure - Markets Mojo",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQemRXSXVDZUdwUFpyRzJCZzBJWkU3UHF4WXNCbHFKNS13ZnNEU2trSWdvcE9JdkI2NmdLdXpqdVU0bWRxSWJPdDZDZUFCUE5rczByUFVKZUNoYk81d25vYm5RUnpRa21oazVaYmxGSUJlLWdyOHB3bWEybkVlRzZnc2MtQzZPczJvbzBQN2RlVjNUNU1qNWtLampTbzBMV3ZHaFdicDMzVEdzWHVkS0lxSWVCbjRZLVBTRWktZkZtbHkxZ3MxV1Y2Z21vX2w0UHlnOWtMOWZNR1dSbDUzbW5NV0N3?oc=5",
+      "date": "2026-02-01",
+      "timestamp": "2026-02-01T02:31:10+00:00",
+      "summary": "National Aluminium Company Ltd Reports Positive Quarterly Performance Amid Margin Pressure&nbsp;&nbsp;Markets Mojo"
+    },
     {
       "source": "Google News",
       "title": "LIVE: PSU Q3 Results 2026: NTPC, BoB & Power Grid Profits Soar; PGCIL Declares ₹3.25 Dividend, Record Date Feb 9 - PSU Connect",
@@ -220,6 +228,14 @@
     },
     {
       "source": "Google News",
+      "title": "Nalco Accelerates Expansion, Renewable Energy Push in Odisha to Support Long-Term Growth - orissadiary.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUm1VTl9fQU52UERsdURWTW1BZ0JrZkUwTnlnZVhGNVdjb2pzM3JzWDNjUEpwb1JWTWxBVVFaV2lZREUycTd2clZrNjgwZUVvZHk3OEJJcUFQUnRudllXMWZHUmxfN2FDMUQxUEJtRFZEV0VidDdmTXFhY2syM0I1UVV1WDJhNWU3Z1J0VlplVElwQW85YjR2dGE4QkJ6UEZRa1NRcVh0QkkyazJDaEJuVVJn?oc=5",
+      "date": "2026-01-26",
+      "timestamp": "2026-01-26T06:39:03+00:00",
+      "summary": "Nalco Accelerates Expansion, Renewable Energy Push in Odisha to Support Long-Term Growth&nbsp;&nbsp;orissadiary.com"
+    },
+    {
+      "source": "Google News",
       "title": "Alumina pricing pressures may weigh on NALCO's revenue despite projected volume gains in FY26 - MSN",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZVBnLTlVbXNKVm9rOVBPengxS2RlRXJmQkhYRk9wVHNJMkdXbUI4OXRLbklIaTR6NVBYZFhwLVozelV5ME5vbTNtM3RlaEh0QmMyUURfQVBkZkg1MGFzS3B1MFdMeUl5UVRlQVdhSnpNQTVWM2VWS1BveG9Fd2VRVzQ2R2dKbWhzQVFFZnNvWGFYWFlna3dFd1lHRG1VVFAyV1RPNEpoZEVSdU9HWklsblBsTmw1bzB3dmRSZ0tMT29NNE9pT0lhUUVuZkc4UzlIN1BPX0U2TXlpaUhnbFRPY3lB?oc=5",
       "date": "2026-01-25",
@@ -241,6 +257,22 @@
       "date": "2026-01-25",
       "timestamp": "2026-01-25T07:22:00+00:00",
       "summary": "Nalco Eyes Green Power Shift Amidst Cost Hurdles&nbsp;&nbsp;Whalesbook"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO - Under Pollution Cloud; Angul Residents Fear for Air, Water and Survival (!). | - odishabarta.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTkNvS0dqX2pyUFNPb09NNkNiVHJMRmRNR0FUODZ4VWRxMjVDVzlvR2V0ZjZSc2Fzak81WEo3eUVQcUowVHJCMlhQa2JkN1prZE9XU2NnNkhEQVplMTBzRjJISXo3VHgzdTFmWXkxbXFLVTVPWHNlS01tUVAyR3QzcElRakMwb2pwQWpqcW1vSl83VllTX3ZmVmg3eEpyVHFBbFE?oc=5",
+      "date": "2026-01-23",
+      "timestamp": "2026-01-23T15:12:57+00:00",
+      "summary": "NALCO - Under Pollution Cloud; Angul Residents Fear for Air, Water and Survival (!). |&nbsp;&nbsp;odishabarta.com"
+    },
+    {
+      "source": "Google News",
+      "title": "Aluminium Stocks Surge: Global Cues Propel Vedanta, Hindalco, Nalco - Whalesbook",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbzl6V0dUUXdGMDVWQzREaFdMcnpoeFJNZERZcGU2cWhBMW5qM24wVDRfdENFazFRMUxCdGhvVk5NWUQ0cDRNOFNsX0tHZ2gzb2NudTJiU0QwZUc1SzZrMmJTSUFwd05GazRCZG54b3NvWVIwbm5qRmtfNEhKbG9sRGRacHFoMnhWMTF0SHhwZ2xKMFF4ZFB3Skxxc3NObWI1Q0VxMVVZQlpMSkVBOVpCbVFWSm9vLXE4TFNRU2ozeUJLR18tYUJGQ1lCQk5BbmxqZ2hwN0NrNkJld1hpZnNWWEZGV3BrekVwbmc?oc=5",
+      "date": "2026-01-23",
+      "timestamp": "2026-01-23T14:18:54+00:00",
+      "summary": "Aluminium Stocks Surge: Global Cues Propel Vedanta, Hindalco, Nalco&nbsp;&nbsp;Whalesbook"
     },
     {
       "source": "Google News",
@@ -284,43 +316,11 @@
     },
     {
       "source": "Google News",
-      "title": "Infrastructure and power push in Union Budget likely to ramp up aluminium demand: NALCO CMD - Public TV English",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOWEtUFZ2VVNYUURHanZiUHNBbGRrazFWemlfMTBQNmdfMzFNQ1NGUFBua2ktNmlzcmVBRkh0X0NSbE1CcHI0WDFjYkRDZ01BVDhodDYwbUMtUnFia2VKQUdtb1M1S2M3TjJLSEJya0trcEtJY3ZOVlVMWHZ1cjBQcmoyR21JOGNYcmEyUEJPMWtEQmxCZk5SSW4xZ1JqMVVMclJnQ2V2VnFmRW9jeXJUeHRRa0l2eDAxSjBz?oc=5",
+      "title": "NALCO Fast-Tracks Overseas Lithium Expansion to Secure India’s Green Energy Supply Chain - KalingaTV",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNzdKRENzb3ZMVjZ4aDFMQmhLbVBmQkNpclpWVmpndzdQRGNjY200TG5XcGQ3Xy03YkRlN0YtM0s3SDlmcXktZFN6MEdxMGxjaHFrMDdncmdyejFFQ0dTb2JVaVBIOWp0VG50VWx5MkFfMWVXdmxJU1JheEgtUVVNOTJhU2lISmNvRVo4OUIxQU9ZLURvWVJKUXJBTUd4VzhVc3lfRXljVlhuV2syWXFxNmR1Zm9vQy1GZXRj?oc=5",
       "date": "2026-01-19",
-      "timestamp": "2026-01-19T08:41:12+00:00",
-      "summary": "Infrastructure and power push in Union Budget likely to ramp up aluminium demand: NALCO CMD&nbsp;&nbsp;Public TV English"
-    },
-    {
-      "source": "Google News",
-      "title": "Aluminium sector is not yet ready for green transition: NALCO CMD - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmd4N2lIUVg5NU1mOXRVRWZCRlQ0TFlTUk1MOEFhX2hrVkpOWV93c1VTa2M3SENlVkhXd3RxbUtpN2huZ3dvcVUwRWRUZ1k3Z1hfZURDbkZzbDU1bTRrRmxhUmVqbElLZkdDNDhERzBjNTE0OVVqbkk2RHRhVUpzczMtM2pCeG1Tc1UydW1DNXAwZ3A5RjdyTVh6OGp0X1BkMTRCNXY4V1ZWZ1FGRHYxWkJDQ291QXRZ0gG_AUFVX3lxTE9kU3RtYkVlb0xISGVMWUdsQWxZTU1SS3U3UDVZZjBtU1RjT1RDakFQYnVjVXV2QWMwdlVBRFprUHpxYlF5UWU0c2JLRHp1TGUtcUNfcXdGNlpSQktwMU8wWlRiT1ByeXNMbFNxc2Vyd0FRZ0VmUEZXcFF4dmlxMXQ2bUdNTlBRVDVxdkJ5Yk9YbzVNSTdISXhIejdsTXVqS1B3S2FGbjQ1YmpuendMSXlwRlFWYzFkUUlmY3Z1MnJr?oc=5",
-      "date": "2026-01-19",
-      "timestamp": "2026-01-19T08:00:00+00:00",
-      "summary": "Aluminium sector is not yet ready for green transition: NALCO CMD&nbsp;&nbsp;The Indian Express"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO Schedules Board Meeting on January 30, 2026 to Review Q3FY26 Financial Results - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLTJWLXpZQmtzb2IxS1ZkUHRDOWU4eUVJMnMtSWthSzhqeHV1U2pSZUF3OWdOUXZlUkpZT19NZ2UwQXNTQ2E4SE92MFAxOGpFX1FGRnQyYzRzLTgwQUt5QU1fWlJLZGpFU011OWJIWUhYaTN4aTZ1YXpQbXpmZnptemR6dmZVY2Z0bmtUQUZ6Y085QkVzZDJlNEh6ekI3NzE5c3ZTYk9lSG41NE1ySlJNS3c0S0VuMllwcmgwSk10QmlyTzdGMF9zenlPREc4XzJyVGREclR3?oc=5",
-      "date": "2026-01-19",
-      "timestamp": "2026-01-19T08:00:00+00:00",
-      "summary": "NALCO Schedules Board Meeting on January 30, 2026 to Review Q3FY26 Financial Results&nbsp;&nbsp;scanx.trade"
-    },
-    {
-      "source": "Google News",
-      "title": "Nalco eyes foray into rare earths, magnesium, chromite amid critical minerals push - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSmRRTHB1MUlrYlBwSFVLeS0wLWpDWEx3eXJvbGkxSmJTR01CRmIzdFNucHpWRkRhVzVSUXJWZE9FQlFEOWJtcHBqSmdpR2NGMHlRSHlvaDI0QjE0VUFHMDBEMFVwWHhEblFaX1BrNHVLVGpNN0dkOVRjeW9valh3dFVxM2lkZFdPMXU5SG5RUm1tYW85SGZmWXVmSW9LTDhWRzFOV0RzY1dVWVVkUVlNUm4tQ25IMHB3d0lVS0NxaVVVYVEwNFVUTTFwZXNuWmhBR2ZCOXh6MFdQcVZOYVNTS2RQUHY5dHlQMjJIdTIwdTlYUVR5bEFiV216dmh3T3ZfX3fSAYcCQVVfeXFMTTk0dnFCZUVwaDNmbWt4QlNrTm00TDJoUlZKUUdmbGNWMjMtNU0wYnlEa2hXV2E2eU56VEh2ZlVOejdhQmxUaHVuYU5nMC1ZYi0tQkxhVjZWNG1hY2JIR3V1M193SU1IQjE0Wm9NcVVRM0U5WldqalhwaFpTTmRCMjR6YXpPallUdC1UYmZyRnZybmFxQnNYcXBzV3gzaldBYXNwclhvQnUtOVN0YnVXYVJIWFN4OVFxbDhGQWlsU3BITnRtaWdnZzg2eEY0dF9MM0N0YXFqbkxmNkp1ZVF4TXlLYlhkWHR1V2pFMVNMWGtQbWZ4NGRLSkFZb2xyMmJqOFJfdmNlTDg?oc=5",
-      "date": "2026-01-19",
-      "timestamp": "2026-01-19T08:00:00+00:00",
-      "summary": "Nalco eyes foray into rare earths, magnesium, chromite amid critical minerals push&nbsp;&nbsp;The Economic Times"
-    },
-    {
-      "source": "Google News",
-      "title": "Budget's Infrastructure Push to Fuel India's Aluminum Demand: NALCO Chief - Oneindia",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0YyMGJfaWdsVU5BY0stNkhzOUh1bTlXa1ZxQmhQSENHcXl3c2lKbDhlMnNYTUkta0dFTjNwbjdfQXNVd3NXMmRmbkJ4SmdtMWlZd3RQSlZvSnlyMWd6UklHUkRRbmlBU2IxWWg5MGFpVTliQjM2TzJybDZlUWZKVVhFdmFTZWRNRE01Sl9lcVNJS0dWdUl0emlURzBNc2dSUy16Y2VXVTRXaVdISkJZekZQWXdLMjg?oc=5",
-      "date": "2026-01-19",
-      "timestamp": "2026-01-19T08:00:00+00:00",
-      "summary": "Budget's Infrastructure Push to Fuel India's Aluminum Demand: NALCO Chief&nbsp;&nbsp;Oneindia"
+      "timestamp": "2026-01-19T12:27:57+00:00",
+      "summary": "NALCO Fast-Tracks Overseas Lithium Expansion to Secure India’s Green Energy Supply Chain&nbsp;&nbsp;KalingaTV"
     }
   ]
 }
