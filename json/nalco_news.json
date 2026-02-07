@@ -1,15 +1,7 @@
 {
-  "updated_at": "2026-02-07T08:37:03.051017Z",
+  "updated_at": "2026-02-07T12:56:35.370232Z",
   "count": 40,
   "items": [
-    {
-      "source": "Google News",
-      "title": "NALCO Q3 Results: ₹2,131 Cr Profit, ₹1/Share Dividend & New Smelter Plan - PSU Connect",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVnpyYVlVc0pzU3RNdy1vcmNWVXc2Nlg5MFZaZUJKWVNzeVVuNFUyV1lSLXRQQ1pROGp3dXZhY25QaFJubTF6aWdoVF9PaHhzYk1TeEF4SWVTR1k0U2t5Nmczay1PU0loYldnUzlsbFZtN0NWYWs2ajllUGNlQ0c2RkZ4SC1IbUNwVkY5ajFsbw?oc=5",
-      "date": "2026-02-05",
-      "timestamp": "2026-02-05T13:06:00+00:00",
-      "summary": "NALCO Q3 Results: ₹2,131 Cr Profit, ₹1/Share Dividend & New Smelter Plan&nbsp;&nbsp;PSU Connect"
-    },
     {
       "source": "Google News",
       "title": "Nalco Q3 Results FY26: Net Profit at ₹2,131 Cr, Posts Best-Ever Performance | NALCO - PSU Connect",
@@ -49,6 +41,14 @@
       "date": "2026-02-02",
       "timestamp": "2026-02-02T06:55:10+00:00",
       "summary": "NALCO: Hold Rating Maintained Amidst Mixed Q3 Results&nbsp;&nbsp;Whalesbook"
+    },
+    {
+      "source": "Google News",
+      "title": "Hindustan Zinc, NALCO to Hind Copper: Metal stocks crash up to 19% on MCX gold, silver price rout on Budget Day - Mint",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOa3JxMW0xWUV4ZmtoUGRwY3htU3JLWHVwQUVXVm5uOWQyYm13YVBqbEJtS19NTzNOMkZBLVJhdUlILWxUVzhodzZzc2ZZVVVrTWVZMzBoNWNxQV9OLWZjdVNNWldUUTlqelhkZXpqOFQwYklQdGJxYXNUTk5lVDFpMjFkMkFCVUw1MmR4MWJUYXJPU284emlna0pQRjgxRWFOcmE0UnV0TDV5SXJCc1ItbmdWQS1RYllJM1JDemxLMTI3eU1HTzdIUUQ3UzItNF9VX2tSX2hsaDM3ekQweGdLUmJrMzNkTXZmVXYwSEhTV0Jodm95ZkZwZzZIcWhkREtiTnJBQ1hSXzlGUWFHRHd6TNIBlgJBVV95cUxQY2JULWl3WXd0b2RjelIwbkliUm4ydlhVSS11ck1jX2Iwa19jNFpMUXpnZWIwa0ZTYmVpbU05Q2ZsX093SGh2c1hUUGJtRkVuNTIyb0lkWEctQXhpeWVRamVreC1qTVhDSnRycVJVSlIyZ3duU0xXRkNlVGNMbkc5SEs2b3YteWJDQzFpbVV5dWdQZmRxZ1RJMVZ0M3FId2VuV3FyRkpzaDZxYmFjVkkwWUJVRWZ3dXZEdG1yUnF2VjBtM280MDRzR0NQRE93SkUzY3JoanlDVjdoWXUtaFlwWXJtSWdLTnpFai1WeUlTZkZ2c1NhN0wtR0tpWS1Qc0tKME81TzZPbFctSVc5WjYtLXZVS2hiZw?oc=5",
+      "date": "2026-02-01",
+      "timestamp": "2026-02-01T08:54:25+00:00",
+      "summary": "Hindustan Zinc, NALCO to Hind Copper: Metal stocks crash up to 19% on MCX gold, silver price rout on Budget Day&nbsp;&nbsp;Mint"
     },
     {
       "source": "Google News",
@@ -132,22 +132,6 @@
     },
     {
       "source": "Google News",
-      "title": "LIVE: PSU Q3 Results 2026: NTPC, BoB & Power Grid Profits Soar; PGCIL Declares ₹3.25 Dividend, Record Date Feb 9 - PSU Connect",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wSWFCN1h2RGRCeUlacUl0T2RFWjhUT2c2SEg5RlFLLWJMRW5tUlVHTkVxdEN4VmVsdlNZVzFrVUdQYkZTejY1Wi1iQXUzeHhUWjJsN1IxSWtYNmMwOWgxSHgxLTRCSWNadi0xV3lB?oc=5",
-      "date": "2026-01-31",
-      "timestamp": "2026-01-31T06:10:00+00:00",
-      "summary": "LIVE: PSU Q3 Results 2026: NTPC, BoB & Power Grid Profits Soar; PGCIL Declares ₹3.25 Dividend, Record Date Feb 9&nbsp;&nbsp;PSU Connect"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO posts record Rs 1,601 crore net profit in Q3 FY26; nine-month profit touches all-time high of Rs 4,098 crore - PSU Watch",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbFpRdUxOdkQybWI3endPNXh2bnRiamNmbkF5LTFUeWFzRE12LUJXY0QwVk8zN3ZTMVlPWWVwcjE0X3ZseGRidlM1dVRvNGtOSkxXeHdFSTBzX3U2X3RsbVlHeFJyQTFKRWZXY2NSVGNVWWNvaUpacGRLam1NQ0lId3MwZjhtZlNTTEtBZDlCSDlsN0lVa2YySHo3UVExY1J1TVdVMS0xTWNhY0lsMG9ST0pCeXZRODM0bnkxdV9IQ1BpWWVBc0VxTVpYbmtOYVRqSzlKYXdKMTU5eFc00gHqAUFVX3lxTFBWUkRVVjU4aTB4a3MzSTVrNmY4bDJlV2FqZ2RFUDZQYm5Wd1p5TDdjdXNKeVZwVDhlb0FiUFdmc1BlZDNjQWtXUWtuZ1RDY052VzBTbWpJZDdtLXpzZ0Q2cERWTFJEMVpZa1FqcXZkYzJDUkZqeGJGVGFMNUo2OGd5VHFnVEg3RlFXdGw1aUxubS1jNnhrU2tvbjZ5X19ic253ZzFaRmxZYU1RNWt1X2hJclI4M3doNnBvcUZlNEtpV1haODFFWEhsZ0hJWlotdnY0c1M0NXVMWkZ4X0dZQ0VCME04WEhBd183Zw?oc=5",
-      "date": "2026-01-31",
-      "timestamp": "2026-01-31T05:33:26+00:00",
-      "summary": "NALCO posts record Rs 1,601 crore net profit in Q3 FY26; nine-month profit touches all-time high of Rs 4,098 crore&nbsp;&nbsp;PSU Watch"
-    },
-    {
-      "source": "Google News",
       "title": "NALCO Achieves Record Q3 Profit, Declares Interim Dividend - Whalesbook",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUExfaTRWaHZJYjgyV1Z0LVVUbHFKandTRXNXTlQ3eWFIQmhwZ2lEOWRnZ2pzMzJVZURuX1U1dTBJTnc0cGtpeVh4RmMzMWRDVVN2YXJfNkpRVzY1Y01tdFg2RHpsYkVNQlUtbThQX1ZpSnhkN0xIQ2Z0LUJKTEV4bzhtV29MaTF5emNhSnNsM215VjFrUWlaei1ja3ZmeGx0NzhxcnJEVzFiV3N5ZC1qeVFTaFZQOC1wblo2bzJ6QlJaTWVVU2JnMy1YZ2dSN00?oc=5",
       "date": "2026-01-30",
@@ -180,35 +164,11 @@
     },
     {
       "source": "Google News",
-      "title": "Nalco Profit Edges Up Amidst Rising Costs; Dividend Declared - Whalesbook",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQTV6RXVIczlTS0FoX19fTEljRG1kbGV6YWpKWmZpQ2Y3VWJrVWlJMG9jWEFqSGRYQ180bGpNZ0VRUWNRWXZhZ3VlLWlxR3l1YmRHSllZQlBFRGQ2N0w4dXFkdnhfalF0RmltTDdueVBWTzdidkl5VDkwZEV5WVdXM1d1dTkwYjIyeDNBMk5acU1MZUZ5TUNRWWxzQ25DakdWT3dTbU8wSl9ucEFpN1RrOEJRVDJJUU84UG1RM0FMbUtMUXNaclZfdHhQVUdOZE93QmYzSHRJMWNhbDJ3UllHaXJNOA?oc=5",
-      "date": "2026-01-30",
-      "timestamp": "2026-01-30T12:51:58+00:00",
-      "summary": "Nalco Profit Edges Up Amidst Rising Costs; Dividend Declared&nbsp;&nbsp;Whalesbook"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO Q3 FY26 Net Profit Rises to ₹1,595 Cr, Revenue Inches Up to ₹4,731 Cr; Board Approves Rs 4.50 Interim Dividend - Indian Masterminds",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOUY0azRmaHkycE0xYkFDSFFJaXZCYmo1dEJxWkhkT1VfT3ZJUjdQNV95a2I5VzdVR2lPU2drS2duY1BoRnRpWkVibk5wZWVneUJIU0VFNXE5dmxMeTJwMW1uZXBtamJMLV9fdVFpaUVxeGxkT1R5VjFBOHN3ei04Nl9aUjhlWGVQRlY2NXV4aGI0ZVFoR0ZuYW53VlNPdlR3QXc?oc=5",
-      "date": "2026-01-30",
-      "timestamp": "2026-01-30T10:51:05+00:00",
-      "summary": "NALCO Q3 FY26 Net Profit Rises to ₹1,595 Cr, Revenue Inches Up to ₹4,731 Cr; Board Approves Rs 4.50 Interim Dividend&nbsp;&nbsp;Indian Masterminds"
-    },
-    {
-      "source": "Google News",
       "title": "Nalco Q3 profit rises 2% to ₹1,595 cr - BusinessLine",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb0haeU84SUhraTJBUzdaZF9MNXZuRUhGX184N1BaOTU0ZEVLZjVfVHp3NHhrMHBvclhKYm9UZG1BV3otV3ZqNzVDa2pJb01wVjY4clBXMzVwRzFkNl9taTZDSEY5TUktYS1aa2g4WGR5eHVBUUVpMlBUbFdxVjJTNGtSdmtBanY5VDRTcy1naHdDVlhDc05GUVhSYzZVVURlR0ow0gGqAUFVX3lxTFBKTFNFVmZhU0NleXA3OHR2MnJRd1R3M3RMUEZMcElJY0hQRFRrbkhvdEZZOEVUNXlUSC1jcEJTSFA3ZURxN2ZMYVlac3NXZ3g1bGdmdHFhR2lqQkloVzd6eTRHbmw4dEh0ZG9IYlB3UWM2LWJvdVhlVjV2UDdJcXhEazFSZGlETzZFZHp4ZUxITExGR1RDbEkyOU4xd2tlRzZtYndzS2hTVUlB?oc=5",
       "date": "2026-01-30",
       "timestamp": "2026-01-30T10:46:34+00:00",
       "summary": "Nalco Q3 profit rises 2% to ₹1,595 cr&nbsp;&nbsp;BusinessLine"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO Q3 FY26 Earnings Call Highlights Company Performance - InvestyWise",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43U0tFVlBLU2JybWwxMTdCVWVmVlNPbHJxWTdSa0NlU3dwQnFwYnA3TFVMdDQ2V1ZQWjQ2c3VreDB3M1Z0c0ltNU1lU3VYVURwalVOWlZBSjFMOHAzVVk5cU1RY0s?oc=5",
-      "date": "2026-01-30",
-      "timestamp": "2026-01-30T10:45:10+00:00",
-      "summary": "NALCO Q3 FY26 Earnings Call Highlights Company Performance&nbsp;&nbsp;InvestyWise"
     },
     {
       "source": "Google News",
@@ -252,11 +212,11 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO Shares Tumble Ahead of Q3 Earnings Amidst Sector Weakness - Whalesbook",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPM0lEQ1MzMWEyWFUyaE5OaGdQZmJJa0dzTlBZdEs2Z2FYZXRSeGRRejAzZ3QyNWprLW5CQzY2SE01X0d5elRzblFLVHF1WGxHU1RUUzFuZWs0RnFvTzUyUjl2NF9xa1JkWkNUekxDdjlkZFIxa015aHRDaVlRMDV0bVdYRGVHMFoxTGlXcHJ5aDl4R1ZHdDN5dmZzRUhCVlZXVTVRWWZ5TkJxNG84OUZfWTQwMlBjYjdySml6QkFEejJaTXBuc3NzUFAwcmVNdmMxQTRwdUJCcw?oc=5",
+      "title": "Nalco Profit Edges Up Amidst Rising Costs; Dividend Declared - Whalesbook",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQTV6RXVIczlTS0FoX19fTEljRG1kbGV6YWpKWmZpQ2Y3VWJrVWlJMG9jWEFqSGRYQ180bGpNZ0VRUWNRWXZhZ3VlLWlxR3l1YmRHSllZQlBFRGQ2N0w4dXFkdnhfalF0RmltTDdueVBWTzdidkl5VDkwZEV5WVdXM1d1dTkwYjIyeDNBMk5acU1MZUZ5TUNRWWxzQ25DakdWT3dTbU8wSl9ucEFpN1RrOEJRVDJJUU84UG1RM0FMbUtMUXNaclZfdHhQVUdOZE93QmYzSHRJMWNhbDJ3UllHaXJNOA?oc=5",
       "date": "2026-01-30",
-      "timestamp": "2026-01-30T07:42:00+00:00",
-      "summary": "NALCO Shares Tumble Ahead of Q3 Earnings Amidst Sector Weakness&nbsp;&nbsp;Whalesbook"
+      "timestamp": "2026-01-30T08:00:00+00:00",
+      "summary": "Nalco Profit Edges Up Amidst Rising Costs; Dividend Declared&nbsp;&nbsp;Whalesbook"
     },
     {
       "source": "Google News",
@@ -316,11 +276,51 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO Hits Record High on Robust Financials, Dividend Watch - Whalesbook",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVGp1dENiUE8yLXg3ZjFkRGpDMG5pTS0zVlAzRGs0UzN4anU3Z0stZzlQNF9mbEhHbXJkZ2phWXJURFVLTWRZUHNkZWprZnN1UHRfcGo1U050R2prZnNlVmtqZmdpQ0cwZ2NObVd3QzFlNUd6ZWJCcG80eHltYUFDQ2ZTcWVVMVFmY3ViOWFvdTc4ZHJ2blBhS1gwMjBPbWRjUFpfMGU3eUNXWTRSeWUxX0xLU3B4MlZWMFBsSlh3NXQ1T29lZVJXMHpZajQ3cUpPYjlidjVhXzJEbWV0Qzc1V3N3?oc=5",
+      "title": "NALCO Denies Green Power Capacity Talks, Confirms Renewable Energy Consultant Hiring - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV3J3ODJURTJuM08ySWJKbnhBX3hDdThpWURudFZDUElzNGpNc1kzT1dkY0k5MjM0TTI0MkFiTTdnTmFBbzRBc3FLTGlUV0JqemJQVFdGcVR6VGhtNm40U2dwWTZ2akdiUEJ0RzUzUlpheGRneHJmakNtVnBSaC03d2VzSTJSZFFKSko2R1pnUGhEOXc0N29EZVIzTS1oRGJyOWFVV0piM3paYno3N081cTEzRFlTcVVUS2xOc3pNMXBUTEpRZExCb1VTTkRkUDlJbkpN?oc=5",
       "date": "2026-01-27",
       "timestamp": "2026-01-27T08:00:00+00:00",
-      "summary": "NALCO Hits Record High on Robust Financials, Dividend Watch&nbsp;&nbsp;Whalesbook"
+      "summary": "NALCO Denies Green Power Capacity Talks, Confirms Renewable Energy Consultant Hiring&nbsp;&nbsp;scanx.trade"
+    },
+    {
+      "source": "Google News",
+      "title": "Nalco Accelerates Green Energy Drive With 200–300 MW Renewable Push - KalingaTV",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMVlaRTdDcmtaZXNzeG84VXcxR3h2NTRVaXRHZmRmQ1N3OVFFNi1lRW9CQjVWXzZPaFZObXNIVmpSZHRyREFGcG5wRWRrY0ExOXg2NWpNNmYzQVV1dmg5ZndqbHNVOXdiR0IwVG1VUlFJSzhrdXVnR2VqZ1djU2MzdlQ2dDVkUkF3NFEwUkJ2YVpFS19mMXFGZHE4R1k0UQ?oc=5",
+      "date": "2026-01-26",
+      "timestamp": "2026-01-26T08:00:00+00:00",
+      "summary": "Nalco Accelerates Green Energy Drive With 200–300 MW Renewable Push&nbsp;&nbsp;KalingaTV"
+    },
+    {
+      "source": "Google News",
+      "title": "Nalco eyes 200-300 MW green power capacity backed by battery storage for low-carbon aluminium - Daily Excelsior",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWlIWWhpd0EwSndBWHJOUG05UEYtaE9TV2djVlhaVjBxYVVpb1VfMFhXZUhGUmJudUNRM3p0YzZiNmJCdmlvWUNDRE5OTzVtX1V1YU5qcHFhSEtUQU1ySXFHak1lcnlvLWllS0VyYklRUzJJMUZrYVprWVg5OE1VeHBsRDRfUnR2T0hSSUVWVE1GREZnOFc5VVItazVCWHVDaU9CZl84WnpKbUo4R0pOT1JKaEZXSzViUEtXTDIyY0xaZWM?oc=5",
+      "date": "2026-01-25",
+      "timestamp": "2026-01-25T10:08:10+00:00",
+      "summary": "Nalco eyes 200-300 MW green power capacity backed by battery storage for low-carbon aluminium&nbsp;&nbsp;Daily Excelsior"
+    },
+    {
+      "source": "Google News",
+      "title": "Nalco Eyes Green Power Shift Amidst Cost Hurdles - Whalesbook",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSXo3Skl1LUZ6ZVp3bVhGeWhzeE1tTlV1N09CYWM5M21yZng4RC1PdThaTDJOVXJEMkxuWUxHdkVOczJzLUxmWnk3b084WThzSlFGNTEwbmdOYzNsZnVZRUJFZ3hLQkZkak9BaWxIZjlxMXdpVGRMdno4WUxBZEhBZE53N1h1OF8xbHBvUVU2dVBMa1E4Y2xKbjg4RHFaUzJXOWlTcmdKNnVMY25NcHhsa2U4M1g0elRvQW1ncmVEaEtKRnBfOUhfbWdOd082aXhZTEdmaA?oc=5",
+      "date": "2026-01-25",
+      "timestamp": "2026-01-25T08:00:00+00:00",
+      "summary": "Nalco Eyes Green Power Shift Amidst Cost Hurdles&nbsp;&nbsp;Whalesbook"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO Board to Consider Second Interim Dividend for FY 2025-26 - PSU Connect",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPckRmSFJKeXpOMXd1TW93Z1JlWldHZjUwRDRuUlpFQTQ2dGpwc3lMTGRBcHhwZHQ0LXkxaWxScTNaeVhkcjVUZExFUDV2TENqMEo2aVduaFpzRDJ6NFRyQWJRaVdZbTVtdE1tUFphY3hjVXZsRXhuSUp2cGp2ZkNpTFBWdFFNRHVneGJ6akhyREhMMjBqcHVPN3RaN3Mwa3M?oc=5",
+      "date": "2026-01-23",
+      "timestamp": "2026-01-23T08:00:00+00:00",
+      "summary": "NALCO Board to Consider Second Interim Dividend for FY 2025-26&nbsp;&nbsp;PSU Connect"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO Board Meeting Scheduled for January 30, 2026 to Consider Second Interim Dividend for FY2025-26 - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY1ZNYmlYY2hqNWtiZnZIRWgwQzFLSFFva3Jib245N2JnSVU4OHFBNTZvZkNOLTF6Y2xCU056UkR5UWJ3UFFDUXhEMTlmeFRmeHZPOURhZWJvVFQ4SUg2TWlBeU1Xclc1S3V1LWVmY05Tc0RuZDJrUU9pTWlucDJ5SGNWS2tFcDJKTnJ4aDdOaC0wZHUybF9zMDNkNGdLVEpOcklRWlR1d0Z3ZmFBU3hucUZXRHMtTEJreEVKdzFEempwLTJiMndLT1dMWUxHMzRiS3UtdEZORHJiUnIxcHA0Zk9aUmVIQkFhZ0lXRDMxRlFwbTFmUzAw?oc=5",
+      "date": "2026-01-22",
+      "timestamp": "2026-01-22T08:00:00+00:00",
+      "summary": "NALCO Board Meeting Scheduled for January 30, 2026 to Consider Second Interim Dividend for FY2025-26&nbsp;&nbsp;scanx.trade"
     }
   ]
 }
