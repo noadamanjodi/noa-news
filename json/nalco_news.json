@@ -1,15 +1,7 @@
 {
-  "updated_at": "2026-04-08T17:07:20.415737Z",
+  "updated_at": "2026-04-08T20:49:44.661579Z",
   "count": 40,
   "items": [
-    {
-      "source": "Google News",
-      "title": "RITES Gains ₹39 Crore Boost on NALCO Railway Contract - Whalesbook",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVXFwb2YzWDU4RzBRNnl6dV9jWi1fb0dyTmlQdW02SlZXZFdHclNkWXhNaXhtdkRTYVFWbkI0UHY1SGswZDVNSTllSnVTXzVXNnZVRHJPTk02QWlpOHhEbEFqbkl6bG9kMVJYc2pHb2lyNjNIU2U1YkQwYXRObDhtcDZ6UHFmaHFZYkhvRl91RFIzRExIaFpiNkVhb3FZNUpzdHV3MnpNeWVzTENMUVZkSEFqTFA0MGtpMlozcHg1amYwamd1WDFlNlhQUGFJb0UtY2EyS1pJMVFjSXRUakJ0eFNMRUk3ekxCWWc?oc=5",
-      "date": "2026-04-08",
-      "timestamp": "2026-04-08T14:19:14+00:00",
-      "summary": "RITES Gains ₹39 Crore Boost on NALCO Railway Contract&nbsp;&nbsp;Whalesbook"
-    },
     {
       "source": "Google News",
       "title": "RITES Gets order of Rs 119 Crore for NALCO Railway Siding Project - PSU Connect",
@@ -20,11 +12,11 @@
     },
     {
       "source": "Google News",
-      "title": "RITES Secures Major Order Enhancement for NALCO Railway Siding Project - investywise.com",
+      "title": "RITES Secures Major Order Enhancement for NALCO Railway Siding Project - InvestyWise",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KZ1pRTHJGM0syNDIxQ3A4RkxzS0xucXdsRmxwZVJfLWxGQnFxaHc0RUw3WWRQWkNXMUdlNjhhNmVnRzBGVGpEZkw0LXhvWF81bUNFZHQyaDJiLXRNZm5INE5HZFVoajRJamxpZm42c3Nidw?oc=5",
       "date": "2026-04-08",
       "timestamp": "2026-04-08T13:19:58+00:00",
-      "summary": "RITES Secures Major Order Enhancement for NALCO Railway Siding Project&nbsp;&nbsp;investywise.com"
+      "summary": "RITES Secures Major Order Enhancement for NALCO Railway Siding Project&nbsp;&nbsp;InvestyWise"
     },
     {
       "source": "Google News",
@@ -33,6 +25,14 @@
       "date": "2026-04-08",
       "timestamp": "2026-04-08T11:51:43+00:00",
       "summary": "NALCO Submits SEBI Compliance Certificate for Q4 FY26 Dematerialization Process&nbsp;&nbsp;scanx.trade"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO Hosts All India Public Sector Badminton Tournament in Bhubaneswar - OdishaPlus",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdzFzU1dlM0I1WFdmbW1NS09OT3Q5Q0RoOGhQY3dheHdFQi1mT2FhbmFIMEpQOTRlUVNkZExmQUZBVzh4ZE00dklvb0NWS3pIZWR2Z1ZvSWRWZ2RwdjExc2RlUEY4ZWZYYkQ0MWdXOFctakliSFFSYW53UUtXNDRFS24zZGQxd2tvUDFoQXU5UQ?oc=5",
+      "date": "2026-04-08",
+      "timestamp": "2026-04-08T08:50:43+00:00",
+      "summary": "NALCO Hosts All India Public Sector Badminton Tournament in Bhubaneswar&nbsp;&nbsp;OdishaPlus"
     },
     {
       "source": "Google News",
@@ -68,19 +68,19 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO Sets Record Performance in FY26, Achieves Highest-Ever Production and Sales - odisha.plus",
+      "title": "NALCO Sets Record Performance in FY26, Achieves Highest-Ever Production and Sales - OdishaPlus",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaHk1aEhhZ0lhTEVFYkVvZDk5aEMtV2g0bmNmSkxkUkpURmNibW9CcXFNNTJoSDZJeV9PUFdFTnZmek0xalRCVjlJRHVuRFZSLXV5aVhRUnNIWXdRYlJmT191cXdCSVkzbXN1X0VHc1J1UUNVUHl0ZkVfVm1UVUlwcw?oc=5",
       "date": "2026-04-06",
       "timestamp": "2026-04-06T08:09:52+00:00",
-      "summary": "NALCO Sets Record Performance in FY26, Achieves Highest-Ever Production and Sales&nbsp;&nbsp;odisha.plus"
+      "summary": "NALCO Sets Record Performance in FY26, Achieves Highest-Ever Production and Sales&nbsp;&nbsp;OdishaPlus"
     },
     {
       "source": "Google News",
-      "title": "HCL Tech, BEL, Nalco, SAIL among top 8 short term trading ideas for up to 15% upside - businesstoday.in",
+      "title": "HCL Tech, BEL, Nalco, SAIL among top 8 short term trading ideas for up to 15% upside - Business Today",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaFZzSE85M3lYQTJJcFFoVVlhWWZ1NzBqTEhIZUtya2J5blBFY2pHX2RtcDVqTWZSaGxHQWlLaWJvTG9hbmtiRnc1Y203Ynk0emJHZkNtUUdiRzYwd3BWVnNIUFgyUFhHa3Q5OS1YeXVrOEdLTUFDR01sOXEtSWxkMERiY2R4c2JCaXhnOHI2bG5GSHp6Sll5LWM5T1ZFLXdUUmc0QTMyX2xqN214ZUM1S1VtRVIzU0ppd3ZDc25jLTAtLWpTU0xndWtaTHBQWU1BRnpMX09QR0M0aUpKYlZDeE1n0gHnAUFVX3lxTE00UGF3OXJEVjAyeTB3ZjFuMWhMWkd5WGRkV21NaTZ6YjN3Ul9Nb0dXVGMtcXZWbTVJMGdGbDNVY1hKTzBwYmNOQzZ4TDczbjRkMXF5ODJkZTlMcm94My1WeDJIano1MEJNR2VyQnhwQzhydWR0YzJ2VGdNUkExTGdzUGV1YjFaMGJncWpOUlhaWWV2ZTFXMzJPQnRYUm43Skp5M3VWeGt1eEZGSm80SkdubnVqZjhRV1JfdER2UVZEajFnM2J6dUJLMGRINHN3T29ac3Y5bEZIRng4aUlOWWNqZUpYOFBOdw?oc=5",
       "date": "2026-04-06",
       "timestamp": "2026-04-06T04:03:29+00:00",
-      "summary": "HCL Tech, BEL, Nalco, SAIL among top 8 short term trading ideas for up to 15% upside&nbsp;&nbsp;businesstoday.in"
+      "summary": "HCL Tech, BEL, Nalco, SAIL among top 8 short term trading ideas for up to 15% upside&nbsp;&nbsp;Business Today"
     },
     {
       "source": "Google News",
@@ -140,11 +140,11 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO posts record production, sales surpassing 40-year history - PSU Watch",
+      "title": "NALCO posts record production, sales surpassing 40-year history - psuwatch.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeHFCdlhSLVplZVoyakxfRnZSdHpoNXFIM1JodkN4aXhEZ2dSeTVwakFJeFdXTkxtN1J1eEQ5V2l5UC02TWp6TlBkdnB5bFByeXYyLXJTNWdjWVUwRWdoNkRvekJ1RU55c2lpTkxNY1ZneGVpazRNWVZMUGFPaEo3ZlQ4cjJsbXV2Y0Zhdk1famNsdU5sMFN1S3J3QdIBqAFBVV95cUxQZnJOYWF4Nk4tMm5EdDVUYzg1SXBqWVVNbGJ2eFF4NHBYMnAxWFpBcFJDNF9VQjZ1aG5RSUpLZy1mRHNnMWNxSm9Hd2dJODdRejhFSUVwV2RCN2ZxZUJhMldfTWRIa3hKd3hLeC1uY2tqSjZFWk9uOUNEZ09mc0Y0cHZ4NzRzR3dSb1VCODhJSzl1YXdSVFpHb1JtQThMUllsXzZkbzJ0TUI?oc=5",
       "date": "2026-04-02",
       "timestamp": "2026-04-02T18:21:03+00:00",
-      "summary": "NALCO posts record production, sales surpassing 40-year history&nbsp;&nbsp;PSU Watch"
+      "summary": "NALCO posts record production, sales surpassing 40-year history&nbsp;&nbsp;psuwatch.com"
     },
     {
       "source": "Google News",
@@ -204,11 +204,11 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO Intimation Regarding Cessation of Tenure for Three Independent Directors Effective March 31, 2026 - investywise.com",
+      "title": "NALCO Intimation Regarding Cessation of Tenure for Three Independent Directors Effective March 31, 2026 - InvestyWise",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd04wVWZqMFZpVC1EV291c3lPaUtkUTFGaW5pWDN0VGg0V3V4Mk9BeGdId2dlVjN5X3NFUnJycW02bzI1TGZSckxCdG9LUzBBSlhicEdWaTktOEdUS3Q1NXE4NDlWUDBaYkRNWHVCWmlGR2s4amJ0RWk4bDBSNFYwQjVvQlkwdw?oc=5",
       "date": "2026-03-31",
       "timestamp": "2026-03-31T13:34:06+00:00",
-      "summary": "NALCO Intimation Regarding Cessation of Tenure for Three Independent Directors Effective March 31, 2026&nbsp;&nbsp;investywise.com"
+      "summary": "NALCO Intimation Regarding Cessation of Tenure for Three Independent Directors Effective March 31, 2026&nbsp;&nbsp;InvestyWise"
     },
     {
       "source": "Google News",
@@ -225,14 +225,6 @@
       "date": "2026-03-30",
       "timestamp": "2026-03-30T09:10:33+00:00",
       "summary": "Buy, Sell Or Hold: HDFC Bank, NALCO, Shriram Finance, Lodha, Tata Tech, Suzlon, Colgate, And More — Ask Profit&nbsp;&nbsp;NDTV Profit"
-    },
-    {
-      "source": "Google News",
-      "title": "Vedanta shares gain alongside Hindalco, Nalco as aluminium stocks rise after supply risks lift prices - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdk5PbjJXMjhCVHJBMktFQ25YQkRyc2dmNnZrOEQwQ29VeHlySkFJV28tbFFkejZ2emxWSEhwSU11NUhvem1ZOVdMRkV1cm9ISWRFUjNfUG40RlNjTzdDU2x0eHJkYjNTODVhaHFPY0NvSDhWckNtQkdMTlVSTUEzMXFpZl9PdDFBcmFrTml1aTduc2JnXzY0dG56d2JiVTBCeWFpbEJwNURBWG02ckk3bi1FSklBUXdUVGZRb2tyMVVLYnR3UldpLTU3eDFyaDhIWUEzb3psSF90M05yYnl6dTZGLTFudWc?oc=5",
-      "date": "2026-03-30",
-      "timestamp": "2026-03-30T08:17:55+00:00",
-      "summary": "Vedanta shares gain alongside Hindalco, Nalco as aluminium stocks rise after supply risks lift prices&nbsp;&nbsp;MSN"
     },
     {
       "source": "Google News",
@@ -260,14 +252,6 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO CMD Reviews Koraput Expansion, Emphasizes Timelines and Quality - PSU Connect",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPczd2RXRrSEs4VlZRRWV0bEdpRGdOX3VOMWk2Z2plZF9lb003RldJZmlFWURtMHEyTW5nZWd4MDFKajJicWpLR1paeEozNHpIYnlJR1VUWGs0X1I1bjFzYnJxY3dBXzE1QmJManBZWjRnTC1ZMXVHTVRkYW1HTTlSVW1mRXBOZWY5eVEwbV8wYlV6VUlUTU90S2laMThMYmxGU0hZSWRR?oc=5",
-      "date": "2026-03-23",
-      "timestamp": "2026-03-23T07:00:00+00:00",
-      "summary": "NALCO CMD Reviews Koraput Expansion, Emphasizes Timelines and Quality&nbsp;&nbsp;PSU Connect"
-    },
-    {
-      "source": "Google News",
       "title": "NALCO Trading Window Closed from April 1: What Investors Must Know Ahead of Q4 Results - PSU Connect",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdjc5SmVKb3lqSjVER3R1UF96NjJZSERkS3RGcHpyN2k1QTFqZFJia3V6TVJmNjBkWnFycTNCSWNRU2lWVU92aTdqZWVBOXV0MkdJRGE1blFHSkx3blhQMGJib1AtMEtQNVJ5T285NVltZ0xObnAtNDhXc1hiMldod2ZqZGRYVzktWXJMV2xacklpYWdSZFp2cmhnMDNQR1VYa0JrTUFlV1VTb25pNncyM0c2Uk0tcHVLdUNHWlNB?oc=5",
       "date": "2026-03-23",
@@ -284,11 +268,11 @@
     },
     {
       "source": "Google News",
-      "title": "Waaree Energies, Vedanta, Nalco: How to trade these 3 buzzing stocks - businesstoday.in",
+      "title": "Waaree Energies, Vedanta, Nalco: How to trade these 3 buzzing stocks - Business Today",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV2pzRml2SVo5Qm1WYWY5WXRKZTM4YUU3ai02c3FtUDZaV3JKRk1sMTF5bEF6R2dkbTZtaFZCMFF3RTc5eTN2VW5XamRjbFFhVkEzdmNlcWlwYmtBMVlHRDgxWmJpc255RXJmcWpESEQyeER6T3E5dVE3NnBuVXlBbHEwQW84bUF5MEszS0lkTnNZbnYwblZZS1h1RU1wWURDeE9ZTzZTLVF1MUJQTlhNZTJCdm1DbW9ESnlTODZPSnNyN2FFZUhkYVBUa3RPd9IB0wFBVV95cUxQdnc0b1VXOEJXUmowM0pUMnVrZ0NwWkhTR2VfaGVod1h0Vi1LdFFBNDhRYlRvWmZSMU8zWXRPUkVpTE0tcWRnSl9OM0QzSXRTUDdjYUJHcGlFQUk5RW13UFluRzZFdFktaUNwSjFSeHVHa3NxczYzeFFsX3BCYXA2dGhwV3ZRaFFvcFd5OHI2eWRlcHp0R3hORk1VMHhqck8xeXpjb3c2TkpyV2NTazlqUmQwUGMwWGJXUmQyeDUzaUdWdzhwWVpYcWMxaGpSNUczQmxz?oc=5",
       "date": "2026-03-19",
       "timestamp": "2026-03-19T07:00:00+00:00",
-      "summary": "Waaree Energies, Vedanta, Nalco: How to trade these 3 buzzing stocks&nbsp;&nbsp;businesstoday.in"
+      "summary": "Waaree Energies, Vedanta, Nalco: How to trade these 3 buzzing stocks&nbsp;&nbsp;Business Today"
     },
     {
       "source": "Google News",
@@ -321,6 +305,22 @@
       "date": "2026-03-10",
       "timestamp": "2026-03-10T07:00:00+00:00",
       "summary": "Nalco gets an aluminium price boost, but other worries could limit gains&nbsp;&nbsp;Mint"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO's Rs 30,000 cr expansion plan: CPSE urges Odisha govt to speed up land handover - Odisha TV",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHBwaXJNQms5ZFRVMFNqVFRZcHd6QnVyenF0ZktyU0NNR3JudF9nZE1PY1dWODVVTWlfVFdsUmpmbk9QdDdLaDJDcTdOTUVGV3hQc2F0VUJjMEg5S1NJUWh3YUJqdXZXSHI0Sm1xOUdEQU44ekhIQ3FYMmVVb1Q0aVlNQ29OSTZhVUNKMFh2SHV5VVBlNEpEWWRvbjRjTXdYOGV5dm5teDVNeXN4S0NFRzFENU5lWFNIT1HSAb8BQVVfeXFMUHdRRy1KR1B6eDZWZ0NqZlhRV3ljNXV6WGVrcTdnNXJVTUtHTEFRQWtnTWFfN1JtazRLakUyWmxRNkVjQTFNNHBfeVVFd0w0ZHRrWTdxUE8ybEdCa25CVHRLUElzLVVOSTg4TzUtQ2JKMDV0d09qVWw2cFg5V1R2UnFtYUplLUMzRmhXekJoWVVmcDBPb2NGMEV3V052cHVTdDFSV3RUZnREV1k5OHB2bXgwenN6UUJ5N3VoMmI3MGM?oc=5",
+      "date": "2026-03-10",
+      "timestamp": "2026-03-10T07:00:00+00:00",
+      "summary": "NALCO's Rs 30,000 cr expansion plan: CPSE urges Odisha govt to speed up land handover&nbsp;&nbsp;Odisha TV"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO shares surge 18% in 8 days amid West Asia disruptions and firm aluminium prices - alcircle",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEx6bHVXR2QtZVFYTkVKVmFjZkxGNHFZV0RRVWd1enFWU3ZlQ0Q1UU5la2ljcmVhTHkzTEc3bm5MNFdLS3Q3S1B4a0tmT050cTdPbWtRM0xqNVlBalhqeEdERlF1QjF6bUtuSmFrS2lqbmpFX05qZGw5WWoyV2ZEV0lWdkFKcVh0ODVrWkhSZWszSFA0cG9sbkh5dzZsSi1HVll3YzlKVHlGbWZPRVkxVjRlWjFaRjF4RkJkQg?oc=5",
+      "date": "2026-03-07",
+      "timestamp": "2026-03-07T08:00:00+00:00",
+      "summary": "NALCO shares surge 18% in 8 days amid West Asia disruptions and firm aluminium prices&nbsp;&nbsp;alcircle"
     }
   ]
 }
