@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-22T21:14:44.992398Z",
+  "updated_at": "2026-05-23T03:33:30.518771Z",
   "count": 40,
   "items": [
+    {
+      "source": "Google News",
+      "title": "MSCI rejig: Adani Energy, Nalco, MCX shares in; RVNL, Kalyan, Hyundai, SBI Card out - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdU54cHlWZGVjN1h2VDUtcUFQUkNydXFZMUFCY2Z4ZU5KbTNIbmpzVC1xTm8xVGtPSWJIb0NKWHVBeFAwOEhfZ2VNc29aemRVR3hOUnZRRzhQR1JXeVprR3RNTlZ2ak9vU01MWHhPU1pRNHdtMEVhdWpUZ3VFdlkwbFVoY1cwX2tieEg2SGFuNVZxMGxsdmxFb2gzZTB6R2ZELW9SWEVWZEd3Q0ttWFUwTHpJLWNtOU42ZUtONXNPeVVFV3cxaC1nbVpRZw?oc=5",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T09:59:19+00:00",
+      "summary": "MSCI rejig: Adani Energy, Nalco, MCX shares in; RVNL, Kalyan, Hyundai, SBI Card out&nbsp;&nbsp;MSN"
+    },
     {
       "source": "Google News",
       "title": "NALCO reports governance compliance challenges in FY2026 secretarial review - alcircle",
@@ -12,16 +20,8 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO Recruitment 2026: Online Application Commenced For 268 Non-Executive Posts, Check Eligibility And Other Details - Jagran Josh",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaE55Ym1YOEtIV0VGV1MzcWtmVjBLMjNzaXdBNEF2SzVueUx1NkliUHZ1VVdSd04yRGJSVG43RXg3Y3VITl9TNGI4RDVOaUxiZ0xWbFVSREM5Q3g5VFZqMXdERWJZWWhBcmFUb0dncENzR1lBTk9WQk1jWXEzMUt3S3FxWmY4V0w4bnJDQXZjNkxmaTNnQ1lKU3J0TWtPay1vUWY0b1g0cnA4bEtWMEFMcFR0dHo0UHMydXBBdElqS2R4QQ?oc=5",
-      "date": "2026-05-18",
-      "timestamp": "2026-05-18T02:59:23+00:00",
-      "summary": "NALCO Recruitment 2026: Online Application Commenced For 268 Non-Executive Posts, Check Eligibility And Other Details&nbsp;&nbsp;Jagran Josh"
-    },
-    {
-      "source": "Google News",
       "title": "NALCO Recruitment 2026: 268 Non-Executive Jobs Announced at Damanjodi M&R Complex - PSU Connect",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXY1RnI5d3BsQ3VPVjh6a1VIMXhrS3Ntb2QzUklSS05reVZteTMxeEZIOVFSV25NWkx5WUotbzZ2Rm5TckNZRnppOW9qTjZIMmVhNXQwRFFQTzdJTDBSYlFhcld5OEhXa2JXZDdobnhNZDdnV1h0bEVZQ2drY1prRE5qNF9zWF9TTWZrbDJEMmxaQmVfWEhlNFUzUHYtdU5kM0dsS3QxSnBVbDRyQzNv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUJBOUlfOW5BWHZud0UzQ1c3dVAwVWdhYUJ6RzluRHRUTTREQkVQWXk5S2RDbEROLXFMVHIzbWpidHJJUGxFdjJnbTVENnF2c25mOXAxVG1taFZZZXEydUJpN3ZndVBUMHUxX2ZVR3VqQ2NGcTNHQVhpY3BpWlhZUl9UcEVqZ2NyRlk3UzNtTmdYd1djTHFKX3h6Q1VLOVRwVnNqelMxRnREbTlaVmdZ?oc=5",
       "date": "2026-05-16",
       "timestamp": "2026-05-16T12:09:00+00:00",
       "summary": "NALCO Recruitment 2026: 268 Non-Executive Jobs Announced at Damanjodi M&R Complex&nbsp;&nbsp;PSU Connect"
@@ -100,22 +100,6 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO Share Price: Emkay maintains ‘Reduce’ rating after Q4 profit falls - Check latest target price - ET Now",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOEZWcEtNR3FRMzRuT0o0RXdyLW9DX3RVODdKR2pSY3RGemYtSUZHZHBvVjdKc0oxS01NT0xoOEtCNDdHRnlOQ3BhMEp3b2Etamw1Skp5NFROYzlOZVc1cDZtVmprdXJsRV9Pc25DeW1CYUpUNExwVmpKRE9CdGRoVDVSSFlDaC1fSTAzRW1wangwaHB4QV9LMGxqSC1DVmhXQWVtRWk1R0xXNHBnSENYX0dvU1Z5Q3BxNnZIRzdRUm1adlBCUlZ5eWFEaVRHVXVmdEMyLVkwRXlKQUhFVjA2LdIB5gFBVV95cUxNUHFDTmVyaGw4TlhNRERaWlVHYjFhUndDWV9EdkR6N2pjZzhFeDZkam5ZdDN6TkZDZDlaeXhBMlVtTjIzOUk5TzZpd3hza2FqOEpkSlFxZkNMcDNOVXVzZVVZQXA2d2RLOXlzcjRxZ3d0VFZJQ0RmY2paZ0NMRjRFNnlEMEtCdTVOdkl1VlpTZXJXaXRYV0dYZkRnNVpleUFfb05uQWR0dm43c1lRZ3BOd183Y0ZoSHdCODRYTXVYSTM4Y2lsQy1xd29LWTloRDN3NjlVY01ZbnNTazJUV2lBaEtwVENfZw?oc=5",
-      "date": "2026-05-01",
-      "timestamp": "2026-05-01T07:00:00+00:00",
-      "summary": "NALCO Share Price: Emkay maintains ‘Reduce’ rating after Q4 profit falls - Check latest target price&nbsp;&nbsp;ET Now"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO Q4 Standalone Net Profit at ₹1,718 Cr; Declares 3rd Interim Dividend of ₹2 Per Share, Total FY26 Dividend at ₹10.50 - PSU Connect",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNDJ5cnUtVUUtbm1sNjR4UUlUeHBZMnJCdGdsTUlxLTVsOFk0SC1sd01SSkdUUzF6b1NpbGpBTllJNGFWMVp0aExUdmVOOHNHX0JmNjRWak1WWU9zOWx4eEFIb1E4d1Q1dzJDWTFqXzExNGxGVnhieENsUHBNVjB6dWZ0amNZdnNSM3o4WDhrSERfQ0xZaWp5azByZVlFdy1YdHUzb0VJSG41eXllTXBocTlOd2ZaRVVvdElkT3ZnMFk?oc=5",
-      "date": "2026-04-30",
-      "timestamp": "2026-04-30T07:00:00+00:00",
-      "summary": "NALCO Q4 Standalone Net Profit at ₹1,718 Cr; Declares 3rd Interim Dividend of ₹2 Per Share, Total FY26 Dividend at ₹10.50&nbsp;&nbsp;PSU Connect"
-    },
-    {
-      "source": "Google News",
       "title": "NALCO to decide on interim dividend in its upcoming board meeting, potentially shifting fully to digital payouts - alcircle",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ19KNWVlblV1UkRMM2F0N3MxVXZQd2ZJNUVreEJ4elZETDRocUpVNWlSZzVreno1S1dYVnp3VGFSMEJQbGJEdVRMcVlOckx4eDVHNDZpakNMX0tBZ2ptdGhqS1NaVF9ULUZOcG9nTFV0cnlSUVlFXzZjQ0lrZFdCaGJ4UDdzSzdDVXhBejk3OXVNbzliY2lsVGtnb0ctU25OWVJHUHVENTZqTzlsQ29mRzJaaUg2VThNenVEYkIxV20tdFBqdE5GcWs3U2RielVpdTFmY0hHaTNaQ0lDMlNWXw?oc=5",
       "date": "2026-04-30",
@@ -169,14 +153,6 @@
       "date": "2026-04-29",
       "timestamp": "2026-04-29T07:00:00+00:00",
       "summary": "NALCO Clarifies Large Corporate Status for Debt Securities&nbsp;&nbsp;InvestyWise"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO Confirms: Not a 'Large Corporate' Under SEBI Debt Rules - Whalesbook",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUXQ1NnpwbWpybUtVVWpoQnJBQ0RFNVJsXzFnSkpuaEdEQUpPcXRnWjBVWWkwWmx1YmVOQ1hZMWpRTUNZOHJnOTdUMkY3NktublJFVHU2cnhMWjZsLVdqRjlKTmVadnQxZGQ4eUVTWE0wUzFJbkQ5SlZtem9Zb0xJYldoUzk1Z2tUbXg3MkFXQ3pCX245VHowYXBrNHBDTXVEN3dPa2llS0d0VWprRFI0X0x3V2RCOHhjbVlMa2xlRmpGR1RhdXFMTHhQcDY1ZGl2WWZ6aGZXLVVwRTFtWmNMTEFZRnVmRWtUVVBjRzgtRQ?oc=5",
-      "date": "2026-04-29",
-      "timestamp": "2026-04-29T07:00:00+00:00",
-      "summary": "NALCO Confirms: Not a 'Large Corporate' Under SEBI Debt Rules&nbsp;&nbsp;Whalesbook"
     },
     {
       "source": "NALCO Press Release",
@@ -316,11 +292,35 @@
     },
     {
       "source": "Google News",
+      "title": "Vedanta Shares Gain Alongside Hindalco, Nalco As Aluminium Stocks Rise After Supply Risks Lift Prices - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa0t3dElqWmRONm94SnRncTdGRVdKOVFNVTEtRlhqZkRzS2dwRVB0YXBwOXN5UjQyWFAwRm41UTRTc0JwTDBLeElzN3FoZjFJRm5pUk1OVDRtT3hjY1dQYTMxcnB6QVRHbUVpdGxUa2FNMWxDTGV5T0RPZF8yYnh1MzNpNGstckN0NUFxVjc2OV9MaGRseWJNaUFHcENUcXVFWHBBZ2FuTXNHb2VHM0lmcGlYZi1kekJuWC1uQ3F1bjU4NDNKUHJDdEFfRdIB0wFBVV95cUxNS1dadUhfWHNEUVVFUHB3cVZxUTBzbVp6X3I1T1JIMUM2dTVLV3NYWVJsaWI3V1JJU18xZElncU5JdkgzUERVR3VlMVNiQnFaVXRNM092VmVvY0JhQWYyWkV0bG05YTBPS0RyaWt1Z0ZNSTByWW5lenJrUmxfczNhT193eVBPN3R2bldxaTVsUk5CZUJYWHdXZjUxMGo3M19tTG8yUHkwY3ZMMGMyS2FfVWM1X0hYSzhjQVFxbGRkaUVLeW03aXNvZzVxa3VyMzdyTFNF?oc=5",
+      "date": "2026-03-30",
+      "timestamp": "2026-03-30T07:00:00+00:00",
+      "summary": "Vedanta Shares Gain Alongside Hindalco, Nalco As Aluminium Stocks Rise After Supply Risks Lift Prices&nbsp;&nbsp;NDTV Profit"
+    },
+    {
+      "source": "Google News",
       "title": "Hindalco, NALCO, Vedanta: Aluminium stocks rally over 5% as West Asia conflict damages key production facilities in UAE, Bahrain - Upstox",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdmJ6QjFGOGg4S0RRakQ5SGQ2eFc5ZTZqOTMwTWppaHg0Uy1kUFFWNUVxcm9vZWgzWjJqMEJfeGhaMWxHMG8zcm5vVE9ra25teGhiVHhWRUdJcHVCRmRTaEJIVlNlTE94VDVjckxPUnM3elh0YzltY2VUVEt1b1FCejRYNDJlVktOdFF2aS00VHZvZWpDb0FaREdkZkNxZE84UTdXb3RGMXdtM0luR1Brck0wbU0temtRT3ZudkdfWW44QVV0RHp5N2ZQbjBZd050dVFRWlI0VWVwWXRSTEFuRmpXeFNqVjJuR0h5OWpVVkZxMERfVkRsTFY0ZUFPeGRBbi04aXd5QTR5Zw?oc=5",
       "date": "2026-03-29",
       "timestamp": "2026-03-29T07:00:00+00:00",
       "summary": "Hindalco, NALCO, Vedanta: Aluminium stocks rally over 5% as West Asia conflict damages key production facilities in UAE, Bahrain&nbsp;&nbsp;Upstox"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO’s brownfield project hearing faces local opposition; company assures review of land acquisition policy - alcircle",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWlJiTWE5ZHNfNERYaGtiMVZGM1lZZVdKU0JGNWQxU3M0TnBJb1A3WVJDSk5pdjB6d0x2VmtQV0tpamFsRHZZWkRJM09ST25Ha1JBMjJZc2pIcnZWNjRjNkQySjFxUmF2cUFZNG5vZVJqWG1LXzFPaGZDNkhMUndLVkxUZFhLRjQ1b0pUd1RyZ1Vxc1VQMXp1NFFPdnNyWkJjamRiMTBnTHlyZEc2cmdqR1VWYTNOald2Ui1tTDlDZGFHZ3luQ2RGWUVqSnFBd291NUpmeWU4bHZSZw?oc=5",
+      "date": "2026-03-27",
+      "timestamp": "2026-03-27T07:00:00+00:00",
+      "summary": "NALCO’s brownfield project hearing faces local opposition; company assures review of land acquisition policy&nbsp;&nbsp;alcircle"
+    },
+    {
+      "source": "NALCO Press Release",
+      "title": "NALCO Organises Assistive Device Distribution Camp for Divyangjan at Bhubaneswar",
+      "url": "https://nalcoindia.com/pre-rel/nalco-organises-assistive-device-distribution-camp-for-divyangjan-at-bhubaneswar/",
+      "date": "2026-03-21",
+      "timestamp": "2026-03-21T00:00:00",
+      "summary": "You are being redirected to the external website. Are you sure?"
     }
   ]
 }
