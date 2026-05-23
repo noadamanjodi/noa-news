@@ -1,15 +1,7 @@
 {
-  "updated_at": "2026-05-23T03:33:30.518771Z",
+  "updated_at": "2026-05-23T06:36:00.391445Z",
   "count": 40,
   "items": [
-    {
-      "source": "Google News",
-      "title": "MSCI rejig: Adani Energy, Nalco, MCX shares in; RVNL, Kalyan, Hyundai, SBI Card out - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdU54cHlWZGVjN1h2VDUtcUFQUkNydXFZMUFCY2Z4ZU5KbTNIbmpzVC1xTm8xVGtPSWJIb0NKWHVBeFAwOEhfZ2VNc29aemRVR3hOUnZRRzhQR1JXeVprR3RNTlZ2ak9vU01MWHhPU1pRNHdtMEVhdWpUZ3VFdlkwbFVoY1cwX2tieEg2SGFuNVZxMGxsdmxFb2gzZTB6R2ZELW9SWEVWZEd3Q0ttWFUwTHpJLWNtOU42ZUtONXNPeVVFV3cxaC1nbVpRZw?oc=5",
-      "date": "2026-05-22",
-      "timestamp": "2026-05-22T09:59:19+00:00",
-      "summary": "MSCI rejig: Adani Energy, Nalco, MCX shares in; RVNL, Kalyan, Hyundai, SBI Card out&nbsp;&nbsp;MSN"
-    },
     {
       "source": "Google News",
       "title": "NALCO reports governance compliance challenges in FY2026 secretarial review - alcircle",
@@ -17,6 +9,14 @@
       "date": "2026-05-21",
       "timestamp": "2026-05-21T09:17:08+00:00",
       "summary": "NALCO reports governance compliance challenges in FY2026 secretarial review&nbsp;&nbsp;alcircle"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO Jobs 2026: 268 Non-Executive Vacancies Announced, Salary Up to Rs 1.15 Lakh Per Month - Dailyhunt",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPMHp1VHZKbU84U0NINldzamlDdFNkdDJsTFotUEVTekFVa0tBNmtFU3RUX0hpZ3B3YV9fYWk3Smh2emlzbjUzR0YzTE1xSWZnUVpBMnNjdUdkR1NncHRmVmdNd2N2bTgybnFSc3BLUGVUY3hxdnNYeDA4R0hMTnRCSkF4eXVuMjVBOF9pdHo0YXVxNDdaZ1dOelZoS3BkZlF2MzlhLTZWa3lNUzFqd0JPN05PZTJ3WFlnZFV6WnAtdV9FaElqOEpLQzBDQVk3R3ZxOGE0UnBfSThjWUp6Zkdsc2JzX0hrVWtLUi1adkhBY2xhM1lqRnQ1VGo4MmNha0R1RDM4bW8yQmstMnVPU2lYT2x3dTk5cTA?oc=5",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T14:58:15+00:00",
+      "summary": "NALCO Jobs 2026: 268 Non-Executive Vacancies Announced, Salary Up to Rs 1.15 Lakh Per Month&nbsp;&nbsp;Dailyhunt"
     },
     {
       "source": "Google News",
@@ -52,14 +52,6 @@
     },
     {
       "source": "Google News",
-      "title": "Nalco's alumina exports to West Asia affected due to geopolitical tensions, says CMD - Dailyhunt",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZnc0MFZ2c1ZDWFV1WU9QRTVLYkI4VU52X3FOcGRiajdoc0JiRUFXMXdCUy1VX2RYR2tVYUNVR2dJZTJnS0lfcHpoeHlUSzdCYWR1eHhEOWEybVVhcGRaMGFwdFhZVjRhMFV3MVpLZnBjMl9IYnFhRVVBNzVOSy1GYmZUVmFmRWRUQzlUTWRBVnc0clRhVnY4czhoV29JbXNPQzNTSW50cmliWlRkbXhEZS13NU1kVHEwczBSN0pmMzJnUlNMQ0dHQmhzdVZHNnkzRG1pNGxYM2tPaF95S1NxcW9vcmFjamNBNy1wdFRJM3l4WkZWcDczbjI0bE9RaWJja1N6eg?oc=5",
-      "date": "2026-05-09",
-      "timestamp": "2026-05-09T07:00:00+00:00",
-      "summary": "Nalco's alumina exports to West Asia affected due to geopolitical tensions, says CMD&nbsp;&nbsp;Dailyhunt"
-    },
-    {
-      "source": "Google News",
       "title": "NALCO Share Price: Emkay maintains 'Reduce' rating after Q4 profit falls - Check latest target price - Dailyhunt",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxObGVzZzRSUjZ2VUVTbjBpNUFqYlY1Nm1OOGFMMHkzWmJpb2pqaTJYVlFTSHRDdDRFZ09HeGRJeUpvQzhtSGhFcUpyUEc5TGk5d2hRQi1YcXBfSnFqbmU3ZjVhem9zOWFvcjFjRWJ1UFp5Vk50d0huTTRrMmVhV1dJQjJqWVI3dS1BU0d4dUsweGt1VTY5S29jZFJueWxFRGpxNmJHa1ZGcmNtdzRkenhjd1hwdTdJbjBYdEZQUlp1OFpQNjA2UFM0MG9uakg3cEdhejg4NEFoWkFPOXFiSE5zX2wyd3V1NTk5QnBrTWFfcHRIYjZ2QnR4N2tDeUt2T3YtUjBJS2VR?oc=5",
       "date": "2026-05-08",
@@ -84,6 +76,14 @@
     },
     {
       "source": "Google News",
+      "title": "National Aluminium Q4 FY26: Strong Profitability Amid Revenue Headwinds - Markets Mojo",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVmczSjA3c3hGUXBrNFhEVWE5MDllaFJmUFgwSFhieHc0NUpmMHE1aldIZzN5QjFSZzZ4WWFTMWhqbnRjV2Jud0dkODAtVHlkWU9QaUoyZGxLMzJ5aUJJWXpxbHFSb19mSktqODZTWmVqMTBPZjdmb25CUDBpTjIyMmRGN0dxM3RZRW9ablcxWnRSUTR5OERiSVVtWTU0eU1nMjNROG9HRnpwaG5sTU9oUGtWUTY5WWtLUTVZSENEOVAyRElvVXc?oc=5",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T07:00:05+00:00",
+      "summary": "National Aluminium Q4 FY26: Strong Profitability Amid Revenue Headwinds&nbsp;&nbsp;Markets Mojo"
+    },
+    {
+      "source": "Google News",
       "title": "NALCO Appoints Dr. Veena Kumari Dermal as Part-time Official Director on Board - scanx.trade",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOazFMOHFuV0lUZmNCaWVHcktiSkRIZ0xDckd5TlR2YzhjUmlPaE9iRzFraVc2cl9Uc1F6RThXS1A3ZEtJNHdRMVZ3LUhnTlFZbXk5RU0wZHNzYjdxSnZLNkNJTXBEaGF0R2VpMjJTSTktVW1meTZ5WS1kMzZSODhQcWhJZEpYODZrM3lybHQwSXI0eTlJYWRJLUFrZjgtdk5HNnV5VUZqRW5IYVFtUlFUN2RHdWpGUWxjMDJ1V1U1cV9UMTRLd21NUDhTRW5tTkk?oc=5",
       "date": "2026-05-04",
@@ -100,19 +100,19 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO to decide on interim dividend in its upcoming board meeting, potentially shifting fully to digital payouts - alcircle",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ19KNWVlblV1UkRMM2F0N3MxVXZQd2ZJNUVreEJ4elZETDRocUpVNWlSZzVreno1S1dYVnp3VGFSMEJQbGJEdVRMcVlOckx4eDVHNDZpakNMX0tBZ2ptdGhqS1NaVF9ULUZOcG9nTFV0cnlSUVlFXzZjQ0lrZFdCaGJ4UDdzSzdDVXhBejk3OXVNbzliY2lsVGtnb0ctU25OWVJHUHVENTZqTzlsQ29mRzJaaUg2VThNenVEYkIxV20tdFBqdE5GcWs3U2RielVpdTFmY0hHaTNaQ0lDMlNWXw?oc=5",
-      "date": "2026-04-30",
-      "timestamp": "2026-04-30T07:00:00+00:00",
-      "summary": "NALCO to decide on interim dividend in its upcoming board meeting, potentially shifting fully to digital payouts&nbsp;&nbsp;alcircle"
-    },
-    {
-      "source": "Google News",
       "title": "Nalco posts record net profit of ₹5,816 crore in FY26 on strong operations - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTlNGWTgxTzA0RERIR3Y4SGl4LWpqa1ZacEdYd2k2TWw1SlVpUXM5dUk2TVFFcEcyZmQ3YV9iWUpLLTdmOGtlc09CLWFuc1pfRGFVc1pEUHNIQzJzT08yaENvRTMtNmlSdkZLaFlsc0Z6SHRkWEpRakxOSnVBTFdZXzZQNkZDckJDcnc1bkYtQ2xlZ3lwemJqQ2Q0Z21wSkYyQnVTTkVrWGI5Q2FkUFN6eVpENTdVWjlxRHlvbUhPbHlwOFROd3FKaFk2M293MzBpTUpuX0VlRmgtd9IB3wFBVV95cUxQMWEwM2t4alUxdW9CRVB0X3diQWhwczJ6WXRSOUsyLVl1RmhQRmJCZ3pRLXJ5X3c2Q1dwU3VnRFVnaV9ZT2txclhQT3hSTTNRbzBxY0t4Nl8xRFpmN21MUDZfQ2I4TGlqTVN0dHJIdmJacmhjZE9ua25lTUNxRnBiSjA3V2M3MTlqelBLWnE1SnJFeVJUWDFSLXoxR1I2ak5UVEF3OENydUFSUk5DR0FUcGE2MjQzX1Z4Mzh3U1RtRzdBNnhKY2g0cm9sUEl5SlJrdWIzUzdoLU9TYnRzeUlz?oc=5",
       "date": "2026-04-30",
       "timestamp": "2026-04-30T07:00:00+00:00",
       "summary": "Nalco posts record net profit of ₹5,816 crore in FY26 on strong operations&nbsp;&nbsp;Business Standard"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO to decide on interim dividend in its upcoming board meeting, potentially shifting fully to digital payouts - alcircle",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ19KNWVlblV1UkRMM2F0N3MxVXZQd2ZJNUVreEJ4elZETDRocUpVNWlSZzVreno1S1dYVnp3VGFSMEJQbGJEdVRMcVlOckx4eDVHNDZpakNMX0tBZ2ptdGhqS1NaVF9ULUZOcG9nTFV0cnlSUVlFXzZjQ0lrZFdCaGJ4UDdzSzdDVXhBejk3OXVNbzliY2lsVGtnb0ctU25OWVJHUHVENTZqTzlsQ29mRzJaaUg2VThNenVEYkIxV20tdFBqdE5GcWs3U2RielVpdTFmY0hHaTNaQ0lDMlNWXw?oc=5",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T07:00:00+00:00",
+      "summary": "NALCO to decide on interim dividend in its upcoming board meeting, potentially shifting fully to digital payouts&nbsp;&nbsp;alcircle"
     },
     {
       "source": "Google News",
@@ -185,14 +185,6 @@
       "date": "2026-04-11",
       "timestamp": "2026-04-11T00:00:00",
       "summary": "You are being redirected to the external website. Are you sure?"
-    },
-    {
-      "source": "Google News",
-      "title": "RITES shares rise 6.7% on revised NALCO-linked project, contract value nears INR 1.19B - alcircle",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbTdLQ0U0MEhuc3VmYkNXQXFaTFBMbjhmT2dybm9SamJpTXUxQ052bDc4NVpORnNiSW9BUDU4QzUxSi1oTWdzUHVlT1I2aUxRWXVERDgtLWhPYmo4Y3JvVXlDdUkxWUg5QnRvZkhVU21LdW5YQlhWQnE2NTJaU0tqWmVCUGFvS1JlWjRSRjRfQy12RnlNcXZ3UjNLQjBWVkhtSjh6RE95SG56dnJIakoybG9WbVp5dWJyVERQWA?oc=5",
-      "date": "2026-04-10",
-      "timestamp": "2026-04-10T07:00:00+00:00",
-      "summary": "RITES shares rise 6.7% on revised NALCO-linked project, contract value nears INR 1.19B&nbsp;&nbsp;alcircle"
     },
     {
       "source": "Google News",
@@ -320,6 +312,14 @@
       "url": "https://nalcoindia.com/pre-rel/nalco-organises-assistive-device-distribution-camp-for-divyangjan-at-bhubaneswar/",
       "date": "2026-03-21",
       "timestamp": "2026-03-21T00:00:00",
+      "summary": "You are being redirected to the external website. Are you sure?"
+    },
+    {
+      "source": "NALCO Press Release",
+      "title": "NALCO organises All India Vendor Meet to Strengthen  Supply Chain Partnerships",
+      "url": "https://nalcoindia.com/pre-rel/nalco-organises-all-india-vendor-meet-to-strengthen-supply-chain-partnerships/",
+      "date": "2026-03-18",
+      "timestamp": "2026-03-18T00:00:00",
       "summary": "You are being redirected to the external website. Are you sure?"
     }
   ]
