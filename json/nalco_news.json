@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-15T22:21:55.895377Z",
+  "updated_at": "2026-06-16T04:29:34.884207Z",
   "count": 40,
   "items": [
+    {
+      "source": "Google News",
+      "title": "Hindalco, NALCO Shares Fall over 4% As LME Aluminum Prices Slide - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2NGcmpUcWw3d29ncHBnLVdGRW5PSVhHQ05SRnk0dURTTXM0Q3VqeXFYUFlGTXI3RnA1TEh3ZDdXRHg3dzNPelQ5WVVPblNRRU9BaFotN01kSC05ajgwdjR3UmlhaUs5ZFY4MnpMYVI1cHplQWJHcXpvS1poV2JnZEhJcU5kNl8yUDQzZ20zeGJQT0xRUlVWMGRRUXMyWGpnbnpqMnpoaWw0NnR5a1FaRlNwSlfSAbwBQVVfeXFMTVk1b0tfWWctVG81cjhLdWNHQ1lXQlhjVVNvQVlCVDJYZEhzS2Y3amNFTHp0cXFuSkVFaHgwMkNMLXExb2dnX0xOS0w1VnF2RHhwMjJiZ0g3OUZfaVNhN2NQRHpNUmFQSEU3MmMtRGpXNUtOelViV2JfSldDWTlzd2tHXzFkU2xSMTdFNE1hUHNueDg3N3hTUjBvQ3l4NTlSLXlCX1VKaXlFbXdOYTFIWWROSW5XUHN6TWRlNkw?oc=5",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T04:21:44+00:00",
+      "summary": "Hindalco, NALCO Shares Fall over 4% As LME Aluminum Prices Slide&nbsp;&nbsp;NDTV Profit"
+    },
     {
       "source": "Google News",
       "title": "Hindalco Over Tata Steel, NMDC: UBS Chooses Its Metal Of The Moment; Check Top Picks - NDTV Profit",
@@ -57,14 +65,6 @@
       "date": "2026-06-03",
       "timestamp": "2026-06-03T06:36:17+00:00",
       "summary": "NALCO: Driving India’s Aluminium Future With Record Performance And Strategic Expansion&nbsp;&nbsp;outlookbusiness.com"
-    },
-    {
-      "source": "Google News",
-      "title": "Nalco Announces Superannuation of Executive Director (S&P) - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOWFvQkpGeDhKTnEzNEc2NTNDN0hUN2ZLVWxqLTUtWjZmTXVOTWQ0WEhUa3ZNdll6SkUxajBYNmhRcEZFVXRIb2lOZ1dhZjltWm95cDU4V1VkNVJUUDFPbXVwbVNsY2RNbkU4R1NMdktWbkkwOGw1dlFUUllUT0M4WVpkRmZHZGhpU1FCczYtRzNOOWxsOUJ5Y05GZ2poakxGSmtxanR3TmwyYW9iTDBRdkdTa1FXc0FrcFZIWENGZXNCRVJpWWpLXzJCQ1psR3kwRWc?oc=5",
-      "date": "2026-06-01",
-      "timestamp": "2026-06-01T13:28:00+00:00",
-      "summary": "Nalco Announces Superannuation of Executive Director (S&P)&nbsp;&nbsp;The Globe and Mail"
     },
     {
       "source": "Google News",
@@ -292,22 +292,6 @@
     },
     {
       "source": "Google News",
-      "title": "RITES Secures Enhanced Railway Contract Worth ₹118.89 Crore For Utkal-D Coal Mines - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVi1SNDVtdnpheEJhRVRPcFY3SGU2NWh5M0xBS1JZM0E0dGtMTVk5WDFjMDhaUXpma3ZsYUpZSkM5bWZSMmoybHlKQi02MEdzYUVJdmg5R2ZBRGdPaDBZSXlIVVd5Wi11QTY4N1Zjb0RMZjRlQ1BXZElmYUZRNlRXNzZiN2l0ODZoWVd5d202b3ZuOTRGSmlmY2EtWnN2ekR0bnI5VXZBOWJSOFpLQWVaVzlEOGlIXzBFTzZycjg0MVNjeWktUWtVLVBZU0J0Y3UyS1hJTW9iUVE?oc=5",
-      "date": "2026-04-08",
-      "timestamp": "2026-04-08T07:00:00+00:00",
-      "summary": "RITES Secures Enhanced Railway Contract Worth ₹118.89 Crore For Utkal-D Coal Mines&nbsp;&nbsp;scanx.trade"
-    },
-    {
-      "source": "Google News",
-      "title": "RITES' order from NALCO revised upward to ₹118.89 crore - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQUVNOWc3QUlpbkRxdDhsVXNaS0NoMDZ5MHMzZU00RmE0OEFMWU5KeVRKYjlRN3lXcUkzcjU3VVp1cVJxRkNRdjBBUnVrQmlKaHR1bC1ZQ2FEdjJ3MWEySnVGaVd0WlRkYy02Z1ZPeXlDTlg1TXRNZWxfNEVnWEF3TzJCNWVfRHExWWw1d2hTVlNzdjVqZ0RJR1hzWDdTLUZwaUFmRXRva1NDSTk2VFo2YTJEckZqVFNycElES0RCV2kxazlRZVVR0gHMAUFVX3lxTFBpVEwzejBTb2EtaERsdjk0ZHJvQ1hreXVKZ202ZjlyUEJxM0hLUTJLYUEyUkJmNXZHNzMtQ2t3UTh5MEFCTWk3akcxeTZONVpGLXNrcENwaUo3V0d4N05VazNvbUM3Qk1jVVYxOHB6QmZhRkw3U3FUZ1h5T2QwRmloaVJmaXBmUG1QdXZ3aGNGUUZ3dHQ2OGpvVW1sMm45WExNSEpBY1ZuSUVMMHo5S1RTTEhJaXFGakMydnRPUzVzT2Z6alFuQVI5MTh0UA?oc=5",
-      "date": "2026-04-08",
-      "timestamp": "2026-04-08T07:00:00+00:00",
-      "summary": "RITES' order from NALCO revised upward to ₹118.89 crore&nbsp;&nbsp;CNBC TV18"
-    },
-    {
-      "source": "Google News",
       "title": "Stock Radar: Nalco stock bottoms out after 3 weeks of downtrend in March 2026; time to buy? - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMWNiaXQ3WGVNSzBCZ0Q3czNzSkQ1eFhnTnZwclJhaGJzZThiUlRUYXpqZ25XUXN6TTdVQVhsbzJDcm9fdFZmTnZ3U05yUGRuUm4tTUFMdzRTYjVBdlNMdmNwM0hwZU9DTFI0UUttZzk0Ym5mTklPUzQ3VFM2aXZTNXVXRXl5UWx1dXlBSEZ0STNydFNwM3dTRGt6VmRjR2pLdmVLZnZPWUJ3T2lOUGxUbHhGcnJhUXF5VzR2TWxjWkpES3J4MlJjOG1MeTJRV3Y0UENDa2ZmNmh5b0ZDb0RRYkV1ajRTX3VxNmM2RFVpX2FKaEl50gH6AUFVX3lxTE8zeXQyWjgtdEdOREdSNWU5b2NESUJvMEtlVy1DZWtIcEhoeVNoVzRVWXJINzlmbHZ5NkpwU2FmVFhNb21CV1RrWnhPQnJhbm1fZW1QVkI0ajBxeFhPTDdzWm44cWg2TW5YTnBFZW1iWVNOSHI2cFBKUXQxTjRvNUdobjhSelRzSkZJZkhHSzg2R1N6azFkNVZVYmxLRXB3SHNPTzFBUnd1ZHpLZVpwRGhtZ21EMnhmSHJwUTJoendnblhubFFPWV80NnphSkxsd1JVbU40MklXelN2WGJFMXppTzlnb2hLWXNZT3ByeVowR1N3NGZOZnplR3c?oc=5",
       "date": "2026-04-07",
@@ -321,6 +305,22 @@
       "date": "2026-04-07",
       "timestamp": "2026-04-07T00:00:00",
       "summary": "You are being redirected to the external website. Are you sure?"
+    },
+    {
+      "source": "Google News",
+      "title": "Stock Radar: National Aluminium stock is on verge of a breakout from downward sloping trendline; time to b - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTmM5LThyamtjQXRaYUQ3WVBfM25XZjRQcmhOYUEyZWhnQ0UzUHBtUHVYMkNRTWJEU2ZrSzV4MzA5UnJIVmxyNTNXMjVuakp1bHdQWWZ1Y3VWQU1OaU8yN1JQVXJEek5xRk5NRElsRkx6ejBvNkt2RkJyRmpXOFNiQWg2RkRXX0NrUjBrZnFvZjdzU2Z3ZXFRN2V1N0dzZlA0Qi1hLWtXRUZSZlNPTkNLN2Mta0Y2RkxwMWMtaFVfWDBhbWQwcThOenZ6RTV1YWxlRjhpbDZ2WGxxZ3dpSERXTl8wYlMwQzczSE01emlnT0o0VHFHaDdEek5BNGUwRS1fTVA4cU5pQXdnaUVs0gGSAkFVX3lxTE50TjdtWHllWlJkbkV1VFptdWtWS1RjRTFqYy1uU1J3N0o3TzhsdzFVQ09jRkt5R1MzaVAyV3N2NFlrVExkbXBTbHV5MW9NOHk1N1Qyd3ZQaGR1eXhxeDhsV055dzd6bjJQV3A5MDJKbWl2RWp5WHFhaEw2ZU9PVnlmdGJnMVpMS3puTVhGdldISjFnX0NpWkVoWlozYzZCcU9JVDdwMzB0elNxV3ZCdUJLVjloYnp3YnJNVlJENXRXVFJhb2xtSW44bTJYTlJ1TEwtMWFrc3pNU040T0NEZ183cWtvX01KSEZnNVViVmZyblBaRGJuWERPejNWVV9VQm0yd3YzT3dDbk5YRXZCMFJUS1E?oc=5",
+      "date": "2026-04-06",
+      "timestamp": "2026-04-06T07:00:00+00:00",
+      "summary": "Stock Radar: National Aluminium stock is on verge of a breakout from downward sloping trendline; time to b&nbsp;&nbsp;The Economic Times"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO Achieves Record-Breaking Performance in FY26, Sets New Milestones in Production and Sales - Machine Maker",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMWhyOE5Jc1F4TEN2TFUxaVNrUDlRTjFXc0M1b3gxQkk5TVFFeURIU3dJRmFhQ01lV3VZZ0M4QVpmdkJ3c2FEQ1JNNkJzbk9nUjdickFLU3J5dFdrS0txTkNQcGlnUkoyYzVSTzR1M1Jtc1hxbkQ3US1aSDJqVkc0cGY2WHFsOGhqZWhiNDZDQWhPTHYxTW5GQm5hQzhtUVY4eUFreUl6MzU0LU5VOENDeDdfcnlra0lRdUN5UU5vS0w0SlBkMURZ?oc=5",
+      "date": "2026-04-04",
+      "timestamp": "2026-04-04T07:00:00+00:00",
+      "summary": "NALCO Achieves Record-Breaking Performance in FY26, Sets New Milestones in Production and Sales&nbsp;&nbsp;Machine Maker"
     }
   ]
 }
