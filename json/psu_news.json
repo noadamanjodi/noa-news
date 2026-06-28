@@ -1,4 +1,325 @@
 {
-  "items": [],
-  "last_updated_utc": "2026-06-27T19:26:03.516909+00:00"
+  "items": [
+    {
+      "title": "Behind News:Government Exploring Roadmap to Make Green Urea Production in INDIA - jharkhandstatenews.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUHZkZmJsSGFaaFA1RUNoR0dydGFHeVk0YXB0R0pVX2t1SmZBSDM0bTl3dTc4U3RUZVd2Tk5OdEVwUVBWQjdCV19iZ1JncXVfakI3OGQyaFlxbzZHQndzQ2dkMFB1VkxHNGVpN1BJNkZwUkV5eHotOF9hekhLNXY1SXBDbk4tYS1UZmUtR2g3bzRXVHpFQjlQTng1TVY1OFBQT29qZS1kdE9ta3BCZkdTNzdPcV9OWlcyX2RZX3M5ZzhDeGRKbjBuLTlxaFotZXRtMXc?oc=5",
+      "date": "2026-06-28T02:48:23+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "SEDA And Japan's NEDO Team Up For Malaysia's First Zero Energy Office Building - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Va25CMGJyQUpWRnZzNG1QRDQtaHRKcHIxRVJmaXdSeVMzSTBsSEdZWmp6aUpQaG83RzNrdmhKS2dGVDlncUhhM09RMmhFVWt1ZmlESjdaUlV0NGdDSUFyNWNn?oc=5",
+      "date": "2026-06-27T20:18:44+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "HCLTech and Neste Join Forces in Transformational Technology Collaboration Aimed at Building Scalable, Agile and Future-Ready Renewable Energy Ecosystems Worldwide - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kb05xZzFmVnlPbVdNdk5fOHAxMV9BOU41WGRvNlVpMzdDU3JWVklaUGI2UGJyMVMtMXpIQ25zZWRDTk9lSUlnUmF2UmlkZFlwLXR4VW5tOXpIQjM3Sjl6MGMxQUNYWE1lUHREQUNB?oc=5",
+      "date": "2026-06-27T17:55:41+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Flexible Data Centers Could Lower Energy Costs but Increase Emissions - AZoCleantech",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jZzdHZThfYXZqN1pKblZyTFZiZ1p3VjM1amhldEpRSHN4YUdpcGM4MzJ4UlFrRHhEM2xnaVJKTVVNclNGWUlTc1RucHRxN3FIRFdCTFNoWU1jN0hucnFkaw?oc=5",
+      "date": "2026-06-27T17:50:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Your next EV battery could start life as a plastic water bottle - Digital Trends",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRmNadjJuWkdUZUlmYzlJRkN4RWN2Q1kwM0NSY3BMMEJITE9GZTRjMEZzREVFVVdubFlzY2RZM1BmWUFhQlB3NnJKNjhwQWxveks3bldGRHRSSlJvdG1tVm5SeHBUcllzc0RDdFg1WTJqMnpORDI5WjVTZGJoT1VEa3JDZmRVNjAtQnkxQkJnTjhMbE9pckxtb2QwMDZXVGdVT3EySEhzQQ?oc=5",
+      "date": "2026-06-27T17:12:35+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Energy Storage Emerges As The Great Equalizer, Trump Or No Trump - CleanTechnica",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTDhpbmRPNWhvTHVFdmkyMTZQb2U3OTlkUWs0aDdXU0gwRjlvNXpDc3MzYU15NUc2dS1DWDdiWFJKSm40V1NnYjZORXhYaE5EcGpGWVFYRzl1OE5lTUxRSFFXUW9fenUya0dQQjVNYi1pTDQ2RldFenRzOWZMZ01HdlFIQ0p6SHNta0ZycHVKa2hjTEE?oc=5",
+      "date": "2026-06-27T16:59:14+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "India’s Coal Gasification Valleys: Strategic Industrial Hubs Explained - Discovery Alert",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ1JzSnRnXy1JdTdta2FjSThlX0NRWG96U1hKWC11aXVvLTZDRnZMX1R6U25ud1c0eTBXUVdWNWJuLS1lYWQ3Wjhad0tCRmNDcVFpNGJtN1pneXBENVNncXEwUXFfMHR6N3hCVk5MTlU2YXlyOUc1WDdwQTMxVEFkR283eUpVaWhmSVVvYXBRSHA3N00?oc=5",
+      "date": "2026-06-27T16:56:59+00:00",
+      "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "AI’s energy appetite is reshaping the renewable transition - Oman Observer",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTDctbkc0Rm9SY0NaVFJBRmtldjltMm5laklOa0Y5d3RWbWJDU0VzRThsQXp2YWJWVEt4ajVocTRXLWJ2c0RVb0lWdmJ3SXpFOEJZWUxNbGJwWVZlV1VkQ0pPYS0xWmx6WHN4Q1hPM2lLV3Y3LWZRWllsbWFwSTZnckktT2ppeUoxQTNMSHhBV1VfOW5WVW5yNk8wWXk2NzBsSG5peWtnTXJ5dF9QdnFCNG5BbGItTHFlZmfSAVpBVV95cUxNd2JJUnRFRDhaQnF1VmdrTmdJUzFRVndqak5xYy1PY2JzdUdYV193aUpPZlNlaGZHMDVVTWRfN3hxYm5KRXBwYU5FTnB4UVQxR2FvVEthOS1VNWc?oc=5",
+      "date": "2026-06-27T15:36:09+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Hero Future Energies opens new hub as 7.2 GW portfolio expands - Manufacturing Today India",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObWRjZDgyRkRQaDBaTUdJNkdTQ3hQa3laMVhHTkpzaXBWbTJPeUV3VjNtVHpXU0d2eG4xTVRHdmYzZ1MwZWdSOVhsaUJEeG1XVVE3UTJKa1VhQWlfRzdYWGdYdEcwZ0dOREE3R2RSUGJCX2FWRVJZb25DT0lSOHBKUUJSUjlyV1ZjSXF6YlF5NlB5Y2doTlJuNkZYRjY4ejV6bG9tcw?oc=5",
+      "date": "2026-06-27T14:49:56+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Empower India Expands into Digital Solar - Machine Maker",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NRG10aWZrb2pjY1hVYTZmcEhLVE1oX2piUkZUS2dyRGRmODNXMmRvelphbmtNMWFjSkNWVkFoNFQxeXpvVnE3bWpfNjdvNFdJZnU3bVVYd0c4Vk1XYkgxelA1a1NacmtVWkQ0Y18tZHVxSmhFTko2WVhkRFpzX1U?oc=5",
+      "date": "2026-06-27T11:41:23+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Inside NVIDIA & Eco Wave Power's Ocean Tech for Clean Energy - Sustainability Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQUNoMmhFaUk1RFFlR3VkMkVBdV94NzlfUlhZZzVCcnhWWHBYTXhldVF6NHFEQ1JVQVlNWW5oTnhQenZEWDgwYlJGbG5aM1dmUWJnb0tGUjZob2tibW5GUW5BUEdlMVNQWDlxY1d2eG82dEUwbEZSQTJTR25TUzlzMWd3YjdVTVJHaDdTQjB0bkx5MTczTTBPd2VUbw?oc=5",
+      "date": "2026-06-27T11:03:50+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "NLC Renewables, OREDA Form 1 GW Green Energy JV - Machine Maker",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcXNQMEozaUhhWVM3TGxTQ3Jkb05RMFl2REpWRFVfQWFodlVFaUxRWm1pT1UxSi1LYy1kd2swMmVJUVpLRXY0NGpLQkIyeC1lNFlhTDlQRlhtSTdPVzc2dlV4OXpfb01wTzljc0ZJYmRWTlI2UHNFdko4ZmNRM0RGeEpuZW9TY0k?oc=5",
+      "date": "2026-06-27T10:31:35+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Vestas Secures 40 MW Order for German Wind Project - Inspenet",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONDU3V2xqSDFnWVNocnJETmNXbFBKSDJ4aFVzMmFnTzlKcFNCV1VFZDdta1o0dFgwaDlDbnRFdEIzLUlVTVZocENUQ2dIZ3o2dlllM0F3UzNBWllkVGFqSVcyQ3FER2Jqcm55bURVY0s5NHhSRDBXYnh1T0lhQmxfeVB2MjdCXzdteU5VZXktdmg3R2NSb3FfMQ?oc=5",
+      "date": "2026-06-27T09:10:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Europe Is Learning An Uncomfortable Truth About Local Battery Production - InsideEVs",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2VYVzRuc3QzSVNnbHd5aWF2OVZmM1FkRXYydk5iNUkzTHZVUVRIVTFrSlRfZXhBdzdDUkxubEtRREhxQ0hOQ3FMMWE0U0xMTEZpTU5UcTB0NExVUWxXR29DZUlfdTlzZFR6TjBNa3c0MDRVTHJfOERSOE5zQVl1QmN6VFYtUGF3dFJF?oc=5",
+      "date": "2026-06-27T07:25:49+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "ONGC Completes 44 Critical Jack-Up Rig Moves Before Monsoon, Strengthening India’s Offshore Energy Security - Indian PSU",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPblc2cFNMbXNSbWI3SFdtQUhxMkZEZWhNOTdmZVlMY3JPU2Qxb2tkOFd4OXA2ak9QOGlySm9lNXBhX0UtT2hKbDM3VG5penJBZWZpRGc0Q084X1pTclUzZmkxWmk0UnZFWTJJMU9Uc1ZqS09sOHBhSEZCd1R3SDdsNEJLRzhYUWVrc1BsZmx4Ny1JQ0hOR3ExM19QcGpWWE00amlqcGVFcjRQRG5CNzFRVnBwaXNBcWU1Wnc0eUFOeWkySGFKZ0JN?oc=5",
+      "date": "2026-06-27T06:51:06+00:00",
+      "category": "PSU",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "United States Renewable Energy Market to Surpass 1,002 GW by 2033 as Solar, Wind, and Clean Energy Investments Accelerate - vocal.media",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQazdzTlA1bVpuNWtHVWdYeWhpd014Ymx2a2hUaUpxUVJIQWw1SDhvVUp0RmJQYW4wenpURzEtaEVRazh2OWw0Y3pHdmwzczlnOVl3cGlmWFRSN3pYX01kMFNYVkdRNVpxbHNOM3pNb0xEeWZJNDI5eDN5QS1YQ19ULVg3anktZlktSlBFOHYtb1JfaDh3YjU2Q3hQdk5HU3lEYUVvbjBTTGxRaG1lR3U0RFZtVWIzNnoxQ2x1N2xoV1FncTdXRS05cldmb094cHpET3RCdjFLQWxtdw?oc=5",
+      "date": "2026-06-27T06:43:56+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Jonnagiri Gold Mine Begins Commercial Operations in Andhra Pradesh - Indian Jeweller",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdmk1RjF6c2RZS25DcWRjQUxEOW1meFg4eElDVFRFZzdiLWR4d1RCaWVtdWxLQ0FVaEdUa3FSZ0VlMlozTm1MLXBIYzhNRjQzSmxGVkh4bFNfYmdLSUJuME1jQ3d0TU9SaWF4a3ZNSWNvdFVTUEpTRUxLR1dmZkhPV1U0YlRoQXhnU3FXSWhfU3lMS3d0a2U3M3lPRFJWMVJkajdMSXd1VGRZVHJFampYZlFyS2xPUGVYZUdkZ2NyazhzUQ?oc=5",
+      "date": "2026-06-27T06:21:00+00:00",
+      "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Daily News Update from sarkaritel: June 27, 2026 - Sarkaritel.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xRlhRcXdlU3dJa3AtcG9wRXprVkQ5OGtJWkZHQ0tWZjRaZG5wMFM2SUl6ZTF3R1VpUWo4NmJwVkkyY0g5WS1WVzBfQXh3Vjc4dXY4djlXRTFLNnVRQlg0OUV5RQ?oc=5",
+      "date": "2026-06-27T02:21:54+00:00",
+      "category": "PSU",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "AI Power Stocks Could Be a Once-in-a-Generation Trade. Start With the Companies Behind Every Data Center. - Barchart",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRnJJU2pGN2FGV3JZa09MRGg3dlMzTzZObFNOb2VtbU9TZ3AxNS0xVDY0RXNWY3RTb2U2YXlDSFpTOGZObDN6XzRkR3dJaktNemoxWTQxMGNJQkE4c0RBMHFWTXZvLUdCSWF0WUZ6SjNPN3ZmRDM4UmlkeFJGdFE0UHJfNG13Y1ItQWt4MFRGM2NEbEJYSk5MWm1idG9VX3UxakFMY3Z6YWRNZldlUXlrQjFMbWVISmFuQzAydkFzQlQ2WjB2SVJYNl9XRVJRNXQtTXRzNEZ4MkI4aHRPeUlOUA?oc=5",
+      "date": "2026-06-26T22:01:23+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Why Finland is betting on sand to solve renewable energy storage - Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMXdWMi1kaUxfb1ZLTFV1aVdWeDFnWjlPX2FnQWozb09jVXJ5MmtrbUE5OWt4TFVYMHdKUmctWngxMEFOMWhCRHZPY2FoWlR3RzZsZHRRcHlyNEFRVHE0S2U0X1BfS0ZlM1M0dVJwZE52UUZ1aHhlZTNSNEVMZlVZREpQOWZ5VEVUUWNEN1FhR20xOUVmSno1YUtMOUtvSVBNLU5fZS1uMGFPQQ?oc=5",
+      "date": "2026-06-26T21:42:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "India turned a 650-ton diesel excavator into an electric machine, and the retrofit may be better than building a new one - OkDiario",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaWtaazF6bF9KWTAxRkZhRFZaY0ZfaGUtZ2k0aGhpS3ZsQTROa3JWOGNDMS1kaHRLd3JBQkRQN2V4QVlxcGlIWVlWdHdZY1psc0FpRDhWZkt6VXNmWHZrZVZnWHdVRlZPOTJSazBwWDh2d0FSRHpjcURGRUF6LXpRLVVGY2U5SE1KejBXTS1NV0k5SjFVSGRMcnh5eWZwQkRzWWlnaEVMbGJYRFZEc2hjdHFvTlQzaXRZOXdEOXlTVEk1LVo5VkRUMFlQWnZBUEJncGpybmFPVFpCMVpiZElhZm5JVG5wS1p6eVg0?oc=5",
+      "date": "2026-06-26T20:45:00+00:00",
+      "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "ONGC Appoints Anupam Agarwal as New CFO in Major Leadership Restructuring - Indianmasterminds",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdk52bDU3NWFURDFLQWVyd1VHWXd5cVNaanF2dHdQSTBTMzFWejF1ZU12eVAxMnlTZWxuM3dlZEgtcFM3d2lBX1ZVZlFHd1JFLWR3MjU2ZkNMVWdOMU9NWFlCUkZoSkRnQngyQmxkWjVrZGtzZW1BZS1tQlJsSzVHNnl0X0tkYW1CX1VaZDI1ZHlMN1A2dTNINFptRFpNaGpIVy1nbVZiYTRSbnZfQVE?oc=5",
+      "date": "2026-06-26T19:57:19+00:00",
+      "category": "PSU",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Fire Body To Educate People On Electric Safety - Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVk9McGZsZ0lZUVdjQXMxUTRVWEw4MFBLVlJFbDBoZThrdTFxc1NjY2Q3MGU5bUttSllOUjEtRzY0YThHeUNkLUx2OHBwTHhGS2ZtSVlfSUFuMnVIcnpTWkRWUUJLOU9fMGgya2dCLUZjcHYxTkhlVmZ3eGI3WlU1ckhMdTVYQ1Fhd2VjOHExdVJjN3lGNzRKaFpXV29TNTAtZmNXT1VXTU12d3FkX09QbHZR0gG3AUFVX3lxTE1iY29YZmo1azBadUNvOFdiUFE4NXpIY0tZX2JVb1JrXzBFakJ4QTBwXzBYUkROQUQ1bmdfMFlUWl9FUDZaNUdrLUdxSC14SXh4S1kwZEhIRjBQMXRaT2N4R0FfM2trdUxOX2cxVlZTZUVBc096MHZMa0dlWjhYck9YNmUxWUd6ay12UVpOR3ZrTnpIakNKYnFQbzVBcWdWOWItR0xpZndfUkpaX1RjX3lzYkI1dDJlMA?oc=5",
+      "date": "2026-06-26T17:47:22+00:00",
+      "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "NTPC sets up wholly-owned subsidiary in Mauritius for developing floating solar, BESS project - PSU Watch",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNajFsNWVhelEwUlVULU91VnQyRG10Z0xJTWJvZmU2NGhoTnpLRGVickkzaWNmaUlxNlY2VWo3U3RJQjM2dXdieHBlVU5OeG5mVjlZQnlMODBma3ZJN0tLT2hqVmhueFIxZW9BZVdhZ3N0UjlLODhPd1VYRGtoVlpxRlVaMUhiakd5NTV2NElCRElacjVZZmtCVTRoZDk0RWNNUm8zaTJUX1hmQmFHMDlsRENndzBpR3UtakFxTjU3ZWtRcjZqdXp1RlhpMHZraUhm0gHQAUFVX3lxTE1qMWw1ZWF6UTBSVVQtT3VWdDJEbXRnTElNYm9mZTY0aGhOektEZWJySTNpY2ZpSXE2VjZVajdTdElCMzZ1d2J4cGVVTk54bmZWOVlCeUw4MGZrdkk3S0tPaGpWaG54UjFlb0FlV2Fnc3RSOUs4OE93VVhEa2hWWnFGVVoxSGJqR3k1NXY0SUJESVpyNVlma0JVNGhkOTRFY01SbzNpMlRfWGZCYUcwOWxEQ2d3MGlHdS1qQXFONTdla1FyNmp1enVGWGkwdmtpSGY?oc=5",
+      "date": "2026-06-26T16:54:41+00:00",
+      "category": "PSU",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Sunrun, Tesla, and Renew Home Support Hyperscaler Power Demands - Battery Technology",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWWZhaWxMNUFxRnpGd0dPWlFUeHhEcFBrdUdJeDVlX3c5Tl9nam5lT292YkU4UmJWQ2RkYThjNXRtb3hTcWtfc3pXN2RwbXNhVy1YUFk5QWpmRVVFaEhYNVlnMmc2cC1GVVktUG02RE1sSGFXZGp6ZmxvTGdDMlVTN1BxREZvTklDS05NUl84WDJGRjE0dV9XcjFod2FpUFFVU29YUWI1dw?oc=5",
+      "date": "2026-06-26T16:19:45+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "DHL’s €3 Billion Clean Energy Bet: Why Logistics Has Become the Next Bottleneck in the Energy Transition - CarbonCredits.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUllPM2dWSXdwRndHam96U0k3SjNXS3ZVM00wQW9xZkN4N1FDQUQ1YWFhUjVQTGpOYnpZTHhLTnJYTVIwNndDX1FMX0k3OXJZcWQxUUFRdnkyeGdrckxYMTNqRWd1S2VEZ1pUZElLVmVWb3A2OGMwTU5oWU5Gd1ZsLXNXdG40bF9ic29GbVczM2VOalpEdkp4a0h6UmVSX1A5SlkxQ0M4b1RIN0FQMEpXTTdvT20wSkEtbW9sZkQtd01QNEItX1J6QQ?oc=5",
+      "date": "2026-06-26T16:00:06+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Jonnagiri Gold Mine opens in Andhra Pradesh as India's first commercial-scale private gold mine since Independence - FashionNetwork USA",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcmgwT2tTZlhfV0ZUWThnVWZCWUNrY05VT2liTVJxMUpvSHphQmM0bGMxYmVXZjVndnR1SmNKaUdhZmc3R1g1a3hFcTA0RF9MbTlVbm1iMlpWb1dpc0ItRWhhSkdCd2JPbTdNbDQxVkx6a19BbzRrMXEyYzVvZFB6c0lEalhrNmtJcEpsTzdERk1KNFIxampUUmt2d3F0T0lQMFRVS3FxNTVlaDNiUkdTaF9kZ29XVUwwQmxubFpmaF9aN2FqakpNekp6WVp5aFVWNlVGY0E3ZDVKU0ctM0E4MUJhZmZBZ2x1bmRsNUhsQ2tyMnhH?oc=5",
+      "date": "2026-06-26T15:51:55+00:00",
+      "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Can PPL's Clean Energy Collaborations Unlock New Growth Opportunities? - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWHUxQUlnSHhuTGZUTHdxQTduWkJOR0F4bzl0YkFIRS0yVFMxLU1oSzVlRE9WVm9VQUZGc2hGc1AwVkdIMk9Rd1I3ZlJxTnFtbTBZaExSNFAyVkFnNDNsNlh4MWpITVRUUTI3TnhmV2R0QzNDYUhodDBUWjJaT0o3VmdRYjhxQmVUejNIcUJCZkFuVnR6VWNkbFhQdmd3Q202czBrN0tPWVQtN1hjWFVDQ0YtSi1Na2VseVpHclpxSUtWWnM?oc=5",
+      "date": "2026-06-26T15:15:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Dutch firm studies $125 mln waste-to-energy project in southern Vietnam - Theinvestor",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVpSSDBRMXdGekhMb3NqNHZWNl9qdFh1X1NpYXFYR1RvQ3djNi1TVzlfZGhoQ2x0X0h4VFFxaWsyQk5wTF9La2k5emZYbmxSS1h5RXBHdDIyZVExOXNZX1pzYUN5dXRub19LQzdGTngwWnNyOUVMdXR5bUZUUWV3Wng3UkU2Z3BYcHA4bU4xOV9zUnNIRkJLZGtZQ0JEV1lBdTVQbkQzSW0?oc=5",
+      "date": "2026-06-26T14:31:18+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "FSAI unveils six-pillar roadmap to enhance electrical safety and reduce fire risks across country - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUVNWSjdFbzZtVEVjcFZOcEJ0NnVZczdidjJUZElxRlUta0wxSjVzTzlSZEo4NkZNUXVuaXVUYlpDdXpSbXBzN2g2TGI3VGFkRkVrN1Rsbk5ISHkzTnlCWUhIZkFrVW5tVU52dTZkdXZLd1h5Y3FVQ2IyUl9sMjlLekpWRjBKRDlwSTE0RnNXMHA4OXlISG91SUI4a2N2cFN4RHFKdHNjdTctakdrbmxLSjlyenZCYXJVMnRuSXR5bDRaSUp5ZjA5MjlzaS1Id2txZDg5Uk9WZmxxa3d4LXFoRlhsX0pZZExnamFTejBjYWdLVHpmclV6aHJRdkpJOVkyZjEzQkFDQVF0bDRnZ3BrMnZCRdIBkwJBVV95cUxQUVNWSjdFbzZtVEVjcFZOcEJ0NnVZczdidjJUZElxRlUta0wxSjVzTzlSZEo4NkZNUXVuaXVUYlpDdXpSbXBzN2g2TGI3VGFkRkVrN1Rsbk5ISHkzTnlCWUhIZkFrVW5tVU52dTZkdXZLd1h5Y3FVQ2IyUl9sMjlLekpWRjBKRDlwSTE0RnNXMHA4OXlISG91SUI4a2N2cFN4RHFKdHNjdTctakdrbmxLSjlyenZCYXJVMnRuSXR5bDRaSUp5ZjA5MjlzaS1Id2txZDg5Uk9WZmxxa3d4LXFoRlhsX0pZZExnamFTejBjYWdLVHpmclV6aHJRdkpJOVkyZjEzQkFDQVF0bDRnZ3BrMnZCRQ?oc=5",
+      "date": "2026-06-26T14:06:50+00:00",
+      "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Capgemini: Utilities Cannot Predict the Energy Demand of AI - Energy Digital",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTTFDd1F4QXRDWkpVNG9iaVJsaEVsWUY2enRUaGNPbEhMMzV6aER3bXVCcF90RVotbnE0YW0yNklpdDlBa0hWRlFiX0FDa3hhaTJfUkpiN2VmMVA5UzN3RkxFRFFDQlFzaG9VVThkaTZXWEhRQlU0V3IyS1ZvbHNXWUhaNGxSNXpGRDVZeWtNV3RWaVk?oc=5",
+      "date": "2026-06-26T13:59:02+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "UNSW Technology to Help Bring Solar and Battery Storage to Apartments - AZoCleantech",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QVmx6ZlZDSVI2Ylp5aU9tWEtHU1dNQVJSemFxc3BpdlFLa0NZNkg5d2VYNFAzM3RIZk16bWV5ZlRld2lldXBtNVdRRDVsWFRkU1NhXzBVMXV0dFF3M1FfaQ?oc=5",
+      "date": "2026-06-26T12:32:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "UNSW technology to help bring solar and battery storage to apartments - UNSW Sydney",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNVFNWWxrY2wtZWVHZlJueXlnWFBQdG5XZVEyOEJfUWN1Sk1pRU9xcWRLamtOMEhSNHVLWF9INEQzX2c5d2w2TU5DSUxZb3g2VE9LOXlzSEtCRkJGdC16VmRWdGZrMEw4VmdLMWw4cTJJb3VnUmhORnZTcVgtUzVNZlZuSU1QcncyOWdrX2phTjY2RzFpZ1p0WGZsakRpMk5ONXZrMEp2OVZYM2kzT01wSU1EbDJoUQ?oc=5",
+      "date": "2026-06-26T12:17:18+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Waste To Energy Technology Market Size and Growth Analysis 2026 to 2035 - Insightace Analytic",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYjBYVWxCbDRRQVZnUmVRdWh6VEx5MGtRVXpnOEpqbFp2QXUycW5BNl9aOTBkOF9qTFVwcjZyQ0JSYkM1VW8wa3lZMGxXa3A2WlEzcjhSSlE2WVM3MmJfSE5vX0VUWUxPMGZoQUdJUHlESUs2aGN2RWd0dkNuSW83RXJfU3h5MEU?oc=5",
+      "date": "2026-06-26T12:01:16+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Green ammonia project aims to keep fertilizer dollars in Minnesota - University of Minnesota Twin Cities",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3Q4OGREendBWS1aQXAzZldkdjIwZklNSlZmRUpEMk91U3RielczeXprb3NPR29SeXF0dGFndjl3SDU5SlZCMGQ4NHBDUjdQTTRjQVdUaEQ5bWZJR2lHM0hTOFp6YXB0RE1KbUJBT0hpVENlcUJEZFRranpIbktjNzBUYmJnZHowLWJPRU1nNzlEbURnSFZKNE1lS0RUQ3NNUlE?oc=5",
+      "date": "2026-06-26T12:00:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Kerala Showcases Small Hydro Potential to Accelerate Renewable Energy Transition - Elets eGov",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmRYRHZwbDFNSjVBRUNvS1RJdGtUVmFWY01hSVpYcUFjZHV3d3YwS2FlZGZDOGhySWJCc1kxa193M3F4QTBIS3drbFl2bnZreVIwbkQ1UG5PODVqUkZLc0tLMk5MYzc3ZjRZX1VtZ2dqWmhsemlCa2lRUF9QaHI2Y2lXaklWd2tid3E3NDVSSXk0VEJ4bjFicFFraWV0cTN3aTE2YVlCcUxNckNkWUN6WUg3NWx3UHdqakE?oc=5",
+      "date": "2026-06-26T11:23:35+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Groningen’s Hydrogen Valley Offers Blueprint for the Global Clean Energy Transition - Elets eGov",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV29tS0JDa2pwdkFySmFMc3ZGNDBCY1hoalYtZXhfYmhLdjNEWjJhSGtvOV9vYkhrMHJCWHdzc0ZqYmk5NkNDaElvTGF1SE1GVFhxTzZYUVVrdE5za0JxRnFWMHc0SE1uVHpHUzFReHMzM3J2VWlrVUtnbTJLYlQ1dW9xUnVaMG5FYk9GcXExaWFlNUxhSjdMdDY4ZF9QcWotWlJ4UGVNQUZPVURUc1ZsUkQ4akJmQ2VLbDNfZw?oc=5",
+      "date": "2026-06-26T11:19:57+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Gujarat Targets Major Expansion in Renewable Energy and Green Hydrogen Capacity - Elets eGov",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQkdFQTZXOEVMNUFNTzBFcWt2a09ydmNmS2FLNFdJV0hPNVRpY0hNMjFHMVpVTDJDLUQ2V1VNY3pfR3BWcDlSYll5ZUZKR001ajFlMmxPR3NKbU1vRGJ1UXN3U2toYmtmTmc1N1pDZzBQZENadFpDWFlES0Z0S2pESkx2T09iUm9NZzdjMzRNTnY5NlJTQkFuXzN0XzJ4TWVlNGYtY042a0xyRnBlaW5xUk44Z041ZUpY?oc=5",
+      "date": "2026-06-26T11:18:35+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "China's Installed Power Generation Capacity Surpasses 4 Billion kW, Renewables Account for 61 Percent - Energetica India Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRmV0MmdWUDV4cFNJSVB2QWxpX2VFRno1ZjlsS0ppVlNQc252dXF4Skpqc0pTTm9Jbm9VUWl2Qlh1YVltQ1doYVFEQUdFdXVIbG1kRk5LdEU0eTgyNE5PSTFPbDlTb1RWRnJIU21tMEw5T3dtRU5yV2JrQXh5ak1XT2p4T21LR0NsRlFRZ1ZpaHN4dUlJMGdDdWpnUGVKLUZCUUJYWjlQRnpWU1VzRzU5aUhzdGRMazVMTUlHc0ZKVEpHcDE2SzhKMTJSeHVjd3A4alA4?oc=5",
+      "date": "2026-06-26T10:36:30+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Explained: India’s largest private sector gold mining project in Jonnagiri, why it matters for Andhra Pradesh - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQUxzS3dOTnpZeWJxQUZtWEJtVnlFWVJ4TXJzX2ZBU193dWVQRFFZOUw0RWNua0pOLTIwMkNSb0x0Q1p2bVB0S1N6QWZUY2QtRUkyeVV2V0JqVjY2akdOVEZtaVNtN2djb3J2WWFyd0FucUNyZVNmS2xSN2ZodDBOUV81RVdVTXdUUVBybHU1aG5NMmZxNkxvS0tuS2Ezclp0ckZvdDFxX3dQUTI2QVFDRWllOVFMTGpjZnNnWmRXNNIBxgFBVV95cUxQOVR6OUpYZ1loam9jbjJxSFBVV2g5dzNaR3RiZE11U3EwYTFyZDE0YmtnT1NsaEU1amVuUlZFTFNXS1hpLXlLS0hoUGRDa1NNbU9URFQ2em1ZQnBHZG1KdEpBanJRa2VDLW12bHV6NGhMaEM2RFVfSU01SHdEQnJQLXVaMWpiVE95bXVya0ktMlpYRWVIRUs0ZXZ2VWZrZ3Z6STctZkdQZ1lPY0ZwNUR0c3d5MV9oSEZJS2F5N1l5bnZ4S0JpQVE?oc=5",
+      "date": "2026-06-26T09:51:22+00:00",
+      "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    }
+  ],
+  "last_updated_utc": "2026-06-28T04:12:29.660270+00:00"
 }
