@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-02T03:51:15.926743Z",
+  "updated_at": "2026-07-02T07:35:40.123646Z",
   "count": 40,
   "items": [
+    {
+      "source": "Google News",
+      "title": "Recently, the chairman of India's state-owned National Aluminium Compa - SMM Metal",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdGI2TVQtYUZhTGJxNFpCSjRJTUV0WksyelBjZXNUYWZWRHJoUTZUX1poaURsNTJsZGl3bF9ET1UwbzE2SXRROTVmYm5ZbkVwVE1jNk0wbXpZT1JVSlNrTkk1Ml8wSW9ZRjgtQnB1bGpPdW1MZ0F0bUh1bld5eGxFVnlmbDdQOXVOUnJWNDBxdF9ucHN5UDV6UWYzLVVtRl9KU055Xzd3UHBfZzNxNVg4UVJlNDAzbXBEaHc?oc=5",
+      "date": "2026-07-02",
+      "timestamp": "2026-07-02T01:31:28+00:00",
+      "summary": "Recently, the chairman of India's state-owned National Aluminium Compa&nbsp;&nbsp;SMM Metal"
+    },
     {
       "source": "Google News",
       "title": "NALCO Introduces IA91 Grade Aluminium Alloy Ingot for Advanced Casting Applications - Machine Maker",
@@ -28,14 +36,6 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO Unveils Rs. 30,000 Crore Expansion to Boost India's Aluminium Capacity - ChemAnalyst",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZEJ5eXN6LU5OazJEaFdDUVg2UTk0Q1k0YXFFZ3lKbTF2QjRxdnc1c2NOZmlmNDNmbVA0VHVHSFE3ZWhjSm5uYk13d2hfS2RHLXhNV2oza25fTmtRU2ROUHFhQmY2NGkyMDY0R3J1VzhVbzJHMGFjcUEtbzc2YUxrTDNZQVl6MGlFcHczUHA0WWd5SG9LSHRfM2hEdS1RbXhhdFM3M3dFV0E0WFVaX1VrQzExYw?oc=5",
-      "date": "2026-06-30",
-      "timestamp": "2026-06-30T12:15:49+00:00",
-      "summary": "NALCO Unveils Rs. 30,000 Crore Expansion to Boost India's Aluminium Capacity&nbsp;&nbsp;ChemAnalyst"
-    },
-    {
-      "source": "Google News",
       "title": "NALCO's $3.5bn bet: 0.5Mt aluminium smelter, 1kMW power plant, sustainability push - AL Circle",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNkZJVkVYWWFwdFR0TWFXbGNJbk9zSk1SdUxYdkt3STBWOUZla09YNVVtdHFtZjRUY0ZDWW54UHJBUnJ4QzluTUNkWnlXT1Y5WWpnbDBCbkp2Slpja1BOclppSm12VzNyVjBudHFmWHN2YWZrUTRBMlUzRFlEaVpGS1lqMmc1Y1JWNEQ1dHRGZzM4cjI4V1MtRlZNR3RyX0YzV0NFNjlSSlQ4Rk9FWk5kUjZIMXRfQQ?oc=5",
       "date": "2026-06-30",
@@ -44,11 +44,11 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO to invest Rs 30,000 crore in smelter, power plant: CMD - Awaz The Voice",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR3FjdXN2eHNYU0p2Q0lDSU5UZW5TNzFzOERFb2tVYk80XzdpN2VJc0VYOWs5Ymtuc1FiUWpFWEVyM1h4S1VpRWh3ZUZfWnNiSGxfNzE4RFpRMUFvOXVzSnFYMGFZSlFfdk4zTkVIenZfUTRVS0ZsQ0VqcGRXNUhqQzhtMkh5X2IwVDFFeTdCWEl3RGFnd2t5Mjh3amtvNllXcTZLa284Zw?oc=5",
+      "title": "NALCO to invest around Rs 30,000 cr over next 3-4 years for new smelter, captive power plant: CMD - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb3lmZm5naUFUVEl1QzJsWlRfM1lvOUc3X21ERTc5TTdsa0VrSUZhWWluTE5OU1pqNkJ1QjN1QmZCRGZvbnJHTDlCbWR6MTBINHZPVlNMUVNoekVrRVczWHFsRWI5ZFJzN25OdnQ3RElDWkRDbl9XaHNUMFdIU1NhTDQybEI4YU5EM2toN3VXMDNBTkZhME16ck13NTN5M2RlZmpuV3JjQlhHUVJtUDRuVjg4QVljMmhsMVFaNHhib3RTbkxfRklpY2dRWDRTcXpQT2c3SkMxQ23SAdgBQVVfeXFMUG95ZmZuZ2lBVFRJdUMybFpUXzNZbzlHN19tREU3OU03bGtFa0lGYVlpbkxOTlNaajZCdUIzdUJmQkRmb25yR0w5Qm1kejEwSDR2T1ZTTFFTaHpFa0VXM1hxbEViOWRSczduTnZ0N0RJQ1pEQ25fV2hzVDBXSFNTYUw0MmxCOGFORDNraDd1VzAzQU5GYTBNenJNdzUzeTNkZWZqbldyY0JYR1FSbVA0blY4OEFZYzJobDFRWjR4Ym90U25MX0ZJaWNnUVg0U3F6UE9nN0pDMUNt?oc=5",
       "date": "2026-06-30",
-      "timestamp": "2026-06-30T08:18:01+00:00",
-      "summary": "NALCO to invest Rs 30,000 crore in smelter, power plant: CMD&nbsp;&nbsp;Awaz The Voice"
+      "timestamp": "2026-06-30T08:18:20+00:00",
+      "summary": "NALCO to invest around Rs 30,000 cr over next 3-4 years for new smelter, captive power plant: CMD&nbsp;&nbsp;The Tribune"
     },
     {
       "source": "Google News",
@@ -292,19 +292,19 @@
     },
     {
       "source": "Google News",
-      "title": "Nalco faces export disruption amid West Asia tensions - Manufacturing Today India",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JNWJtOXUxUzVNZFQyVkNDc2QtTzdRNlZFa0lmc21WU29PRk9kNnJGc0cyeDRaalhnSzMweWhTZi1tVFZRRzBzTGdHWGRXVTI1dXEtclVWeGQ5TmxqbFdqS0VmdGVPTTlsUHRkcWdXM3lGUktpUm1XYg?oc=5",
-      "date": "2026-05-11",
-      "timestamp": "2026-05-11T07:00:00+00:00",
-      "summary": "Nalco faces export disruption amid West Asia tensions&nbsp;&nbsp;Manufacturing Today India"
-    },
-    {
-      "source": "Google News",
       "title": "Middle East conflict disrupts NALCO’s alumina exports, affects prices - AL Circle",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUlNUS3hGb2NHRGcxc2owXzVHaFJvQnVOdVJqek9MZDYxaDdoQWF5b3JhN2RMdFBkNGZzSjhpdVAtQWtGb3g3REpIWE4yeFlnVUlYX3dPZF84R0lROE5JR1MzYjNEblVCSWVBRUlGZ0hQNHdhaG84QnNoRmxlZUhxYUFabGNVRFZpb2FHa2ZsU3Z0NmRXOF9fN0plVFR3UTJKb3pTb3ZtVQ?oc=5",
       "date": "2026-05-11",
       "timestamp": "2026-05-11T07:00:00+00:00",
       "summary": "Middle East conflict disrupts NALCO’s alumina exports, affects prices&nbsp;&nbsp;AL Circle"
+    },
+    {
+      "source": "Google News",
+      "title": "Nalco faces export disruption amid West Asia tensions - Manufacturing Today India",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JNWJtOXUxUzVNZFQyVkNDc2QtTzdRNlZFa0lmc21WU29PRk9kNnJGc0cyeDRaalhnSzMweWhTZi1tVFZRRzBzTGdHWGRXVTI1dXEtclVWeGQ5TmxqbFdqS0VmdGVPTTlsUHRkcWdXM3lGUktpUm1XYg?oc=5",
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T07:00:00+00:00",
+      "summary": "Nalco faces export disruption amid West Asia tensions&nbsp;&nbsp;Manufacturing Today India"
     },
     {
       "source": "Google News",
