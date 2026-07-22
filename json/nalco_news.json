@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T21:13:10.614312Z",
+  "updated_at": "2026-07-22T02:51:09.748079Z",
   "count": 40,
   "items": [
     {
@@ -17,14 +17,6 @@
       "date": "2026-07-17",
       "timestamp": "2026-07-17T10:25:01+00:00",
       "summary": "NBCC wins orders worth ₹85.64 Cr from NALCO, IDPL, ASI, and PFC&nbsp;&nbsp;scanx.trade"
-    },
-    {
-      "source": "Google News",
-      "title": "Nalco, Vedanta Aluminium, To Hindalco: Metal Stocks Crash Continues! Brokerage Says 'Sell Aluminium Names' - Goodreturns",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc2pPcHFPLUNWajFDaTVLc1dNaW9DbFZLSVdYelUzbm1wWFJEVlk5c2tuS2R3SDAzTzNwMnhyMmdDck84b3hPZzludDh0Ymk4aFBndENRVW53T0t3MlNDRmpPU1RYaDRrUHVMRXVKWC0tQmxRZ0E0VHFLUEZfSjZGLU10aWQ0dEJKZ1ZNanpWOENYb2NxRnNRLUZxMlRJTy1WSWJLc3djNUlzZm5xSkhKOHhJRDV6ek9pVUpSQlNBSklYQS00alBFMF92aw?oc=5",
-      "date": "2026-07-17",
-      "timestamp": "2026-07-17T07:00:00+00:00",
-      "summary": "Nalco, Vedanta Aluminium, To Hindalco: Metal Stocks Crash Continues! Brokerage Says 'Sell Aluminium Names'&nbsp;&nbsp;Goodreturns"
     },
     {
       "source": "Google News",
@@ -60,30 +52,6 @@
     },
     {
       "source": "Google News",
-      "title": "Nlc India And Nalco Sign Jv Agreement For 1,080 Mw Captive Thermal Power Project At Angul - megaproject.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWDNlY21adFFPcG5WNWRCQTA4WG5lb01rNXRYXzNxSEFXTUZXdzJqWUJieXdDaGZ5VXdaak5rSUNGeDBMSlg4VFhCWlJKV3g5QzF4TlJQWVJpMHNGZjVhajZ6Z3I0U2ZaUldRVE1fQkJZMUN3MUJmbk9iNVFTd0syOUN0d3dVUklyYmZ6WWtoQWk4U29pUy1PMktXeVBmaTVwSXNtSFBZYkpRa3poVGxrcEVvdkZvcFhBd0lqbEN2UzJsZHNqamJ3?oc=5",
-      "date": "2026-07-11",
-      "timestamp": "2026-07-11T09:05:01+00:00",
-      "summary": "Nlc India And Nalco Sign Jv Agreement For 1,080 Mw Captive Thermal Power Project At Angul&nbsp;&nbsp;megaproject.com"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO, NLC India sign 1,080 MW power plant JV for Odisha aluminium expansion - AL Circle",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNWlkWmthSnR2dlpnejJsZUNSZHQ1d0VWX1c2WFZRb1JZWC1yQ0VuMUt5d3RWSi1PLW91SF90eVFZd1ZiU2lFS2dWZkxybUdzWmRrcm9Scy1MZlhpNnNzM3ROQ3dxbmN2Zng1QU91dUV2anFzV1FocHFCYUtoSnRoWHB1dXhoUHFDUjBJRnI5RVJkR1ZuN1h1bFZXV19WTEo4dWduQjFXR0FYRUw1a015SDNR?oc=5",
-      "date": "2026-07-09",
-      "timestamp": "2026-07-09T09:45:19+00:00",
-      "summary": "NALCO, NLC India sign 1,080 MW power plant JV for Odisha aluminium expansion&nbsp;&nbsp;AL Circle"
-    },
-    {
-      "source": "Google News",
-      "title": "NLC India Gains After Signing 1,080 MW Thermal Power JV with NALCO - Equitypandit",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdkN4UzlEaVNoNThZQkp3b2JuTW5DakxraUlnWUY5YU1wVms3cHVRQnR2dDVRQjJCeThJX2dpcU5kaENCSDlDbE44bzZrZFZ6LVRFa2xpMGNlU3RTQTQwT3g4bmZuai1sNFBQWXBQMldxNXRoUlY3SnY3WHFHZy10S0pkZVcyTGN5dTBwS2R2RHBqN2ZTc09sNTY5VQ?oc=5",
-      "date": "2026-07-09",
-      "timestamp": "2026-07-09T07:51:23+00:00",
-      "summary": "NLC India Gains After Signing 1,080 MW Thermal Power JV with NALCO&nbsp;&nbsp;Equitypandit"
-    },
-    {
-      "source": "Google News",
       "title": "NALCO, NLC pact for power plant at Angul - The New Indian Express",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQjI4OWdCOENqRlMxUHZfSEEzZXN5MnREOHNLUXA2YlFodnYzQW1WemZDZ1NGREVDNFJvaElnU1FPRjlqM0tPTndOZG0tVXd4V1o0a0tHOWVFNmYySmJ6OWlfQzhZdktFN2s5QS1Tb0MzdEM2NzhvaFFKRnZaa0xDOExPa1hYRWcwdURCQ19LX09jWEZIdDdITmZiXzVGU2pVX1pZYXpB0gGzAUFVX3lxTFBBOTAwbVNkbjVhYnNIRURGS1dxdEdDTk1LZVN3TzczTnJDeVZKdDVUZnZSakhlNHE1V21hWkhmeHN2WXdfODNPbl8zWWl4aEdVRHFNZEZIc1lZNVQ1dmFzX1JwYnctVUUxdWs4bDBXcHAwV0JVUWhXaGwzTmJvMHJ4TFFseG9jT1dkV1JUV0laTE5vdlpNTE5FVWY1UUFPTDdCYXM0bDh4TXB5QkJ6a1BZZy1B?oc=5",
       "date": "2026-07-09",
@@ -116,6 +84,14 @@
     },
     {
       "source": "Google News",
+      "title": "NLC India, NALCO Form 50:50 JV for 1,080 MW Captive Power Plant in Odisha - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNV2RoTUZlZnNwajBBdjNRaTRWS2Y1V2F5ejA4c3JUVlltWnB5czBhRzFvSnU0MldFR19MLWZaT2cwOW1oZmhfMUk2VXAyM05LZElXVFpHTUVJdUx1bXVIR09FZG9sUHp5TmhpMXFfel92VGJGOWlPZ2hKTXFPc254UHE2Sy1tRU5ZSmdFb2xITGZLeURwMWpCNU01U2RhR2RGTktrUmxXc3RmUTA3bWNNVUozaUVJVTBaWndVdTlOcFVBYnk5RFpVT2ZiLTFPVUNGZlc5azJsTXZZVFZfbnpYenhscHF2bTA?oc=5",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T07:00:00+00:00",
+      "summary": "NLC India, NALCO Form 50:50 JV for 1,080 MW Captive Power Plant in Odisha&nbsp;&nbsp;The Globe and Mail"
+    },
+    {
+      "source": "Google News",
       "title": "NALCO Share Price Falls After Signing JV With NLC India for 1,080 MW Thermal Power Project; Should You Buy? - Goodreturns",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOE5qak5aX1RhX2pnUi11VlFQd2Y1ek5KRm1ZTnZYVjVVcTBzeHlwZlZoSEgybUhhMlNYQzMzU3Z0cnE3b1k3aUlKSloxLU9MY05RdU5kVGdnSXdxV0FKOFRSQkZCWjExSEM5SjN5OWp6LS1YNklPX05FWXl5NzZIcGhZdk9VSGZXVFY5QXo3dVVSWHhRY1BOQV9CSy1NcWtOUUdKQnFRdk0tTFlYR0J2RHlFOUhRVnN0YURlYy1lZkluRGdqU0Y4Y3EwU1BwNmFLcXZKaU9NMlpXZi1C0gHnAUFVX3lxTE1vSnE3UGVQTGhCRGNlSnZfdGlGbzktTGswLU5tQ0JDYVRhZC1FdFNWc3pZaVZ0U3B5OFhaZV9iNDhJSzQxeWlVb2p5Z1NkclJjUUNDV1ZmallMcUJnTWdpemlBZWdVYlVFSlFGY3dWdnQ4WkJvWjlVdjE1UVVYUGJUQjFQb0FkX0FHSjFPQm5sZlVjUHF4cm8yN25LcktUMzFUWkxwOEJQZWh3Q1p1YUhiZnlLaDR4RDViTXl6TXJidVkxWmc4VFBYbzc5VFlOaGlUQ0JWMmg4cm9KWDViYnRRMmFNSDRMSQ?oc=5",
       "date": "2026-07-09",
@@ -132,19 +108,19 @@
     },
     {
       "source": "Google News",
-      "title": "Nalco, NLCIL sign JV pact to set up 1,080 MW captive power plant in Odisha - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNGpNMTR5SU01a1lZYjM3Q2lGV0dNMGZhMjlLeXRGSmhJWlRXWTZCU0FFb2lqRjBieC1pSjduSlJ4d1lBQjJjNWFhbGlFRTIxQjI3bDVSQk90WllJZnVtSjA3b2hfWlpLZFdfU2ZPaVNtWTM5enZnOTNnemV1c0x2U0h4cVZLR0o5Tm1kZlJQTjBFaUFOV2V6SHZHeTJHSEhSSVpleEx1T1dWbkJhaUh5NmNuaHY4SXdDMEd5aDBPeFZaU1diZDNRbG5uaVhESWZfcjNKRUxQLXFfRkRMajN1Um5lbkNaWVptVG9xUWpyZm1BcDU5NThZ0gH8AUFVX3lxTE41WTR1VmdfaHRXQmJ1WHdiQmpoYURNcFFESDhiN0NBaDVzWlptRmJVclEzRmQ3MkktTzYtOGdnVllNLVp4eHNyNXgtSmFpRl8tSkExTjhKZVhwY3hNN09iYUFOOGRZVFB4WkNYMDVyVlllQ2h1V0N6TXlMWk5WTm5TeUQwemxvZFNTMm53YlN4Q3MzTTJ6bm5zN2VDdmVUUjdFdmg3REIxRWl3VlY2RjNaZVJIVy1jdUo2UFJYZXkxY2lfY0VhR2pHaER6ZW9DM1RDYUk1eVNHazlyZFdNaUZMcGV4NEhUSmRJcVF4NTB4bTd6UTRYWExHNEtidA?oc=5",
-      "date": "2026-07-08",
-      "timestamp": "2026-07-08T07:00:00+00:00",
-      "summary": "Nalco, NLCIL sign JV pact to set up 1,080 MW captive power plant in Odisha&nbsp;&nbsp;The Economic Times"
-    },
-    {
-      "source": "Google News",
       "title": "NALCO, NLC India Form 50:50 Joint Venture To Develop 1,080 MW Captive Thermal Power Plant In Odisha - Swarajya",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFpvQ2hVUWFtM1BaWjlkQjV6LWdZNlRTM05veGhYT1BoOHlWLWIzc1VHMUtpOFRFcmpjQUhkaFRialdKYnV5STFYVUUwY1Q1MzRFdW5wUWdFN2hvZjc5ZHVLMGsxeUNLRWRTWUdoeTU3RVc3eTRnQWtxcWxoR0RieGI4d1VmME5fa0V4SENURE1RNzBJeDg0QXNVSDQyczRkWFhtUjNDOV8xdXZLcXdDNlptTXE5b21SQndYLW5JdXUwXzJreEptVnpac9IB2wFBVV95cUxPSmRmbjNpQUU3TzBnSTdhV3lxTGtLYlJIYnRjVENmMmUxS3l2dldsajgxTmV4STh2VURLM01vX2xUUkJkZjJUem5ZeXhIWXU4azQzR0xSQjgxZEFvSzJmXzNBYlFMZVoySVphNXc4SXFFcVhNeHBiUWNPbk5TX1RFT1JLd3ZhTVd0Q19mRjdrRTdnSXBNcmFvd25xZWw0NFhGVU16Q25td00xUE1RN0F5ZW5QTF9rM1pUM1c4VWtTQm9SOHVDRHRFTmExWXJMc2lpZzJYTjRXcVRUZ1k?oc=5",
       "date": "2026-07-08",
       "timestamp": "2026-07-08T07:00:00+00:00",
       "summary": "NALCO, NLC India Form 50:50 Joint Venture To Develop 1,080 MW Captive Thermal Power Plant In Odisha&nbsp;&nbsp;Swarajya"
+    },
+    {
+      "source": "Google News",
+      "title": "Nalco, NLCIL sign JV pact to set up 1,080 MW captive power plant in Odisha - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNGpNMTR5SU01a1lZYjM3Q2lGV0dNMGZhMjlLeXRGSmhJWlRXWTZCU0FFb2lqRjBieC1pSjduSlJ4d1lBQjJjNWFhbGlFRTIxQjI3bDVSQk90WllJZnVtSjA3b2hfWlpLZFdfU2ZPaVNtWTM5enZnOTNnemV1c0x2U0h4cVZLR0o5Tm1kZlJQTjBFaUFOV2V6SHZHeTJHSEhSSVpleEx1T1dWbkJhaUh5NmNuaHY4SXdDMEd5aDBPeFZaU1diZDNRbG5uaVhESWZfcjNKRUxQLXFfRkRMajN1Um5lbkNaWVptVG9xUWpyZm1BcDU5NThZ0gH8AUFVX3lxTE41WTR1VmdfaHRXQmJ1WHdiQmpoYURNcFFESDhiN0NBaDVzWlptRmJVclEzRmQ3MkktTzYtOGdnVllNLVp4eHNyNXgtSmFpRl8tSkExTjhKZVhwY3hNN09iYUFOOGRZVFB4WkNYMDVyVlllQ2h1V0N6TXlMWk5WTm5TeUQwemxvZFNTMm53YlN4Q3MzTTJ6bm5zN2VDdmVUUjdFdmg3REIxRWl3VlY2RjNaZVJIVy1jdUo2UFJYZXkxY2lfY0VhR2pHaER6ZW9DM1RDYUk1eVNHazlyZFdNaUZMcGV4NEhUSmRJcVF4NTB4bTd6UTRYWExHNEtidA?oc=5",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T07:00:00+00:00",
+      "summary": "Nalco, NLCIL sign JV pact to set up 1,080 MW captive power plant in Odisha&nbsp;&nbsp;The Economic Times"
     },
     {
       "source": "Google News",
@@ -188,6 +164,14 @@
     },
     {
       "source": "Google News",
+      "title": "Nalco, Vedanta Aluminium, To Hindalco: Metal Stocks Crash Continues! Brokerage Says 'Sell Aluminium Names' - Goodreturns",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc2pPcHFPLUNWajFDaTVLc1dNaW9DbFZLSVdYelUzbm1wWFJEVlk5c2tuS2R3SDAzTzNwMnhyMmdDck84b3hPZzludDh0Ymk4aFBndENRVW53T0t3MlNDRmpPU1RYaDRrUHVMRXVKWC0tQmxRZ0E0VHFLUEZfSjZGLU10aWQ0dEJKZ1ZNanpWOENYb2NxRnNRLUZxMlRJTy1WSWJLc3djNUlzZm5xSkhKOHhJRDV6ek9pVUpSQlNBSklYQS00alBFMF92aw?oc=5",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T08:34:18+00:00",
+      "summary": "Nalco, Vedanta Aluminium, To Hindalco: Metal Stocks Crash Continues! Brokerage Says 'Sell Aluminium Names'&nbsp;&nbsp;Goodreturns"
+    },
+    {
+      "source": "Google News",
       "title": "Explained - Why Hindalco, NALCO, Vedanta Aluminium shares could fall up to 40% as per InCred - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYXNQTGNSOUMxZ0htN1JQZWN0bHQ2VTE2Q1JMTGpsLXpWdkRfS1dhaUFEWEFXR1dSWnVCdUVabHp6WXRBb1R6N054dXd2cGtRRG9mWWVuWkNFWkprYkRqNzVJZV8tdGxXN1RZNWJxaWRORkpweFZMMHVnYkNldUZGT1VnSDBNWU9rYVJzekJzb1paZ253VFhFbDl1NTNvOHNIYWYwNDZCOU81MnJYNklPSTVzZV9sb2FDcWxrdEdvejIwc0lFbVpTRjZtaFhPRlhHX3UxVGhONjlUdXl2MWtjVzhWaDE3dGJqckQ0RWxlY2bSAfYBQVVfeXFMTjQ1eEw4QUFORTFhYkhMTnQ5VTEyVFkwYlg3ZlpLN3hleUFiVjdTRUtfU19Kc3A3RlNsVEQzYlVUMXRqdEQxYU90YUNlQy1PRHlkWkQ5cE4wcXltTWh4UUl0dUJteUNQcEtFNGJKTWZDUHJxWXQtZnlKVEp6NUdIWFd6UVNpYU9KTjE5T2FBTjBMcTB5WjZPZXlMSWM1MmtEX2dITlJ5YWZpRVJFalBZSzVEejVGUFdVSVBFd2ctY3dXUk5SVVM3VU1qUEVEVU43S3ZCY0cwTFBhU1d5Y2dJUlN5a0NEWl93UEJ5RFZBejQwUW5QMDdB?oc=5",
       "date": "2026-06-25",
@@ -217,14 +201,6 @@
       "date": "2026-06-24",
       "timestamp": "2026-06-24T07:00:00+00:00",
       "summary": "Nalco shares down 8% in two days: Target price as new alumina capacity seen driving growth&nbsp;&nbsp;Business Today"
-    },
-    {
-      "source": "Google News",
-      "title": "Vedanta, NALCO, Hindalco down up to 20% in June; metals rally under threat? - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU3NNdnB5bUo5OUhrN082RVUtWkxXNzczeTVPMnZLMnRrSjlyUFEwX1JQTnpwMUUzb1hBNV9pRWgyZWY2d0FtTDg2S0R1NlhGdWJfeDM3azdfMl9jR2V3QllwUGVUckVwTTJCbzFFdVNQbHJiMEwwVUczQWVSY016RGNzb0tKcDk5YVVsLXdxZzdRZlN4Rk9mLXVVbkkydkhwcVJsaHVSOTBwOHBnZFZRblRVUm80OEpLX0JNTUoxMGNhLXYzZkZ6bXEzRE9BMEhnZ0g00gHYAUFVX3lxTE13LWt6RnZfUlVRRXhscV9kWGZoWFoxckZXWUdDM0hlbXJ3WW5TekdOd3JhZjdCTTZ3UE1SR0Q4c1FHWHZRV2ZhdTZWVWw1TUVkOEF2aTZUTU05bXpUQnFhSk1WT0VlNlhOa1lIbTBheUpLSFBaUkowbzg4R0FONE1zLURsZjdUcnpsZDY5MjBBN2NtRERxc1JodW9lQlRrUjlySGxDNnlHZDFoYTBUUndqMWhqNDBwV2VDSU9CLTBEZlp3UldlSFltQmVzcWl1YXAxck54dWZ4Ng?oc=5",
-      "date": "2026-06-23",
-      "timestamp": "2026-06-23T07:00:00+00:00",
-      "summary": "Vedanta, NALCO, Hindalco down up to 20% in June; metals rally under threat?&nbsp;&nbsp;Business Standard"
     },
     {
       "source": "Google News",
@@ -321,6 +297,30 @@
       "date": "2026-06-04",
       "timestamp": "2026-06-04T07:00:00+00:00",
       "summary": "President of India confirms no encumbrance on Nalco shares in FY26&nbsp;&nbsp;scanx.trade"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO: Driving India’s Aluminium Future With Record Performance And Strategic Expansion - outlookbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPXzVMd2VVQk12aW5SQmQ1bHp3YzBnblBkVWFBNHFVN0l5ZkxfYzhyQ0RXVmgyOWlPRlpfQm9LeHJULWxucVdDTUFLeS1Fb0w2bDNJZWFKczNNZHY4M2Z6dW9EV1VLZFZlNWtNd2lrTUFfcE1HY3gxQmlwbTFVd1dtbFR3dDVPYUtiSE93Nmd5SGk2elc4alBQWFB5NEd3bWFjYlh4MVFwVURQTkNWSGVVS29mM3ZpQUpnYkVzMVpLUk5BWFhBVWVoMFVCOWh1Vzd2UHp0M0NULUZXT2FFWFHSAesBQVVfeXFMTXVGVEVpeWJVbzUyY0dDY1hST1BEQ0ZiQmZzTVhqbHRzNUlCY3BFMnhVUzZZMGdmal9mQU5MZUxfYmUxamlELVU3MHVIenBuMFNRUFRNNlhvM2FCTk94RFUxRERzMUNPY2NXMU5xQkJMOF8zTkJXTnluTVhMUWRMM1g0UEY4VW5ib0RVT0JBSy1JcXVwVDVwMnBoYnpGdEhJUVRiTlpUVHdHeWdyUnVYRWk1QU5haHlkdGd0NFZfS284TUM1OFVIb1dSTGZ4cHZlYnFtckJ6b1N6dEtod08yM2h4YXJyRV94TG5HZw?oc=5",
+      "date": "2026-06-03",
+      "timestamp": "2026-06-03T07:00:00+00:00",
+      "summary": "NALCO: Driving India’s Aluminium Future With Record Performance And Strategic Expansion&nbsp;&nbsp;outlookbusiness.com"
+    },
+    {
+      "source": "Google News",
+      "title": "Nalco Executive Director Sachidananda Jena superannuates - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORndqS21yeUhxQ244ZEFlZHRNaXNQc1dPWFVvMlRvMk5UV3c1ckw4X3VvVFFJS0Z5QUlMZTNyQmFDTjh1U1JLVDNaSzBGR2hkZWpHNHRfc2tSUnFBeFl5NnpwYjRKdHYwakNEZTViMDdobGNweEg1b0Y0Mi1HUy1OMjlTUzAwTk5pN3VrVy1NZEN3UDhKaEE3bTZSQ1drSC05dHFYTkV2V1pZRHJlU0p4aU03bw?oc=5",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T07:00:00+00:00",
+      "summary": "Nalco Executive Director Sachidananda Jena superannuates&nbsp;&nbsp;scanx.trade"
+    },
+    {
+      "source": "Google News",
+      "title": "Hindalco, NALCO jump up to 5% as global aluminium prices hit four-year high - AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ3lhdWhXdmdZZEVlNW1PaWZKRmsyX29iSHdBRG9sLVlZZENOaElqWG5pdEVySVE4SkpZUzBFRGNyQi1BSFNLSzdMRG9pNTNVSHd3YnV5ZTFiblBrRlVTUVJEWnJGWTQ1WTFBLXpJQWNCTEU1bkE0YThGMHZ0Si1VUTFsb0lXMHZVdnpUX1NUTG83VlJNOXIxMHp0LUhOTmkwNnExZFkxekhySl9VZmlR?oc=5",
+      "date": "2026-05-28",
+      "timestamp": "2026-05-28T07:00:00+00:00",
+      "summary": "Hindalco, NALCO jump up to 5% as global aluminium prices hit four-year high&nbsp;&nbsp;AL Circle"
     }
   ]
 }
