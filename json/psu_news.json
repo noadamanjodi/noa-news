@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "Beyond supply: A more resilient approach to Canada’s energy security - The Hill Times",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzJ6c3hRWHBYOEJZTVBvVktfZnZUNkVadlBBODhDLXcxRkxqLS1kX1hVS1JJa1gwdENKMVdmODFDZTBmVlBOU2wyM3ItYTBkeW5xM3FpVUxVUUFZODNuM1A0SG13MkxlMVV5UEFCbUxIS0ZTTmlLS3hrVW1uWlpyNHNCWFRnWjI3UURvMWN5UVA1dVBxbkMySHJGR3JCUDZ6eGd0WUdR?oc=5",
+      "date": "2026-08-22T16:23:09+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "US Battery Startups Score $500M Defense Lifeline After EV Cuts - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbmE0WFlpcV81YWRUbzRUMDVJeUJCQVFGWGpfYnVLLWlvOTFMczVRTUVoNTdrLUVJc0RPSW1HdW5OaVRQeXpMLTF6Mkg4d292WG9zRGM5NXlrNmk5UUVkWkhHdWJmRHBHQkpUNDFpTHBMQWRYaVZUUzFkdmd3TWRKNE1obGxBckhJdDVLQkl1MnA4Nm0yN01Td0dR?oc=5",
+      "date": "2026-08-22T16:12:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "'Most Companies Are Struggling': Executive Shares An Uncomfortable Truth About Solid-State EV Batteries - InsideEVs",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVmpiNE9XaXZwZ3ZEclFyOE02b1gtemxTbGNabGZKYURoWURMTEdGbXBBNkwwU083WldELVgwQkk3LVVDckVCMGxaTjNaXzVRamZ0R3RTdWJ6YXVRTWhrR1BiYUVCTVh3YXdjaTlHMWxneFA1WmpGeGdOQ1FBSkliSDJnRENFalo4Ukdn?oc=5",
+      "date": "2026-08-22T14:51:58+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "EXCLUSIVE: SIAM Seeks Removal of 2.5% Import Duty on Aluminium Scrap - Autocar Professional",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWlGcXByVmJ6WjZDMlp3SzBQQ0p6TmlPbVdxR293ckQ1MkZvZG5FajJzb3owMWdyQXBlZndlVDdsNldtX3FfMTFpN2xDOEYwNGhsQk9VTS1XaGI0M0YyNXd1U1JhZFZxejhKb0xrUDRXSFhYWnBVNE9kY2RNTktHR0JKV2JJcTI3UWxqUDVmYTJMempEdDJKWEZmZDBpb2hWS3Mtek5tdjVGS2ZGRGJVWmYwdWdHQ3dr0gG4AUFVX3lxTE5FaUZxcHJWYnpaNkMyWndLMFBDSnpOaU9tV3FHb3dyRDUyRm9kbkVqMnNvejAxZ3JBcGVmd2VUN2w2V21fcV8xMWk3bEM4RjA0aGxCT1VNLVdoYjQzRjI1d3VTUmFkVnF6OEpvTGtQNFdIWFhacFU0T2RjZE1OS0dHQkpXYklxMjdRbGpQNWZhMkx6akR0MkpYRmZkMGlvaFZLcy16Tm12NUZLZkZEYlVaZjB1Z0dDd2s?oc=5",
+      "date": "2026-08-22T12:43:20+00:00",
+      "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
       "title": "UP, Japan deepen cooperation in green hydrogen and clean energy - BioEnergy Times",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZFhkZFdobTUzX3UzbklWczA0NXRFRlZGSmtwRnBCLUR4WW9DQ2pOR1NYVnZnMDJYSGJOdVptMDJmR2U3WWxjbU5nNlJVNGJveUJXZ2FJeDd0MXAwb1B3djNFc01lVXIwTHBFdTJoclRoUV9pOGFFa29rTkNxUGp2SmtoS2U4NC01QlpYWnQ5NzFCY0Zp?oc=5",
       "date": "2026-08-22T08:04:26+00:00",
@@ -53,14 +85,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa1U3MUw2RmZEbVJJdl9jZUlQcUFWdkhwVGVYS3ZYS3pKVHR2QkcxZk01dDlBd3BXTDMzdng4cHdrakZZV0Joa0djc212R1JESW5YUjBIOEw0cm1pLUIteW9CYno3NEJOYXZKWGZCN0lrTkNkem5VUzNDc3NWYUFXQV9BVXlyZzZ0amV0elpNR2x4U3dhUGItTkxOMlp2YmPSAaQBQVVfeXFMT19mTWtYam5vdUJqQUlQT0xDc2s4ZFVHM2ZMQnNzR05yLW8yQVk3cWJOZ3ZxNG5TYTJXUFRPVXRfYlpLWmNoMzlJMUMxeWdZdGN1NUFITWgxSEJWWFZfeHpYQkhvUWZaNHR1UURHZ3RnNVNaVTBLNVRFckZFNGdmM2doRmlhaDhOU3lXOVpfa3pyRk1mMHRrYnhmdDVmSkdhek5HYTk?oc=5",
       "date": "2026-08-22T05:44:27+00:00",
       "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Power Generators Get it. The Grid Gets It. Batteries are Multi-Tool Players - energytech.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbmVlcXltWG1aQUZjT2xiVDRDUjQtNlNPVEhiX2JKZ2xqbnRYTlN2VG1ITFBVdmt0WE9sZmZrcl9rcXVTU2RJc0ZCRnpqM2E3a0NXMkxSRld4ZkVQLXI5RjNGX09EWkt4UzRSUTU4MG9DYnpuMUUtN0tzdnRTXy1QbmY0RW5Wc0dwMXhRNE1nTmRFVGxhVTZxZldpTDhoWGQzaWlMT3A1M2FZZGdhVG9SdjZJMHhzLWJsSTJMdXZVSzdINkxVeTdkRTVhalE?oc=5",
-      "date": "2026-08-21T19:27:14+00:00",
-      "category": "TECH",
       "source": "Google News",
       "source_type": "google"
     },
@@ -137,14 +161,6 @@
       "source_type": "google"
     },
     {
-      "title": "£28M in grants for battery technologies with more than 100 hours capacity - New Civil Engineer",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUlNQYUVSelNCOXVBZnNUeVkxOENkTm9NNTN0WEJJUXJHazc3a1BGUHpYZm11YjZkQ2lINE51MTQ4ZkpORlFNMGpBM3RFVXdkd01qdkRPREtIcDRORWFxRDBmdTlDTUlpTjZ1T1dKd1hDVjd2VThXSXJiUVJUdkswX3V0elVua0xVdDZwdmhaUl9UR3prRU9vOXhhYkhSMWpwYkI2UDFieDRlN0tBaVFkTURwWkdyRHJxbTFnQ1VIRk1FUQ?oc=5",
-      "date": "2026-08-21T15:23:38+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "India’s Aluminium Scrap Supply Bottleneck Crisis in 2026 - Discovery Alert",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdzZBcmJYNnNsejQ1SUZ6RmlvZTh2a09kVWtuMTZ4VmJFeHlRUnJ6bVJlV2IxSFBDMmQ2Q21rZi1KRW1aaDJpczVvZ0R5U1oybU1NRk96LWR5RWpJMEpqanBja1VBNnNRU2VsT3FaUDMzY0tSQk5DV0gzYXRKWU9yYlJBMUw5Z01WZXJtalJ5eno?oc=5",
       "date": "2026-08-21T15:20:40+00:00",
@@ -169,18 +185,18 @@
       "source_type": "google"
     },
     {
-      "title": "Germany's Fraunhofer, SGC Energy ink MoU on CO2, energy tech - ALCHEMPro",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbTNaeFBzQXpHOFVOT0ZzSjVlYnFxdmZmUHU2bXFSUVJRRmU5bUp3NVdnRU9RMnN2OUZnSE04NGZPOVF6SXRneXBxdXdyWUJsWFp4U3ZJVEFBQlduRjBLX184bFFORUtHR3N0dUhZVVNUWDV0SHFsTUNIX0M2NUxSOTVrNXhqMnVUOURpX0VjcjdMYmN1Q3FmekdHT0tfNmhrLUd6NWpKS1RNMmhrV09wOTlCNldtenRQR3FySFd5azBtV2Z5cUE?oc=5",
-      "date": "2026-08-21T13:51:27+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "India’s aluminium recyclers face a scrap-supply bottleneck - AL Circle",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFVhUXN0eTVSZzlSbWJuNXRiYk0zQlk3aFdGb0pGa3VGbTZ4VEdiU2YzRVhZdFB0X1BZenNNenZ0TjBKY3NZYUU5RnkzSWpfNXFwcnMzLWt2TmhYQ25TSTZsYjJSMWd0d0NBdDJjUE5RVnBtb21iVERvUlVpekkyTVFTSFJfUi1GeDJmTU5vZWtkOWNIQ3Btejh3?oc=5",
       "date": "2026-08-21T13:33:54+00:00",
       "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "CO2 Technologies & Hydrogen Partnership - Fuel Cells Works",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYmdGUWpqaXdOaXphZVhGT0RQZkpoNkpPWld6U09Bb2NnN2FxSWc0T2d1WHZyX2dFdTUyYUJ1TUZTUmQ5YllrSlBsdmpRRXNTYjJmd3JObDRjV0xlVVJnVHAzcEw1bmUyVDJJU043aDVOUFRzcS1JRTEtUEFkQVFhaDlWWS1IMkZGQmVBak1BZzFoYUluR3NnSFZSbjdnRVpPamdDaFhfSGFtZU0?oc=5",
+      "date": "2026-08-21T13:23:00+00:00",
+      "category": "TECH",
       "source": "Google News",
       "source_type": "google"
     },
@@ -303,23 +319,7 @@
       "category": "TECH",
       "source": "Google News",
       "source_type": "google"
-    },
-    {
-      "title": "Ducon Infratechnologies Wins Major Aluminium Smelter Order - Machine Maker",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd1NkYWNTcDZTM3R6NW1WeXJDYlJ2VlkyejdPMndyM25WV1VBZVJFVExScE1XMXM0R1gyQUh4ZDkyUWk0aGlhTnFNN1Z0RGN1WEFFTHNJeDBfdHpzRVlSbG0yVnBPczA1eXVZcHc4Xy1LZGtYWTdSSGZ2YUpNbE5UN1hROUhobkNEeGszLTdOem1ZRWZLb09N?oc=5",
-      "date": "2026-08-21T09:24:52+00:00",
-      "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "MP committed to clean energy, modern tech and industrial growth: CM Yadav - ET EnergyWorld",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUWZvdVVHd1h3eDk5RTl2bHdBLTdXR25GX3MxMWVhbEJKaVRIUG1LSDBINU9VMDRBMW5veDdRYnJIdkotTkN4UmNYcE5kRF9DN014VWRTeU5YMW9vT2hmZWFEMFFvQ0daOEU3ZmFXYTRWQjI1b0g2RTZLUDZLUThpMTFuVzc0M0JtOUZEazhDdGRveGJ2bDFhSGpydnlRLWNEbUpUd25mbjRqVF8xZVEzTEoxclY3WFhJSFpWT3MzSy1zdDNkRko1ZHZ2SUJERnNRQnlhb1NpTdIB3AFBVV95cUxQVUdFTDhTMzFxbmQwUmVZUFF5UFB4dDBLQXo3ME1xaExuTzlzclJ4N1Q1MDJBdVFzb3VLR1ZIWmtFZkczR0hQWmFkdVZKRlZITG1nMWItcVJhTE9DbTltbnBSYWtGWHpSVVdSSDRvMC1KbnVOLU9zSU15LW03aUpUalAxNU1GUHZlRXoxdDRUUGNnYlRhT3hCZjNkSUcyOWMyNXYyWkg0bG9GZ25TOVJjbG8zMG9qdEVFbGVZbGhNWFFnT1dDRWpKRW45STdPR1RmVDNUUjZHejhCRWVu?oc=5",
-      "date": "2026-08-21T09:24:50+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
     }
   ],
-  "last_updated_utc": "2026-08-22T12:45:24.419015+00:00"
+  "last_updated_utc": "2026-08-22T18:35:00.605115+00:00"
 }
