@@ -1,26 +1,66 @@
 {
   "items": [
     {
-      "title": "Can Brookfield Renewable (TSX:BEP) Deliver Growth From Clean Energy? - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeEhLT1N0bjdTQ05pcFhUVU0yZ040ZXdsRXJwRzRReTg5eWkwNzZ4UXdlaXM3ZmtqYXpFakJhdndlZHFrc2JYU01uWHRaaHFGdEg1aW5rWEVtUmtpRXEteTE4M1RiTlV2N0ZPREZuVmI1QnNzczloT3pzWThtblQxWHRZd1pfYkRNdG56TkJ4U04xYklGY3VRZGVhOUZfM1QxVTVaWExFQjByUQ?oc=5",
-      "date": "2026-09-01T20:30:00+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "UAE Net Zero 2050 - Indian businesses eye new Green-Economy opportunity as trade target nears $200bn - Emirates 24|7",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSnFQQjlhNEdSNnpqX2xCSncxNUZMb3FPSkFxY1NMcXBfS1RLSTNVR29xQjNwclYwYzdwei1POHhHNnU5NzlhekJ3a0NPTmtScFJ4bjJpcjNVX2hfT0lLYUNTT296c0FwYXZSVzlBQkFRd2FvTkJOU0NUczFJMDVVZ2owTzRqd2hEbW1tOVBEYXU4R0VsZFg1Mm9hV1Z6OEJpNVVpX1JJcHJGTnFyVjZIeTQ5eWdITTNzQ0JIdy15dF9kSGl2eUdBZVQ4WVFiTFZNUkFteXdn0gHwAUFVX3lxTFBHVWlwTi1GTWZUb0FtZ0NFSUpaWGdlTUpNZmJBTVhqM192NWI0bE9POWxTaXpBZVRtVE1TdmZMbDZuRnZMa2VyV0JoSWo0cGRGYjhMY1E3WjJsWWdCcGRRN3VpbXhJa3JzQ3JhbTk5aGtYT0YxZExicl9TYi1lYjlBUERDUGVSSGtURTdXUi1aVUJQUm1kVkVydXl4Y21fOU81OV9TVmZKV29IdHNDR0VVUUVuaVA4dURWR1hLMDExbks0YWxkcTc0cXBVSUdfcWpEOVEzNHNLSDBMZDRKMGZKX2VPbGdEeklsUkwwbjNmeg?oc=5",
-      "date": "2026-09-01T19:52:00+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Coal India bets ₹50,000 crore on life beyond coal; goes big on gasification, critical minerals - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQTjg4WGRRa3p1QjRFZVVFSGdyMnJHU29HdV9RNjJ2cmloZjNrRXJGNG11S0JlNWRCRU5Hd01VUXphRmxYR2R3MmpvRzFBYnNVUGNnYnNNczFlTEFyeE84WDVFOEJQdXRQYW81bkJwYjBDRE13Y21FVnduSlhJM0d0b2Zhd2FvdG5fQ3JFQkRIX3ViZklZcHg4Sy1kVXRpR1RNc2I1N3kxRVdUeVZpX1hSUktFZkhPdnpOU1JrOXZFMWNQaFUxRXppZFl5ejA1QzBjMmc0TU92dUZ6cGh3WVp1ekpmUHYwMWtmZGZtNjJNQWc1alRfTWdCNXZHR1V2SkFmQWc3WUxPTUxkckYyQVMw0gGUAkFVX3lxTE1LQ190NkFoS3ZyRDFmQ05CY1FzTDBSVk5EaERleFhxQzFaMUZ2OHFGWWJWWGZfNWR5ekpLQkg3Y3dpdm9TY21henFoMVFyVHVxVjV0UEE0VmJva2VUR3JZSThTUkNTNmhaNGRsdFl6dGtnZ19uRnlQMzBkd1dnbks1bHhrWEE4QWU0YVkyUTJvZ25GdEU5NzFIZXdFSGgyZWs5QklSX2o1YjNiWDNza0pzOGVmaElrR083bFhYaHVPVHZVaHQ4ckFTRHZYZVV4RHVCaWhwWUd0alFocHdhaXdEaEhKN0ZmejFrYmNuRzFWT3VjTlNjcWlLWXYxbmQ3Y3NxVURzZjVKcjNYNThTOXg5TFpZdg?oc=5",
-      "date": "2026-09-01T19:43:19+00:00",
+      "title": "Excess levies are choking India’s mining industry. It needs a GST-style Minerals Council - ThePrint",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOenUwdEVxMWhDYjhXVlF5b2pKdF84amJEQ3VjVm1vVVMyYVlMblpLcmg5UVN0YlkyR1JRbTdqaUc1ZXFEbVJjZ2pGYmUxeUt4aXJ2NTVraVFaUVFhamhJMG95dmpiZ2pnNkhqeDBPeE8waHRLNjQzQVZnMS1kQ1MxOXFZazlEYWVoQm9LT1dtSjVlbkHSAZgBQVVfeXFMT1JvdmNWUEIweGZvTmhURG9pMG9BUEhacEhkYlVaOVRhTHVLSVhSSGRoejk2bGdHYmNsT2JyVVdObWpBX1dBMnFYa0ZPamFlb29iNG1CTzdUa01aazR6bm0xaFJYVENqME1YTUc3N1d0NWxWWjVwX0d5RE5JTTEtX0xaMlFqOUgwZXpReFlsR1dDVTNjSkhCaEc?oc=5",
+      "date": "2026-09-02T03:00:56+00:00",
       "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Element Zero secures up to $26 million ARENA funding to scale green iron technology in WA - Proactive financial news",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSmJVWkg1OV9mMjVKQVhJTzQyMmlZUkNIMEJOZ0t3SzlUNDBVcXdLbl9TSzg2LUxOWjlzWDNMM3d3S0VhVEdKMnMzRmpTdkVmUmNNS05pRWY2ZC1ZdjJjVTEzeWVCWENjUGtUTUY0RHMzbUJVQWpMeXROb3FyRXRwTm1iclJyX3dzd2s1V0lQSWR1eFh5WXgtTVdpb0pxY1oydkV6WkpxWFlTMF9vTUtMb2h4TEU0S09tUVdDWElWMlVnd3V2MENRdGhDLXpPVzBJcjhlcnBJZTYzck51a1J6Z3RyU0M0Yk44U3lhcG1uT2xOMjdO?oc=5",
+      "date": "2026-09-02T01:20:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Clean electricity supplied 40% of new energy demand in 2025. Faster deployment and sectoral breakthroughs can cut emissions permanently, says annual Energy Transition Monitor - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWThMMlF3YmNWNFlLZ19BTnNxeEZhZnhOQ0RxdzFNdktHa0hDNThfSDJlMk5Wb0NkeFBHRHNWZ3kxb2RtUm9DVlJuS241UkM1WThlZ05kemIzcXZDb2xoZzExNHZpRGplRkxRRktOVFNlWmh0LTZsQzNCU19Bd0syOHRVTnQ0VEU1YXRoN2tQeXIzTVFQcldxZA?oc=5",
+      "date": "2026-09-01T23:01:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Study Finds Rural Communities Need More Than Technology to Successfully Make Renewables Switch - The Well News",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQmZYNDdZV2VfNmhlYUNLYWVzTkdzOXVnZ202TjkxeHV2UlpRSERobXNwb3ZVWVphY2FXQ0h5c2ZrelQ0TmpZQTBsdWJHSEFyVVY4RW4yclpEdUtGN2ZMMkZuMXI1eC1mRll4bDkxRkRXbjl1MnJNcy1ENHhQN0lQdlNqcDEyMEd2c0s1bXd6YVgySlBZRzBSR3NnX3lPZHlCbGZDSDBRM3RqMk1RTEN5eGZoVlk5MW14YTVUNG9HTW1sWVBoVWtnREdYdWhTLUs0b0I4cTd5QQ?oc=5",
+      "date": "2026-09-01T21:28:32+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Australia Invests $105.6 Million in 20 Solar R&D Projects - energynews.pro",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbmFqYk5taXFDVEZUeU1sbF9CSm5faG93RVM5ZVpuVmhoTE5jbEU5VmxXY1UzQXRLaWswSGRuU1hDRjdvdGh4S0xYV09ycW1FaXhVTEhHRktCTUJOZWhDWEswOVVVdFhnOWprOEZZZXRuYXN1WmlaQ3EzZkdoeXgzQmw1cFItNnc?oc=5",
+      "date": "2026-09-01T21:27:40+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Saipem to begin engineering work to scale Synhelion’s synthetic fuels - SolarPACES",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSmpmMjZKd0VRMzdEZXVDOWdPVXpkU2VEVlZmZXJlRXFLeXVkZ3ZOc2xZM1NJUWxJWnh2emY0VGl0M1RCX0pCR0VIRHpiVWVVeW44S0RORjh2cWZaQ0hCT1NsNWhRWjdtb3hDLU5pN1YtNkFHVGtGNEs0RE94a3Zvd0lYVnZIYVRZeWtaNUZvWl8wWlBZSFNzTWRBSWk?oc=5",
+      "date": "2026-09-01T21:03:50+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "EU Struggles to Curb Energy Transition Dependence on China - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONVlCUWRwTTFDVHhDV2RVUHNZX2dqZmY5bUJPbXBGWFplZnVzVVRFa2FiVmx0LWx0VmhaTENZWm5wSnA3dGNNWU5WMWhadkhPOEFKTy1sOURtb1d6aXluUGFicnBTMG55RkR1V1V5TUQwMFpibi15UHo2VC1uRGhVTTdDd2t1bldVS2FPVW5fWm9NWW0wckVF?oc=5",
+      "date": "2026-09-01T21:00:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "BYD Expands Globally with Innovations in Battery Technology - batterytechonline.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ0hqaF9keS03MHFKRGFvTTNaTDI1ZHNqakQzX1ZVak9sYjBUZUZXaUxpQjQ4MU9nUXA0VFNlYUZzLUVqSTc0WGxCa2w3TG1DU2xwYkZVNElTLWFTcXNYLUYzaXJXSFBpWV8xUHoyWElySVo3RkktYjA5azR3b215X2xCek93M1FuUkZ4WFEwSzRfSVliaEJsclRfSlcycUd1ZEh4MQ?oc=5",
+      "date": "2026-09-01T19:40:07+00:00",
+      "category": "TECH",
       "source": "Google News",
       "source_type": "google"
     },
@@ -51,7 +91,7 @@
     {
       "title": "E-Fuel Market Size, Share, Growth, Analysis, Report, 2034 - Straits Research",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ndEpIRENkMTBqNHBRZ1dqSTk0aHlXUDJOc3NBb2V1WWZJQ25DMUI0QzdNdUdlNHV6eUlBZ3NVcHQzR2U1Nng1cFJNcTQxVXY2SVBFQmw5QVVOMmVP?oc=5",
-      "date": "2026-09-01T16:05:33+00:00",
+      "date": "2026-09-01T16:10:17+00:00",
       "category": "TECH",
       "source": "Google News",
       "source_type": "google"
@@ -81,7 +121,7 @@
       "source_type": "google"
     },
     {
-      "title": "Ultimate Power Solution Group Unveils AI-Powered Generators at Middle East Energy 2026 - IndexBox",
+      "title": "Ultimate Power Solution Group Unveils AI-Powered Generators at Middle East Energy 2026 - indexbox.io",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQai1TcGRibGZHd0tqNjdqTENSR2lCd1dvQXowSTlYTHdaR0tMMVk3S1RqY2prLUM5Szc0LUN5UDNSNTR0aEVrMzBEX2piWGtfdV9GSVZ0ZjE4UXJuaVlRa3ZYd2FEU0tEV2FZMC00dnBBS3lpeGJrWWJzS2U4RVlQN2xBU2VRcTdvMm1sRG1Lb0ZEY1YxNGJfenZOTVJJbHlhTXdhSlVEdFdORlFDNEZSVy05UmMxYUU?oc=5",
       "date": "2026-09-01T15:01:00+00:00",
       "category": "TECH",
@@ -89,9 +129,9 @@
       "source_type": "google"
     },
     {
-      "title": "CMEI to invest $12m in space energy generation - Innovation News Network",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ1JoLUdyVVJoZ2J2WXdQaHZNalNXZHhkZkxRZXRNenZCeWd0d2Nxc0o2SVQwQkJ0bnZjbEpmUWZ2TzZvckpDSjNXN2dsWlpoeGxwNW9BOEtkSHhIcEV6RkhuMWxlVkx3bUtCb2JlMDhpR0cyVS1XZ29PcDdQWkdKdThieU9HbkdjNXVEcGxEdC1PWURG?oc=5",
-      "date": "2026-09-01T14:54:49+00:00",
+      "title": "Proserv secures Equinor contract to deploy ECG™ monitoring technology at Dudgeon Offshore Wind Farm - Aberdeen & Grampian Chamber of Commerce",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTm83Mm1tSnZBbFM5MTNTZEV4SnMxeGhRcmpfZEUwbU5uOW5xblRrcjhlS1JTRzB6c19YbXdUbWdyeHhQc1dJd291VUpRbHR0bjI4X2stTUFBY1A3dmU1cG1wMC1xQXp0eWJQbEk0bGtoRDVmQUY0c0ZtTDZveDRRZmhRUE55WXNPUkNjMTZXMHBxUTY2WGczcHpvVGpfb0FnaVJUdi1yU3JuUDJGYmNkTnp5b29qN0RtYjVwbVdqYXdhMVNYeUNWaDcwaEpWQWs?oc=5",
+      "date": "2026-09-01T14:31:11+00:00",
       "category": "TECH",
       "source": "Google News",
       "source_type": "google"
@@ -105,25 +145,17 @@
       "source_type": "google"
     },
     {
-      "title": "SolarWindow releases product specs - renewableenergymagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaDMyMzQxRWJJc2F1OHZvNUpFSXlwa3d4aE55VFQ0LU1ObFJ5Ui0zc3l2Wkk4SURyRlVlT1MwZ0Q3QVRnMzA5SDBIakRtZzZacmk1T0VFc1ctT1NYbG5STWlGMWo1TktDcUp3NEFjTnFiOTlmR2N6QXhRRkhNT3RGWUw3Zk0yWG5DSzljS3E3R1g4Rm1fVmhZ?oc=5",
-      "date": "2026-09-01T13:22:31+00:00",
+      "title": "Nature-inspired 3D printing could improve large-scale renewable energy storage - Tech Xplore",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wSkJxa3dfSUlnSlF0MUc2dTdVaGdRWEJnTU9rUE5nQzZYaEJVa2xEcTE4VDdEbHU2b3hhdDAtUHktUHNWbDM1ZnpIRFlTQXh6NFRVRWs5eEw5TUxKNUJXc0ZQdkRldTJYODZ1Y0ZkaUJ0WXF2dVhMa0pMVkc?oc=5",
+      "date": "2026-09-01T14:00:01+00:00",
       "category": "TECH",
       "source": "Google News",
       "source_type": "google"
     },
     {
-      "title": "Australian Tandem Solar Project Secures AUD 7.25 Million to Boost Commercial Viability - London Daily News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVndOLTdfV3R0TUxhMW4zNUtCUU5BYWp2aDRqYjdOR1VtSlBXdExDajIyMm9MOURpTU10WG5qd3dYVlpUUmRiXy1vdUVwc2ZmSTFJUWpTaWlKcmhhcklpODM0Q1E2bEhKajI2LTljMHVvU0p4MnNjSnp3QTZFdUYxOF92YTh0UFQyM0ZZRVhfUlNPSDlpOFRJcHFCeGp5Wm1JZFZXdTl0cG9LY3E2TnZQaHctMGZIYm8?oc=5",
-      "date": "2026-09-01T13:13:26+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Ultimate Power Solution Group launches AI-powered smart generators at Middle East Energy 2026 - وكالة وام",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa01QeTdRdzN5U0ZJZ2RzRjEzeUFZTzZ5WnNTd2p1bWNOZUF0ZVpOSEV6NlZhd051d3U0RTE3STZDVGN6TFREeDdEUFY0WGlqZmpuUFVaVThtQ0RvQ3g4NmJONTNZeExQUGdMbUNUOGNJUWdhZEFNNHN4RndFcFB3QlgtQWFqMndxcy1CWVdVNUI?oc=5",
-      "date": "2026-09-01T13:00:14+00:00",
+      "title": "Sanmar Group acquires majority stake in AltEons Energy - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMHZ6aVRlU3BXY3JqSnJJZUlvMUZRZ2xwTzlrSkk1SENIUFRkcG1vLUxXOUtMa1VpOGttaFVxY3JiNkJpaENBckVYN3FTOWkyZFMtUXA1T1dpUmpWUnJEam9mQjh1NmlFcm53WllWLUhwai1mTUZ1S0tOSm15NzFKN0s3Q1ZMOE9DbWtnSVRsejVzYVV1NDk1ZQ?oc=5",
+      "date": "2026-09-01T13:55:00+00:00",
       "category": "TECH",
       "source": "Google News",
       "source_type": "google"
@@ -137,14 +169,6 @@
       "source_type": "google"
     },
     {
-      "title": "Sanmar Group acquires majority stake in AltEons Energy - Power Technology",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaXBfT2pTV0dsUHJIS1VfZXJHU0ZrOFlSa2dGUmw2YVI1Zms0UlJORm5CSGFrVGJQbHhPTUpucVE3N0t3NHNkV1lqclp3SHhEYVhNZ05EYW5PVThiSDZEeTZtemU3RGtPaExrbEItNzZKRWM3cFNPbmoteFVLcnhkeUNQalBmWG5T?oc=5",
-      "date": "2026-09-01T12:56:05+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "Ducab Metals Advances Energy Infrastructure with Next-Gen Conductor Technology - intlbm",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcDlRSUhEYmp1cXNReFZkcGNwd3VSUGI3YlpKdkR2dXRNckxpQkpvbFgwMHh4R0lZWW9aYURmYnJUNDdjRkNjeW5yejZ3dHI1Qk9ZLWFyRks2LU1EbHp3M1hVZHhGNktpS3NCNFdKMmFtcmIxcm4tbUJkTXRBYlJRcEZVOXh2am5tMWpsOU0zQnhaSDRCQjdaZGt6cUVVcWl4bkRUMzhXZUlNclhER2c?oc=5",
       "date": "2026-09-01T12:39:52+00:00",
@@ -153,9 +177,9 @@
       "source_type": "google"
     },
     {
-      "title": "Iranian researchers develop dual-purpose electrodes for renewable energy storage - TV BRICS",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTVVuakdSam9sU2tsS2JaVHBaMlZyMk15dVFsZzFIcEZLbk1xMm1CQXU0ZEQwMmFVcGRQbTBBb3RpYXpKWm9VWkRGSGJjdjB1YnVNbmFTYVlhQ1F5dUpjSWRZUnN4cWNDUjlxSGhaaVhrV1NWdG4tX2FLYlFVVW8yT3BEV1FXTmdkLVgzTll1bHlnZE1YOFp0X2dvS2hoQzM5TXViYWx4MmtnSWNxSXc?oc=5",
-      "date": "2026-09-01T12:04:25+00:00",
+      "title": "How ABB is Unlocking the Potential of Geothermal Energy - Energy Digital",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdUs4eFdOYzRFSl81NG9yVFRzMXZDODk3b3ByWGNtaEJpV3Z0VUtPMUxVNGJ5bzZubHp5NTl0b25XdDd3ZlhWVWIxWjlkZUdhMU5xbnhIdmhkc3JzSVF0RUpDaHkwN0FiTmxaMk5XSnRPR0xkQ3lra09qcHZWc3ExeVRFTkpzN05PT2ozcld2UkpPak1DeWRR?oc=5",
+      "date": "2026-09-01T12:10:38+00:00",
       "category": "TECH",
       "source": "Google News",
       "source_type": "google"
@@ -177,31 +201,7 @@
       "source_type": "google"
     },
     {
-      "title": "The Nuclear Family: Behind Big Tech's Obsession with Fission - Energy Digital",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTEs3OGlmdE1fRFNBWkZ2NDZteFNfMUlRVE5IaVlCSkM1SVZuTjhBQzlGTFBZekd5TDducllVOWR1empRSmN1VFBTNGFZXzNRUHVuN05ZLUZ0OTlnZXptQnNNMDR0NEx2WjQ2c3RkcGQ5SVNjRmNYY1VrLVV6RnR0dXhpeUo2N0w4WEQxZmZXUWQ1eUdZdkhCMQ?oc=5",
-      "date": "2026-09-01T11:31:16+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "AI Data Centers Demand a New Model for Power Infrastructure - powermag.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNmQ5Z19CVmhTcTVxaUlVNUN3T3B2VUQ1a3c3MlhHS1IxUm01akpaNFRCdDVmbmVma2hXcmJEb0JfVktMNU44ZkdtZHB6UXowbVBHR3QxaHhQa2JqQnpMSnJWQU9hYlhVYXM3bG5Md1FSS1ZWLVhXQ0w4S2RVQUtOdEozb1lpb3VMRHB6SG5B?oc=5",
-      "date": "2026-09-01T11:06:05+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Renewable energy positioned as driver of Southern Africa’s green industrialisation - Tech Review Africa",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcUpuelBiU2h6ODBRYWhIazh0dlF6V2taY1QweTdQeWROSGVjSnl1TnN4dE9DSEQ5U0FiTjc2LXFZTVB6TWVJZ1QtMHFPd29mZkxwdlNXZDJpOWxLdFo0WTMyVW5EcXBhLWdBMUZORWdxWjFlekwzTTNGNDVadlktOHIxdnFwTklkTTB1SzVoeGlINDVvNUxkUkxzREtwZFpod0Z3cEo5RXlPblVZUG11ZEpWaVkxWUpLclNPUA?oc=5",
-      "date": "2026-09-01T11:04:23+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "From scale to longevity: Building solar assets that last - ET EnergyWorld",
+      "title": "From scale to longevity: Building solar assets that last - energy.economictimes.indiatimes.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSlRERXEtcEtYX1otOFNidHY5ZThnejlrczF3LThNU3FGbjQ2dUNYNl9XT0FXc1NtblUzMDNMbUpZRnYzTHhXN2NoSjF1QnNMLTA5UnBBTTJDREliMTNTc3VkVVNmUG0yU1N2QlRLalhlbTRjVGR4aTBwbGFKTmZEMFRCX3RDTWlfUmZHd05mZEdJcFAySENKbWtVNG9mVHJXMk5iVi1RMHB5OF9GMmswTGhCYndkSmYxZXBRZGJaYmUxd9IBxwFBVV95cUxPelp4M2R1dWFJZjl5WmtHbDlvb2pNczJpVVAxMlJ3RzZwVk1aR2ZrVGRWdnY0UVhfY1VlLUlpRkg4XzBZelN4RGJUd3RURlZRNzhjYUYzR1ZJbjVEUC1tSHVldG9ia0lFems3X3E4X1pmSWhNNmZLQk5BbUtGSElyMlkzWDNBUUNtazZPZmZPSWxLSXNNSkYtR1BYT1dnWGdTb1RQSFgtSkZ0dzJxT0JkUWZhaFRDeEZ2YlVOSF95aldQWUdZV2lB?oc=5",
       "date": "2026-09-01T10:51:14+00:00",
       "category": "TECH",
@@ -225,9 +225,9 @@
       "source_type": "google"
     },
     {
-      "title": "ZAKH launches UAE’s first full-cycle solar manufacturing facility - Gulf Today",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX1hVSGhub2w2UlN2NUVsVkJUZGRydmVhZUN4S3BHSDJUS1JCOFJ3WWxlZGtsdjZOeXNPYzNNOU1xX01IUE1tYU1GalY5QjhMclhLYnNZSXFTc1VJdmdleEZQU1l1cmMtSjlldjZxdVR4QXdHZWpMWHVLVmxmUnBtVFNJcnV6RllMTTRpZTBndm80bnhPRmFwWXB4TXRCRG1CS1JGcVcxcHRIeTc4U3c?oc=5",
-      "date": "2026-09-01T09:59:41+00:00",
+      "title": "Octopus Energy acquires Danish electricity trading start-up BD Energy - BusinessGreen",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTRERHUtbXdKX25PMTR1dnN1UFVfWEprcGM3SmswMHdJa2xTU2pPd004T2c0bFdDeVA5QjdVVDFveGhNZGdkZGhDbzdxQlFZMlk0TWdkYkNyQUhFdlo3MUs3azVqX044RXlEX3VEVVVpS1pVWlpyRXdFZVNwb2dRcjZLT1EySVZvb01aNjhFZUtITk9uOUZVa0FILXp6cFRaUHFoak9zVGFZVDZ2NkE?oc=5",
+      "date": "2026-09-01T09:59:07+00:00",
       "category": "TECH",
       "source": "Google News",
       "source_type": "google"
@@ -241,7 +241,15 @@
       "source_type": "google"
     },
     {
-      "title": "Europe Biogas Industry Trends & Analysis - SNS Insider",
+      "title": "NASH Energy sets sights on Middle East Energy 2026 - Manufacturing Today India",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFUDU1dDAwSXMyOU5sdmZiRmZVUm9PQ0pzbUZTLWE2eldWTFRTTnBrLXktWGdzYkd1YW5vc0UwUVlfdlhwM0lBOU1pUWJlUFBUdkVMdkVsYmU2MG9feklPSUd5WVU5eXg0TkRDdWtoTEE?oc=5",
+      "date": "2026-09-01T09:45:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Europe Biogas Industry Trends & Analysis - snsinsider.com",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JYXVwLXYxU3hOLU8tam9FZERoZHZDdDkzV2NUcXpSc3pqNVhrMWxiZEl2Mzd1dFp6Ymt0QW9JTVFNY054Rk1ycnRnVHpJRS1hMklIZ3NrbjVKQ0xT?oc=5",
       "date": "2026-09-01T09:37:21+00:00",
       "category": "TECH",
@@ -265,18 +273,18 @@
       "source_type": "google"
     },
     {
-      "title": "India and Zambia reignite mineral investment talks - African Mining Market",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWC0ycmFpQzMzMzg0Qy1nd0FWeHpiTVVXeUFVWWFfWHJrTDY4b252NTh1YnFKZ1NTLVpOT3FIS0d5MHAtSERrWWZYT0NEUHFnS012QnJTRWJjRW9pbk5DZWpWM0NoY3BGaGp3WDd0bkJTZ2ZxVl9xVXVnOW9scVcyZ19PT2xGejJnVEoxdWQtX3dCalk?oc=5",
-      "date": "2026-09-01T09:03:29+00:00",
-      "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "Five Reputable Battery Energy Storage System Suppliers in China 2026: Advancing Energy Storage Solutions - EIN Presswire",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQWJlOXdudzM2VmRoOG40MHhaaW1fT3MwbWgybFpVNU91WEtYUHlKY19fR1dzT01DdmZkTllVRGYtaU5ydHhaMDczSU9RN3NXSzB1WU8yV29Ub3JhMGNQTmJ2aEFJTk4zMnQ2LVRQOGFrTFg5eC1oWkZBbEY4MzVoZ3ZmMHI2TTRTQkxsUUszdWpscjlXdFhrbktUTmNYLWVHcV9OLTR0ekVPWVg3OF9ydVE1VVFSQnJ0XzdnSTd2ekhTUlN0LWRjVXlTcWRBMlVBOXdLQ0hzbTJ4RkFIUmlsS09wcFI?oc=5",
       "date": "2026-09-01T08:13:00+00:00",
       "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "India revives talks with Zambia to invest in critical minerals, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQelBWWVBpa3ZuaHdHS0IxSy1qZldPUVBuejNqUjBWN0ZPYklTbVRZMVR3aWZMRzc1WWRaSU1DS3lvRWFOakZHSVNTNjZiaEJBblU4czZjVVZKY21LMHBBYXJiYmZIa0ZhZWZyU3BZTnFfUFpqMmxmWV9Zamdic1RYUWpjaTBaYUpoQWJoZXBMM3BVX21pMzdPR0JUS3JXM1Q1N1lfU2hmQ2l5WmE1QVcteEQ2dVFHY0E?oc=5",
+      "date": "2026-09-01T08:09:32+00:00",
+      "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -311,15 +319,7 @@
       "category": "TECH",
       "source": "Google News",
       "source_type": "google"
-    },
-    {
-      "title": "Perovskite Solar Cell Market Size, Share, Growth, Analysis, Report, 2034 - Straits Research",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JYnFDcUVUeUQzc0NkTjUydGE1aTdOUUY1YUNJbm1kQnlCM1h0X2NFUDMyUmgxNWo0STkzSk9iSDM1SHc2ZnVnSHZuRFhxdklkOVNPTkFfVXdFTmxObHFWaDRYdjMtUjZxYm5kMXlGU28?oc=5",
-      "date": "2026-09-01T05:25:17+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
     }
   ],
-  "last_updated_utc": "2026-09-01T20:47:06.283844+00:00"
+  "last_updated_utc": "2026-09-02T03:43:00.801449+00:00"
 }
