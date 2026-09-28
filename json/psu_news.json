@@ -1,42 +1,226 @@
 {
   "items": [
     {
-      "title": "Germany invests €212.5M in green e-fuel technology - Fuel Cells Works",
+      "title": "Researchers Borrow Chipmaking Technology To Build Better EV Batteries - SciTechDaily",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNS1lbUNIc2hqU2loN1ctc1JuVnBrYVZCQ0gwVGVubmhrZm1WQWdPMWJFWkVmM2J5MVBPVC1Xak9ySkJkM0g1bFlZdnR5LTNKTTdodFphRFRPTlBEb3FIUmlTRVZNczV4LTR6SmZ2Q1B4WUN1UWVfNWpfQk4wUE5mbTJsdDY4QlBrN3dfZ1FjNHotM3VzemZIU25Ydw?oc=5",
+      "date": "2026-09-28T22:50:32+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "EV Insurance Drops: 6 Models Saving Owners Up to $917 in 2026 - Battery Technology",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEgyTHpMU2xYaTdZZ2hmWmNvNTFDN1FtN1FuNFRvQ2tvSnRDUHpVZGhaRDYybGNWVmxPRU1rZmhTRGZjd1ZPbE1PMWJQb1lzT3ZYbWoySFF0ZmRUMlVQZDhTazlmcDhCQTVDbnlaNFVaRXlreEFIc3E2QlM4eENZTWhRQmlkbjNCaVJJNnFTUmRwZ1JPNld3N2lkdGhoeFlLQldMWUN3M2tSX1FNRHdqLUNKLVdrQS1yOUlEdjdnVzM3dVE?oc=5",
+      "date": "2026-09-28T20:23:59+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Could Tesla Megapacks Actually Help Replace Coal Power Plants? - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTkhDSlVkdWFqNXNXaGhfR0JoSlAtNzE3NUNwTGtwMG1sVndPakwzc2ZNbEZCWVNHQmp6c1c3SW40Y2ptdkRPV3RVQzdfSkV2M2VKOWRhNXFCSWVkVjlFcXZmbnNGTUdLbXI5NDZoc01fa0NmeTFEOWswYVBUbnZaaXRXLWlaSWROX1pobzVVT1kwSGMz?oc=5",
+      "date": "2026-09-28T20:15:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "BYD Will Put Solid-State Batteries In An EV Next Year: Executive - InsideEVs",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByMUQ4ZjlOYnJoMm9ZWjEwVWdDMkNwbDY5dzBJck1OU0xxTWU5em5uaFU4NHNucG1KZGlpTmV3TkJKVjVQUHJtejNxbUMzMFA3blU5VTNBbUVpVEszN0k4NThWYUV0RUV6c1Z4NHYtemM?oc=5",
+      "date": "2026-09-28T19:15:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Navratna PSU NALCO pays record Rs 1,083 crore dividend to Centre for FY26 - Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOXzdwS21KbUVTTjlLY29qS21Tblg1MldHakcxSUFBMXZLeGo3RW9MZVR0LU8yb2ZGUVZ5d09TeXBiY1hsa0ZTbnlHOXZxbTFqVUZXcGptZFl2dHh0dEMzZEc1eWZwVU9YeFkxdVVIdGxkaHJGcVBndGVaVFN5QkZtZk5LU1ZreWJ3SVp5ZXFfSW5LNEVCNUNOV05CanRTUmN5Z29OTHNEYkFGRkxialN2eHp4Si0zYnB1Z0hz0gHAAUFVX3lxTFBvekl0bS1vOFdlOTJrb2k5RE1JLS03a1gzN1FFZE9JZ2h4c09uRF9aVHEwNHlEblplRGxzM09tRE1WelIyOXduMW1OLTl0bldPQlM3THU0dENuVFp2V1EtYmhyZnByRHAzaU1kSUVVM0dCYmg2RXppb2FueW1xNGgteGV3cjdKUTBzR0dMRVdpQ2kzcG13RnN3NFZNc3lCMlB3OFZaTEZmdjVKLVhEQ2YxeXRDcXNyU2RuOEhVdUl4TQ?oc=5",
+      "date": "2026-09-28T18:13:50+00:00",
+      "category": "PSU",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Where the Candidates Stand: Kathy Castor on Climate & Energy - Southern Alliance for Clean Energy",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWpTY3RfNVdxZHkzYV9XUW5jNW9hSjVySUU2ZUE1Z01FMF81M1lLNTdOYlVWU3VvV05DVWhET3BvclpLZUpYVmZiZUxuMm9UMTh5N3dHNU9hU2NHOF8xZ25pTnlMSlA2WFhiLXlLQjJ2VGZVWDJ1S1ZWSFgxZVFSbzBQRzVaTGNDYjQ4THNFZ3A?oc=5",
+      "date": "2026-09-28T17:03:42+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Energy and Development with Prof. Ernest Ofori Asamoah: Africa and the global energy transition - thebftonline.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZlZKVWxKNEk5b2FxRHBfLWM0cnZKR3B6dEJhOUZmcjk3eVVuSWN5SURLc284MlZvOTVoYzlOVGkwWm1IUnVJUUVnNjloOUNjenBhNGtPU0Q4aTR5eC1WRU8tbUh4azRjTFBaYllSV0xJeXZmUXB2RGtuaFJFQlJjLWg4SUlHVm8xX1lYcGZNZF8tMVA1Vm1zcVdwdU51SHJ4U1djM01ZQlpWMWF5UGZmUXFDbW5UZ1Q5LUVpb2Z6dkpYWDJM?oc=5",
+      "date": "2026-09-28T16:47:38+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Nalco to supply 50,000 tonnes of molten aluminium a year to Angul park - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORTdmZXhlcXNoVkUzTTFoTGJRRF9hSU84NTNyQXo1RXdKajR0RVRXOTNobHNkeVlXRUc1TENWUG1aU0ZnaWJ1dGRnazFMazdKOENveXFrV3ZsMDZiejJHcEJwby1TdzFnaXktTXFPdk41emZQb2hlaElkNzVKbmdnZm1UQmY4bW1ORjB2NUZuT2J0WU16RVpqdmFDUWplRDNoSlIyRC1CUHpRdVNFbW9UX1ROV2VkNzRRd3Z6TWFmX1JnNkotOUk2WXJUWng4T29SclhvOUFvM2htUdIB2gFBVV95cUxORTdmZXhlcXNoVkUzTTFoTGJRRF9hSU84NTNyQXo1RXdKajR0RVRXOTNobHNkeVlXRUc1TENWUG1aU0ZnaWJ1dGRnazFMazdKOENveXFrV3ZsMDZiejJHcEJwby1TdzFnaXktTXFPdk41emZQb2hlaElkNzVKbmdnZm1UQmY4bW1ORjB2NUZuT2J0WU16RVpqdmFDUWplRDNoSlIyRC1CUHpRdVNFbW9UX1ROV2VkNzRRd3Z6TWFmX1JnNkotOUk2WXJUWng4T29SclhvOUFvM2htUQ?oc=5",
+      "date": "2026-09-28T16:21:24+00:00",
+      "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Five IIT (ISM) Dhanbad Alumni Part of ONGC Team Behind Mahanadi Gas Find - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3pfZWVNYXlSQTU5ZUR1VmgzR21pN0JKcnJGNXBnNW56RldPWWpDNnFhR1ZySlc0QU1VNnRIVkQ5VmF2NXQ0QlcwdUsweTB4RHNSWFFiVzBrRzhwMmloV2U0N3k1OFZrc1Z0RFd5QmYzU2JsVjZ6VW5sS3RMSVVSNHAtZ2l1UGRtYnJnQ0FsUWVwQTZrXzNtNE1DM0phcTZZdzAzemJFY3JhZ2hFWXNoRE9hUU1OYmVKRG5IRi0xU2dvZ1BYNENhTkh1ald3RS1OYjRUWFdQdFRCMkZw0gHiAUFVX3lxTE83X1lnUlY2Z2ZzampsTXMzQW0xczhOdllHaTJWeUZ0SDZzRkIxZUlnRm5acndja0JXYTdCQldaTzAzQnpvNUNQREtmUWFHdWtUbVp6dzZzZVJIN095V29WdGdNUEptYTREYzRLRjJfNHNRcm5oSGFDb2FkZkFzbEtIWEhtN29lMGNrRThSNTE2eEFhVnhLcjFfeUNlUjJoUFVCMDFheVNsY216eElNa1NzeG9nXzlKQzNodTBwa084bmllRDA2X0ktQTktTThXcU5pVE5wZTVIbWEydWs4SWFaS1E?oc=5",
+      "date": "2026-09-28T16:13:00+00:00",
+      "category": "PSU",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "NALCO Pays Record Rs 1,083 Cr Dividend to Govt - Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaEpRZ3k4bVBCUHBFanlRT1BiMG1UUzQwTW5wNGpicm5jaDA2ZWdCQVBzZ0lRMmNDMXk4c3RQbzRhUldtNjAyUTdTY2dHeGF6N05IRUc0cjk1RlpRQ3RlbDlncUV4RjRFRlhVc3JSbWtuUzhvdEM2cFMtZFpybmQ1VDVDem0wSEFDRzlpWVFJeDR1Y3lCNUhOY3JMcXVBQ1dWR1c0ZdIBpAFBVV95cUxNaEpRZ3k4bVBCUHBFanlRT1BiMG1UUzQwTW5wNGpicm5jaDA2ZWdCQVBzZ0lRMmNDMXk4c3RQbzRhUldtNjAyUTdTY2dHeGF6N05IRUc0cjk1RlpRQ3RlbDlncUV4RjRFRlhVc3JSbWtuUzhvdEM2cFMtZFpybmQ1VDVDem0wSEFDRzlpWVFJeDR1Y3lCNUhOY3JMcXVBQ1dWR1c0ZQ?oc=5",
+      "date": "2026-09-28T16:08:18+00:00",
+      "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Regulatory Review: Renewables, green claims and maritime transport - Sustainable Views",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0NuY3BPQldkN2x2TmEyZE1ZbFBhdEVQa0t0d2FNYVhhS2RudHZiQTBnendxbzRnRVBZTnhHbVhqNjdFTEx6cTNidDhfNG5EUHlMUFZnck1WQVNhaXg2cFpjS2ROWEFrY2pVSTlsSVVkUzdfRnRPV0ZQcDJLdXhQdFkycG1zeFFLUFpFektZVU44VmNDTzlCc0pYYkZtM1NaUi1SSnFOV1RmWVE?oc=5",
+      "date": "2026-09-28T16:04:06+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Battery Technology’s Role in AI Growth and Innovation - Battery Technology",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUkhhUEw0NXo4bER0SGptMmlfTk41X3FWLVNCcTZJUFFManlJekR5dHVZUVM0TmFUN0kxV0ZIMVZzQzY5RGltM0ZTblR6TDVfaXhTRlRuTlBfZ2FseTRuZU9VVTcxemRTYmtjeEZqZmh0eml1NEhVcXNKWjlwU0w3bktERmZKY1d5UlZ6RFMtTzdJMVVBcERLTVhpcHJ5a3ZzdkJFbUJRdTBtRXpK?oc=5",
+      "date": "2026-09-28T16:01:47+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Technology and the transition: China’s lead over the US is difficult to close - Materia Rinnovabile | Renewable Matter",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVldBRTk3M0FuVXlTT1A4QWJTNnZCamYxUG1Nc0s4SHM1Y01HcEUxdVc1dUZtNU44MmJOU3hYY21ZUVQtWU1qUzFidFFRclhuanh5TlFYSEQwVnRhRXRfRVA1M0xIOW5obTgtaFVYLUdGYXlEbU9nX0dkOFZCVE93MDBaS1JOa1VuMVVxbm5oSHVWVHMzQkdVSE9B?oc=5",
+      "date": "2026-09-28T16:00:50+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "AI Power Boom Revives Natural Gas as Infrastructure Bet - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc0tSMm96OW5sMFBibjFHdFdKWTlJRzQtdE5seGFtNmFhaWUtNS1Tc1J2ZHVZVU5NZC1KbGsydk81WEVMUDQyejZwdjVtTEpjdWhQcENqZURlcTFYT09mZjdiMUo0aWJJQmdFRi1nM3JkR2t6VFRIX25OWVVCR210Qjd0YWNER19fNDlERUVEcw?oc=5",
+      "date": "2026-09-28T15:40:21+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "3: Driving growth and innovation - EnergyTransition.org",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNekRFdlNfTTkyT0pHTWRlWHFWTElOR3RwRkw0amFDVElVNy1HUkpLNTB4cm1HY05mU0ZIZkx2Mm82OXJKd2pjZE5PcFVRVndma3E2a2FrRmVfRmoxcExJaTdTaEU3YkFrbXJfWUVtclRMS1hENTRlSFNaNUxNSlc0NWhIbG82NGFSY1dsSWVxTzg?oc=5",
+      "date": "2026-09-28T15:34:56+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "NALCO pays record Rs 1,083.06 crore dividend to Govt - PSU Watch",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOHlvWXMzVWN1Vk5qaWJQcFZDYVc4b1c3VTZpUDBrTmItM0xkZXJNX1BUbnp4RWZDR3VZTkEzRUJHcUFSelpXVWF6OVdCZ1hkWURsOTh6RXdpS1hmeE5EekdVNDlka2ViN2NIV01pVEduV3R0WXpualdvNm5PZTJPbWxVSTNFdmFlQ0pV0gGYAUFVX3lxTFB1UEU1dTZ4dkVlUjhiWWpUVXRlVzRxd05Fd1R2WnROdU1hYklvN0Y1RmJhTFlNRG1BLVBFcTcxOE5QdkIxS2Vvc1lMSE1FLXFkZUszMGVVN0FkdlZFNDdLOU9sbWxNNmNfcjhMa1RDLUo5VVV5cUYxakNXc2M3bHZZQTlZZFQ2N3FWa1hQQllpZjBGakp3VVZM?oc=5",
+      "date": "2026-09-28T15:20:05+00:00",
+      "category": "PSU",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Volkswagen, Gotion Plan EUR3.22 Billion EV Battery Plants in Spain, Slovakia, Morocco - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVE85TEQ2bFVkd0Fud2FTX0NOa1RaaDdKaEpTMFh4RmNScDF3V1FSdmdOWEYxb3daZFgzOHdTWm9saS10RXpDSXdpNUpPV2hXcUczcW5fd3ZnSkFlbVVEVF9lZ0JmcVczU3FWSUs2YTBFNWRFakR5QVBDdEFSV0s3ZU9tWVotcGJ6Wmczd3lOaW5NMjRkX1VEYUpaTUFfb2FrZm9BYUd2TVNYYi1kUGJ5bm16UUNSTnQ4YUpiMWc4NFpDamIyUWpwVVIyZEVwalk?oc=5",
+      "date": "2026-09-28T15:00:45+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Renewable energy and cyber risk - Estates Gazette",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tRTJtMTdhZzdKNTRVb2E5ZXpqUUF3Q29GejRaTVNQNFloVjI4OGtBaHlIQmdoMllWMGVxcEhfWFBOQjJPQndKWHNwMGhDNzlLSmtfWExLWWx2bGJGbnhUbHVZY3hjTzlJSVd5WWF4emZzOFZoWGY2OHN3NA?oc=5",
+      "date": "2026-09-28T14:56:20+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Investing in the Systems Behind the Energy Transition - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTGRxN3lQYzRKemhnTTI1N0RPUC1YMGR1MmthVEZkbEI2elk4SXBMeFRKZnFhR0xiOXNBdTI0dmNkZV9QZDk4cFRhaVpOd01WQ2JuN2hGV1Q4V21EZEdWTjNjcXFaMHFzQ1RoaEprTG5jUzBWLUlQWWY0S0NaWS03dmpGQkN4dW90aEEtdURXZkN6MHJGMm1oOXNpbE1VbGpf?oc=5",
+      "date": "2026-09-28T14:30:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Is QuantumScape a Lost Cause? - fool.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tR2lOYzlSbTdnWll3c09aY1pSa3FFUHQ1bmFxMDU2Ty1jVkZEc3dYLUhOZ295TU5JZmMtck84REpyVjVFRUlrM1haWDgzQnRabHpGRG9tbmU3b2ZRcG04S056X0xsNXgtdjI0d3hvRWs1WTdTSWVYSW4tSQ?oc=5",
+      "date": "2026-09-28T14:30:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Haffner Energy Secures €3.2M Order for Quebec Renewable Hub - chemanalyst.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2VEb014Zl83bGw0Vlk5QXFSWENQOFhla3FRaktEb1Bya29GdVRCRGhkZHVkV011YW5CTjd5WjcydWl2NWVXd0d5SlZERHpCNVgwUWdveUpXcXZ0WWlaSWw1dzlKNkdYX2FuaFN3cWQySlk5M25SRHp4bkN1VGxCZUN4WDNaTUVIRG1KdFJVbTJOXzdweENEbkRTck54Um4yMlNlSUlhci1BaGtEa09WRjk0dw?oc=5",
+      "date": "2026-09-28T14:26:45+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Siris acquires majority stake in renewable energy services provider TAKKION - Dealroom.co",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEUxUWszVnlab3hLbkpsTVNQWmFWNHhQZnItV0pJOElxTkZrUmNfQlEtZW1aQVRXWERpQVlxWTA4QW5qWEFjNHlKN09Ndm1CWDNVZFpDVlJsa2hDM0tDLXRnekp1STFEa1RiNnZSZmJCb0JrdkdMWHQwdjNKLTZZNTI3MXJHOUF0RlUwTWRoUEU3Y2pWaEJ2MnM0MXcySXY2THZnZm5uOWszNDFISUE?oc=5",
+      "date": "2026-09-28T14:05:05+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "NALCO showcases investment Opportunities at Angul Aluminium Park at Investor Roadshow in Kolkata - orissadiary.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMlpLS2VYSGhfcm8zUjVEMU42NjQ0dThfdVItMmp5Z0ZZajNFT0F6WjZQNTlpNHhvN1pXSEkyb3NoNk1UZWhCaW0zRG5DN3RTQWxLc0VsY1M2SnlIOF9rY1BnNk5lbUp4Sm5NMHZSWUJLTjNXVFlZenREVGVjdmFmei1sZHV2ZWdZV2FvTWhSRWU3Si1OLS1tM3NoR3AtQWYtM1NNeG9WVERtVVptV0FkUVB6SFhQbVZUaDJMRUx3?oc=5",
+      "date": "2026-09-28T13:57:14+00:00",
+      "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "China plans mass solid-state battery deployment to lead future EV technology - notebookcheck.net",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUG9EazY2RlBvZEx1NXZSR2JUTE92alFFbk1NYUdtSUJNNzV2MnkyZWoxcVJqSl90cHctdlJTQVltNmZCSVJQT3QxNEhMczBrUTR1R21nOXZXaEtOSDBwN1IwdFVEVmFQdGdhekZFZFlYajEwSVJIc1ZxYW5fV280N2ZXWFFibTMyWGZQWXBpUEhaSjJIRFpPX2NlVFJ0cmQwb1drS3pkdUxMbTh3OGptNWZndk5WVEh6azdxZVdn?oc=5",
+      "date": "2026-09-28T13:39:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "EV battery swap stations could be coming to a street near you soon, as Geely and Nio sign a deal to 'accelerate' the technology - autos.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcGRPQU10eElpNlJ2eVBXSmNhYTg4ejhwaVduMTJkLV81YmNKaFJyLUYxV0R2dlJzYW5TYy0xWXNxMmpyT09xbkxWOTByOS1iQ3Rvb3lkQlBhcEJOZnBXVWJ6MnpKeVh0VktRV2tFaWViM3FCajRmbV9uRjVtY29zdTk4TVM4MERSekl6cl9rMjZVRHRjamhidHNVejBnQQ?oc=5",
+      "date": "2026-09-28T13:36:08+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Finland, China And The Next Phase Of The Energy Transition - The Friday Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYmJJcWVTUmR3X0xYblZBQkh1eWRlQndDUDhlYjFFRlNDSmxoc0dKeHJ1OGVkMjhsTVJKY3RoSnluRFloNjQ2ZFZ4LWJFcWptaUpld1didkZQMjBCYjJmZDFSWXZnRGxnb2NTWjRjWHNPNUlfVTdXZ0k4MTllNlY0WUd1RTAyVzBoakpTU0xR?oc=5",
+      "date": "2026-09-28T13:26:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Factories Drive India’s Industrial Growth to 8% in August as Mining Shrinks - NiftyTrader",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUENEeEZJLXhuWThlcHVPNEhaazBXOWoxVW0xWkNTa2JYTU45N0hzT0lvczRfclhmOHhMTVQxQXVWRURjUTZrNi1vT0FYMmxqNkJaZmdUN0c0Mlh6ZTJNVFhEbFhaUEFHalpURTcxWktYRUlHVm42ckxHNjVweTN0VTRB?oc=5",
+      "date": "2026-09-28T13:04:52+00:00",
+      "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Germany invests €212.5M in green e-fuel technology - fuelcellsworks.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObi10Y1ZMZEU5RzdGV0l6QnVXT2Y5SUVDU3IycDJzd1U4WTFrd3FMUFVvWVEyTXFJNnpfeDMwa01mdTJNamZxbXNndGljRENfLXBGZkdiVVBMZllmd3lqU0NTc0huREdwVW9CVVNzTjJRMWcyYzhPaDZ2aF9mdUhsZ1lhZlJfUk1yVlNiY1haNURnbVVITXN0ZFdkSjlvc1lNY21nNHZQVDhmbjR4TWlvNmRVUXpleVY4a283X0oxdmM?oc=5",
       "date": "2026-09-28T12:51:00+00:00",
       "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Servotech Unveils New Solar Inverters at Navaarambh 2026 - IT Voice Media",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMXU0dDdwR0NaRk94NmkwV0REQTc2WGRRZzdyQXRyNUg1aWM0SEVtenNEcUw3ZDVDRnlJZFBQaDEtZ19WeTBncDNxRTkwNW1hTGpBdlk2RnFIRllQNDVZa2lETkZ0YW5CVHhmTlRXVi13ZkZuVjQ2WGNBT0hCb25lbl9pMnE2OGxUQTVwMkk0cXdRTUtSOGl3MFU2cHgyRk42TWhFX2lfT09jLUhUbXA2NFZSU3pYOXF0aC03azZsRTJDbGwycTF4MWhYeWVWTUcxT2xDRVZiNTEySHVMdWRfRDNHR3pjWnV0LVE1VEJRUV8?oc=5",
-      "date": "2026-09-28T12:50:10+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "India Solar H1 2026: 50.6GW Module Capacity Added, 27GW Installed - News and Statistics - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdm1TQ3JIU2xGbEZuRi1BcW1YOGl6RlY1dnRzZ3dvZjN6TlFkNFltNzNvOG5ULXFQRlNBZWFjX2xoQ1NpelYyQklIQlpicmtZWEdPb3RVeHZjQ2toVEg5VVlNbk41WjdqdnhrOUdvR1dFb1VwRDVUZEtwMGEzRmRvenFqZlF4UUZIVlBMc1VzeEdNY09fV0pDOEFtV09RZVlfMWRtVFBOOWFkRVlFejJBWjBn?oc=5",
-      "date": "2026-09-28T12:30:59+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Certification opens Danish market to French e-methane developer - EnergyWatch",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kdXZXNUxqdW1PeDBfcHZyaW9FYmNRUWdRdXFhamNRZXpyczJNQkFDakNITzVUY3FlZGZDR1FMTFJzeTAySnZPWXpxZ3Uxbzl2VE10RFFDYVA4TWQtaGlhby1KS3ZnREQ3MGc?oc=5",
-      "date": "2026-09-28T12:30:00+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "No coal shortage in India; Centre to explore coal, mining opportunities in Bengal: G Kishan Reddy - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNjlScDhoQnlxSy0xMGRaQ0FvN25TSlRGbVprWjVFY0hhejVnenZuUVlYQy0ta3kxNWdzV3dPdmM2NGRFRE8zZkhQWFJ0U3pSSXh0Z3E0clJoVXlfQWI1Rlpwem5IN2RFOTg3enZmUm9qeE8wYUNHWVhicm81eEJKMTR2aVJseFNsbDdmbGVkb09TamQtNjF5bWRhT0JCV2dTSkhiQVhKMXNlXzdnQ2ZjajdOcjNuZzlNaHdZSVhCa1piU2QwR01vQ3d3TWtwb2RkNDNKZNIB2AFBVV95cUxNQXVZcS1TSnJfdllMX0JxZi1LTG4ydlk3azJ5RGVlOWFXVEFJNmpVVFBZOExRczF4WkRxQk1CMEdMMmFmNG56RDdYNVdiZHZWNDh0NDZGallmeU5oUlNUQk1ldjNjRWRGQ2p4U2hwelR0NEZHMDJTTUdqdjRDYXVRUzJGQnRyZkp6VXQ5enlWUzRUNWhOUHpiNTdULWxkdGJKem05NHBPZl9fd1RCSldzS2lpQXJvSm1PaGRmV2UxdTROdE1BZ2NGRXRBWUhtVHlsUDNGVFdWWEk?oc=5",
-      "date": "2026-09-28T12:02:34+00:00",
-      "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -45,6 +229,14 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmQ3VXRDR3RPNHZBa3FWS3ZjNjZmVjFnNmEtQWo5ZG8xQXpTX183TWNDLWtkcmhpbHJhY2VocC1EZC16RXcxQXpNaFhLdFRxTGI5YzJaZTZ2andlaHpZcHVDNm56UzBZdmh2M2tEQ0ZkaVdVai1iWmtvc1YySHkySE1NVzBmT3ZuazdYSGVUcEhrX2UwaURwbFNJVENIRHNMeHMyMXp3dkRpVUEtSWhvQmdDWQ?oc=5",
       "date": "2026-09-28T11:59:39+00:00",
       "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "No coal shortage in India; Centre to explore coal, mining opportunities in Bengal: G Kishan Reddy - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOEZvRmJ3aTVPQW5BYWdYLS1jVkxKeVVzZWgxcDA3ck4wR3ItREN0OWN5cUJldTZqMWRLRVZ0ME9pNnBMNVhibTlmbFhQZF9XMXJ3UTFfSld1eTN2djdOWGtKV3pqYmxBWkNKOGNWNnphWnRmd3ZSVjZkSjk1cTJRZ1NOZU1mbG9ELUZpem5OZGZtWDVWMXBlbGNvZmhjZTZiUnFjZ09Fa3gwT0VxZmtERHVfZEdFcUFvcVltMzVIRkY3aUFXeTlKQS1aZXhpd1ZXQnduQWZ0YzN4Qm82a1E?oc=5",
+      "date": "2026-09-28T11:58:00+00:00",
+      "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -60,6 +252,14 @@
       "title": "Refinyx emerges from stealth with Northvolt recycling tech buy - Renewables Now",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON3RrTktrNEUwMnBkLTMxTUU4TEI0S1JSc3VtRThqMVFpMUNncFBiUUJDLVdaM1k1bGZTV3l4TDdoeFV6ZFlpZjJGbnFvVHhINkpXaXRfdnctb2k1bm81UGxUV0VOUlpWaDB4QkRrRGx4RkJUS0RLZ2VhODU2RU8xS2NvdVFMSUNfa29CdkZEanZJMkVtSElfUHh4Z0p6Uzd6WU4zeg?oc=5",
       "date": "2026-09-28T11:45:16+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Western Balkans: An emerging renewable energy powerhouse? - Washington Diplomat",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZW1vOUxuUzd1VUZQUFF1QnltcTAyZng3N3o2OWc2YzVGTTRyTWd5UGVOcGMxS3Jzam9mYkxMajRyaVpNTnpHc0lDUVB3NFZ0UGg5RFJIX0VZcDI1NUNOYTNDQlVPLWlFWnV0R3FLYnh4bjBwTXJaZlNjd1lTRmlNLWdJZGZrZ0Rh?oc=5",
+      "date": "2026-09-28T11:42:07+00:00",
       "category": "TECH",
       "source": "Google News",
       "source_type": "google"
@@ -97,6 +297,14 @@
       "source_type": "google"
     },
     {
+      "title": "Chinese car giant unveils technology that powers up a battery in under five minutes - Female First",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLXJSdHJacEw4VW9BRVFWOXY3blAwQlBVanhFZEhCLXF3Xzg0M21nYnNBc3lpMHEwOWVyLUxzQjJxUnI2WFpOa2tZR09sRFNoVEZZQlFKYWZoQmJaSXE3c2RTRXFWQzc1YVliQkUtWHhuRXZwNWpnaDE0dXR6NTFVbWhyU20zRkRLQWVEOHNSVkU1c1gwekI4LUw0WkFJbFlVTUlpUWJndG1CRWNsTkI5ZElNSzlHbDQ?oc=5",
+      "date": "2026-09-28T09:45:20+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
       "title": "How Autonomous Fleets Can Power Green Cities and Clean Grids - Sustainability Magazine",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSXRkTHBzWHR1WWFYemNfWGpkVE1Jd3U2dWFzeW1nMVZPeW5VSkY2endsS0JaN2pUaDZ0TVIxRmpobjlKTVYtWE42cDNnSVo2UlNLOFVReUM5U1hUY1BuX04zVmVzVm9aQ0pWR3MtZXJJVDhiNG94NVNRd3dIZkdfb0F2RkJWMk4xam4yVDdLbEE3WjBONzRWSEZQaw?oc=5",
       "date": "2026-09-28T09:24:53+00:00",
@@ -111,215 +319,7 @@
       "category": "TECH",
       "source": "Google News",
       "source_type": "google"
-    },
-    {
-      "title": "European Subsea Cables Association : Spotlight - EME Outlook Magazine",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWk81OTgzUFczOGdmWW90dDdTWUdfQlFZdFFXSzljRFhyNkNKNjVPUTdRdHM3MDY2QkgyalZod0hqX2wtUTNvdlgyd29abk1SYnFFcXdPS0x2WWh6aUpaVTNMeUJYX2dZVXFsd296eDZUSGdxWUxDbC1GcmpTclpXbVllV3JydWp3SDd4ejlmZzFKQ3VXZ09zaA?oc=5",
-      "date": "2026-09-28T09:17:17+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "NETRA to host solar and BESS conference in Hyderabad - Manufacturing Today India",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV0NacDczMGFFZXllUENua0wxVktyaDNabHdNeXlYLTI5VDA1a0FrZVpJR0h2bWxpXzRVX1JvaFd0YjdMcjI5a2NuWno4VjM3WE5zZjhUOUYzclBaTmhqTUpPV0VJSE1UTWtJYW9ZTnFLQmd0TFljRXhoMEo5eUw5Vw?oc=5",
-      "date": "2026-09-28T09:14:16+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Saudi Arabia’s operating renewable capacity reaches 19.3 GW in 2026 - Fast Company Middle East",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRDVkNU14ZU5zOEw1X1pjdjI1Znp5dml2aGtvQnptWkF0UFhaSTd4T0Z4blNrS0JqYUxOY2J0RDN4ckdjMzBlUFRBZDFZbVdyRlpFakZsYlRaQldOcS1yOGFlX2FuanNFa2lvZFpFSEpGU3A2YzhmZ25ya1FHMEtjVU1OTjRDM054aXRHWWk5OWJVNVpHSmYtMThmcjFEYTA?oc=5",
-      "date": "2026-09-28T09:10:35+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Why Won’t the Clean Energy Industry Play Dirty? - Washington Monthly",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeDlaZWRoc1F4S1E4d2RTVHZKbHJ0aXZ0aDZMNWFLRXE5X2FUMzBLaEFCN0Y1SE5QZlo2V0pzeHRPQVEyU3NjSk5mNWFWaTZpdXE4VWVsdWRYeU5XN3hfV1pRSnQ3ZXcwckliZFA5YnFnUFRtdHNRQ2VvYjRscVJqNzlBSml6cUdyY0o4MU42dF8?oc=5",
-      "date": "2026-09-28T09:00:00+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Finland’s Steady Energy awarded funding for SMR development - Enlit World",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMlVXZmY3UHdPT2FST1RFaFBUY3h5aldFVWZhb3ppdjc3MWRna1ZjOTZoQjd5S094YnF2a01oSS1wV0EtcGxSWDY4bFA3ZzF0SV9VaGprN2tLRFEybEhDYzE1TXRRbWtfVXlQSUhkVG1nOW9MX1gyOTZ4THRXNzJ6UUR0RUNtbkJNOGZIRVByOA?oc=5",
-      "date": "2026-09-28T08:57:15+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Asia’s hydropower growth faces water challenges - Power Technology",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcTVnM1MzdWNEMl9ZV3U1dV9VVGxDOGZONjJvNmFnUEZqS3pnZUlFRWh4UXlUWTJDdU9RZXdQMHpfcWNIN1MtTEx4QlAzTzdTU19JZ3M1SVp5WXZ3MU44MFlVMXJNRDctMGd2NmIxZkxXU3Z1c2xmWHVCOENoangtMVBMS2c1bzljTWhEMEhwTTZGZ0E?oc=5",
-      "date": "2026-09-28T08:51:34+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "From Food Waste to Clean Energy: Jaypee Univ Professors Honoured for Biogas Innovation - The News Himachal",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa2NFOWRoUmY1VFg5bUpCdzBGRjVLeFlPOEc3RXpIM2tpcjl4dmVhaC1IdWhfTHZmU2UtdHZKTlVscjMzMDlRbWUzOW9DczgxU3ZNRFBGUlB1MUdOTWNzdnJINVVHY05HY1VhalRsajF4M0JnUlBrZW9INUl4bjUweHpSYnR0VkpfTVBhLXZleVJTOENNRTJYSS11d0hpS0xEOUVJS0QyaE9lSTJ5ZnhWWk4xM3otcU5Vb1Fia05pOA?oc=5",
-      "date": "2026-09-28T08:46:14+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Green Growth Without Washington: Why US Businesses Are Still Investing in Climate Technology - Silicon UK",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ0ZkS3p6aW5qX01jV1JZTXBfck9lQ2N6bGlzSWE1bERnemNaSTY1T04yMGhfaWU5YWxuR0VBeE9GUjN1dVJkbnA2TlhJQmVJb29ZUC1rN1RxdkZ4Ymc1ck1nM1VuTGktby1aLWEzMFRHQUFRa0dxUTN0TEh6TkZvVFVWV0xMdnd4QTBFbmNWeWFPU2dicW1Wc3lXdmJwNHdtd1B3WnZiMWdoUGE2QVVTVDFUeEJFNVBaWlFqaGMxWmJGN1pjYUlIazNFWUJOTXpDa3c1b1RB?oc=5",
-      "date": "2026-09-28T08:38:57+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "China’s Nio and Geely deepen commitment to EV battery swapping tech - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWZsV1FDcjBBQWFfUDdkZHFSbThoOElqU1Q3b3Y0YlI5VFl0MzMwSFZqWjdfeGpSQ1FYLW1jRHlGNlFObm4yQXlCWFlHb0VLcGE1eEtQU0dfdHJlX2dJS1J1YTdvWDh3b2VRdGRjZ2VlbTllaGNOdDZ1eTEzY1ZOU1VLZmhxSktVOS1pbnljMm4yUEdWVkhUbkROWjNPTy12X2dDZUFxMW9pVHhsbEVsdmNvYXZvT0NCM1NRS0xHVEdGYUhISnZzU2FR0gHKAUFVX3lxTE1nTlFnYnFidFYyYmgwQWpfWWVnRlNtQk1BbXNGQWpwUzZqR0ROM2k3M1pOZkI1bnV1WXE4Uzk3dkhKeUg4VDFnZXBaenQ0Y05lTFBkT2U4dFVSb3RzcG1wNFJGTXBJQUsyRW5FQUxrcGx2bk9IbjF0NjFUY21rdWtSTEhyY3hYQnFSSmRQeGlfVlVSb0VGUTgyOC1PVVBRNlAxZ2lMQ1FPaW84MjdadXc5bUo3V0lHZHpIbzU5LVpLVWhaMHVOMHJ4R3c?oc=5",
-      "date": "2026-09-28T08:00:11+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Hydrogen Ecosystem North Adriatic: From cross-border cooperation to market deployment - Innovation News Network",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWVZ5SDRGT1BkZGE0VVUwUFBzd25VNFBtaTNEby1ZWkhrN2Z2TjhwSmpLQ1l1aVhJX3g3UXk3RFhhNHJmdS1rQ0JZSW5BclF5cXB5WGlJbFc5U2ZZSEcydWJ4Z3NOcFhneXJpQWJqT0RtQUpBUU1GSy1uRl80OG96TWVvU1A?oc=5",
-      "date": "2026-09-28T07:48:10+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "EP.7 – The Global High Tea Series | India-GCC Cooperation in Green Hydrogen and Renewable Energy - Centre for Public Policy Research (CPPR)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUW9DVC1sMElXTW9wd0ZmOTcxcVF5NEY1VktnTHpWVXhfLXZoTTVMbmw2WFFBYjktOFExNm45alRBam1XV2ZVQnpXbXozUGQtTXlHQldjaEV5X3ppWUlwV1BHaXd3R1diQzMyYmZUSXRxdHNJTXp2ZUoyNkNsa0dqMVJTU3d2UQ?oc=5",
-      "date": "2026-09-28T07:44:08+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "London’s Reactive Technologies secures €19 million EIB financing to strengthen Europe’s power grids - EU-Startups",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRlVPb1h6MVFqVGM4MWM0bi1Xd005eEhBXzJzQWtodXQyRjdZVlhaeHBNY2NXMl9qYjFyNWpVUWtoS1ctWDN3TWVkUDlCZUIwZ0VHc0xLYnJzNWNyU0h6OUpZWENoZVRKZnhJNTRWZlFET2NRQTJ1QnpNVzVVbFZHbE1ZT2FZTGgxbkE3OGhCSlc3RUNkVllNQjExZDlOTURHbDhIc2p3VVZUbWgtN0VETER3NFlnMVVvUTM0TDdlcmwzMV9XaWlBbXNVSWgxWG8?oc=5",
-      "date": "2026-09-28T07:01:48+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "China’s EV Makers Race to Beat Tesla With Ultra-Fast Charging In Under 10 Minutes - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYXdhUkxrZnE4akgyN01xcFJ1ci1RMmdONWNuYlc1UE84Z250cUY3ME1PWTlEZTNfbi1MellKdTNzNmpjaHFGYXJjWHJxTndUbFlRWnNRMzZjMnBjRWxFSHBPQUdlX0FKUnAtMDBINmgtQ1padWJRVjFlNWZFUzlKbm5Zd0kzZGRVZmRkQUZOMmZWazYzUlU5WnlyVlV3TVZCYnBZUEFNT25YTjZBT2prYVpZTjBZZkFGQkRJaGIxMFBoUQ?oc=5",
-      "date": "2026-09-28T06:30:08+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "GFCL EV Battery Business: Q1 FY27 Concall Analysis - UnlistedZone",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdGRRZXNHOHdoei1laE14dGpaelhCTkt1eUptaE8zWERrNlNHVGlkSGpQdWo2bWliRHBteTZJbEU5N0VhbXZkanNCWDdNYWlGdmhiWmQ4amtCeVE3NE4tZURWSTkyU3E2SWlkUl9xV1RyUE11eEN5aVVXMDJmaEZXZ0xZVW83SFE?oc=5",
-      "date": "2026-09-28T06:07:26+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Envision Energy Accelerates the Evolution of Global Wind Technology with DNV Certification for TG Pro - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZS1haVF0U2pwTWs1UkxodWJnYmMyaERCY1oxRWxaOG8zNWVIR3hFT1ZsSmQzclROSllqUG1sdjdMdDdseTFNMW5DX1hrYzA5Vy1lQXVYTWNlLXB6NV9LV21WeG5iTFNYcjVtbklMYmJrbFp0ZGNnUWlRYmRUS3JzY3k4OUJ4WS04WXVTMFpHSXo4N3dadTFNVGU3T3hvYThVOWhGUXctRVBZQV9KY3cxa0E3ZmFPVEpZUF9VRExhN0FSd2dRRDlUVy1rVDY2VUlyQXNpZGFiWkpLYTdiTmwzcWJSQVRfTm8zblZabFdn?oc=5",
-      "date": "2026-09-28T06:00:00+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "LG Energy Solution boosts R&D to lead next-gen batteries amid EV slowdown - CHOSUNBIZ - biz.chosun.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYWhqYlEzWlZqVkkzazBib3VUeG9aUTVlSDBmaWpLLWpBUE1FTlZhMl9TQWxGMG82N2FWM1FLY2xkSi1mRmxoVVR6X1lBOV84QU9pTXR2czl5UV9pbk9mUFQzODA0M2FFSE01SF9BSGdGUk5qUWNUNTRTYjFURExUNFlB0gGWAUFVX3lxTE5ZZE43UHVmdTJ2WmFZekpzdkVrZFZhSGduUHA4aTlUcjJJWW1QTFV5cTU3cjZsakVVNWNPZHZkX3Q3YlVNVnFoc1dTQWd5Z0dpLVdNU2tuN2NzckxuSDVQSDEzNmtoYXUtb1gyNzRiYzEzbE5xa2dwYWkwel91czR0aXhfVm5PMnhqV0ZXSy1jdzJPVVk5UQ?oc=5",
-      "date": "2026-09-28T05:26:00+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "BMW wins a prestigious award for its EV battery tech - WhichCar",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORVA0R0xhMGJva3F3UWlhQkJjSXZMLUpfMkVxb05ZQWpsSVNSQ2ZyNTdMNjhqS2l0di1uSkp6WjRkd3JpUU5VQmlWWk5JN1o4bjBwUEJ6dXdXQXRwYjE3alJzQXdiVTRFWW43R25fZEs1ZnBiLWtibFhDaGEzcS1YalRCNGM5bmVfcGc?oc=5",
-      "date": "2026-09-28T05:22:02+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "NTPC Green Energy commissions 81.34 MW solar capacity in Rajasthan - PSU Watch",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeEVWY2pxSTdnQzhPNW1SYkp4LUlSOG94M2szWHNsTEJCa2VjRDBFaE05T2JYOUlZUDNkcTd3UkdxUG9ta0l6SklnLWZCSlo3T0JLbzdzQ3pWaWVTMEVlWWg0aWt3Z3F4aGF2VDRLcTR5aFItMWp0OEpONG53a1FsS0IxR19ocERYbnBSSXFRLVgtdjMwX1lTS2JpUVc1cjjSAawBQVVfeXFMTlRqUU1GRHVaR3pLTVlPVjRMNzZfTkZkeTlyWDZFT0IzU2dXVkxKTVJtZ05jR3hRcmxRdEh1b0dIY0JXOTA1dUZaZHcwbEpqYURfY25lcWZMbVhIeXBMdkFoM1AyM1hGbnpOZ3VkUXFDMmQzOWR0VkJJMHJBUW1ZaW5mcHQ4eEFlLXEzeE9VcEhmRkF1c24xRHRrTmN4X1hNNWN5NXl0YTJ6a3ZNYw?oc=5",
-      "date": "2026-09-28T04:35:49+00:00",
-      "category": "PSU",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "SA’s energy transition cannot come at the expense of fire safety - Cape Business News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX1pkZGtxQUE2VlppTGpIN1ZGd0JmSmtzSnFkaW12Ml9yRng0YXZfLVBXbnhuY3Q2OVFHMzhzX3hFNnR6ZTFQbE5URzJRZ2pWYU42NEp6djNDcm0taFZtdFB5NVRidEVKN3ZYTVhKYlBlVXdjWTBNMGtvOVVrMTlNOGpRRTRSWWxaYnYwUTFCMUkwajRDblF5Q3lvR1RWU241VWZqcEQ3TXMwR0RFSHRYT1VreDQyYzhDeFlZbjJETFFZRHNnX2c?oc=5",
-      "date": "2026-09-28T04:06:06+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "BYD’s Solid-State Battery Tech For EV Is Nearly Ready for the Road—What to Expect? - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUHRDUEQ2OUZERnRGUnRKMld1bW9Rd2FKUXBZWlI5R0FfTTdZZmFzdWN4SUZmcVUyZHpVVmFjLTVPUWdFTkVTR2I2andSM3BCTlpsdEVSOU10aTBFNGtoUjhMTG5TZUthVnZyM1Z6aUNrSFhZMU5Hb09HQ0RBdHNfOUZ3LTdpTjJaazBsZTF6dnhFVW5MdFpTLVN3VGhTeDVrZnJkU1FFUzlYWHhvYWpuYURLeVN5THc?oc=5",
-      "date": "2026-09-28T03:30:14+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Deccan Gold looks to fill India’s critical gaps on the mineral map - Deccan Herald",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcDViVGxfcmE5QVpibTdaVUc3VEhZWW9vV2RwTzJvNzVUR09BOTVFeXhPMVI4SklxS0RSclpLVmxjVlgxazFHNzAzSHpkaXpscEV0WG94NktYVEEydXZoeXVSeE8wREFZZkpDeG5UUjhyWHBnOFFiVGthOThTOVFwM0JrUTllQkluT3k0WFhXa0ZTVzZ5NW5oZktxZU1fMTItSEdNcVdTcEJoc19BSW9taQ?oc=5",
-      "date": "2026-09-27T23:19:47+00:00",
-      "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "How green hydrogen firm GeoPura is overcoming the 'natural reluctance' towards new technologies - BusinessGreen",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2tEcGplcTJMNXNES1VRbnFLWnRoZTBPRTl6MlFZMGNfaGo0RldrXzNBTHdmQUpaQ3pHM0E5V3NBMlZENUhVbU5VRXJkczU1Rkd1cC1jNDVUNVhvV0tsR1RIUnduc2ZrM2dFc1hFUUhjVlUwUnRoam1EcVF3b0hSS1ZsM1VSQUJtVG1pb0NrMXdfRUg5aFpNNzM0bWRYcU1BNEhZNGdOUzc2d2FkZ01fNVFxNUxseF9vMWc?oc=5",
-      "date": "2026-09-27T23:01:23+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "UNICROSS Engineering Faculty Installs 6KVA Solar System for Practical Training - Cross River State News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLUZzMTZCSUd6cUJKaGdkUkxGTWFQOEpTTDJ6TEk4a3JOZ251alp5c1RFV2VobmR2eDVkUFdJZEFiTE80QlpubHV2MFlPUFN5ZURTTUJ4RDRucm1VZHI5XzdmSkNnbFlHSEN5R2lCWlVRQ3pFS1k1ZHF1WkRKOUF2RjhhaWtkREYxSTlBSEk1SVBZNE16alVVVC11eEVBNUhQb29JaWtWQm0wT2lDOXZ1eDNtQUlTQQ?oc=5",
-      "date": "2026-09-27T20:51:49+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Two billionaires, one online bet and a turning point for Australian energy - SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdmNHZEVnQkFNalQ2RmlYN3J5YzhzM2x6TWZrVjlxQlJ5WU82Y3F3WlQ3TXA4NWUzOTJoTUxTeHNBSVBWeXRRVmIxVjNHTzZiaDExaVFuRHRCVjlYWTItVkpJbklMdmo2WlIxVnVOTzF1LWFMRFFiQmdWM19qQ2l4a0w1TnhYMFpjUl9rbTU4cEdxOVpSdmE1OHItcGxuUkwyNjVVQlVuakhXb2k5ME1rSWgtT2J6RVVhNURIejN2V0pwaTZXVHFwdVZOT0NVaGU2cHo3Y1psMVhZQmNF?oc=5",
-      "date": "2026-09-27T19:15:00+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "BYD Says Its New Solid-State EV Battery Tech Is Nearly Ready For The Open Road - engadget.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeG1FNmt5cFI1SWxFZ0pNQjlPZHpwbVlITEhRbm9lSG54TWZpbHRSQzRhbXd0Z1VsdlBhU3BqbGNWUGliUUUyek4tWDBzdjRaeDltMXRtZE1BV2FRLUpJVkN1WUowYVB2VHFIWlExYWFYczNjemFwNDNkOFFNYUpkcG4tcjl5dlFQd1E?oc=5",
-      "date": "2026-09-27T18:30:00+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "AI Power Boom Revives Natural Gas as Infrastructure Bet - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc0tSMm96OW5sMFBibjFHdFdKWTlJRzQtdE5seGFtNmFhaWUtNS1Tc1J2ZHVZVU5NZC1KbGsydk81WEVMUDQyejZwdjVtTEpjdWhQcENqZURlcTFYT09mZjdiMUo0aWJJQmdFRi1nM3JkR2t6VFRIX25OWVVCR210Qjd0YWNER19fNDlERUVEcw?oc=5",
-      "date": "2026-09-27T16:56:16+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
     }
   ],
-  "last_updated_utc": "2026-09-28T13:19:59.802287+00:00"
+  "last_updated_utc": "2026-09-28T23:03:44.040161+00:00"
 }
