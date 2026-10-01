@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-30T20:37:39.147905Z",
+  "updated_at": "2026-10-01T04:49:53.983430Z",
   "count": 40,
   "items": [
+    {
+      "source": "Google News",
+      "title": "NLC India and NALCO to form JV for 1,080 MW captive power plant - Powerline Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2ZUMGhYUGV3ZEtBRGNBZ2FST1NKcHh0SnRHWkQ2YTJpZGRaNVJnbHY3SkJpNzRyX2duMHBFS1RwVnJHTEpScG1uYzNROWxnSlhzeGlUT3UxSjFCaXJrZWs3enE5REdTc2MxZ1hpNVRQMk91VXNCZXVhT3NjSWpjSjctanF5YWdDb1NfODNVVlp4OXgtNXpKUU5qMmF3NnpZRldZ?oc=5",
+      "date": "2026-10-01",
+      "timestamp": "2026-10-01T04:29:35+00:00",
+      "summary": "NLC India and NALCO to form JV for 1,080 MW captive power plant&nbsp;&nbsp;Powerline Magazine"
+    },
     {
       "source": "Google News",
       "title": "NALCO to reach ₹190-200 billion revenue as ₹250 billion FY31 expansion target progresses - AL Circle",
@@ -81,14 +89,6 @@
       "date": "2026-09-29",
       "timestamp": "2026-09-29T03:01:33+00:00",
       "summary": "Odisha woos aluminium downstream firms&nbsp;&nbsp;orissapost.com"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO Pays Record Rs 1,083 Cr Dividend to Govt - Rediff MoneyWiz",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaEpRZ3k4bVBCUHBFanlRT1BiMG1UUzQwTW5wNGpicm5jaDA2ZWdCQVBzZ0lRMmNDMXk4c3RQbzRhUldtNjAyUTdTY2dHeGF6N05IRUc0cjk1RlpRQ3RlbDlncUV4RjRFRlhVc3JSbWtuUzhvdEM2cFMtZFpybmQ1VDVDem0wSEFDRzlpWVFJeDR1Y3lCNUhOY3JMcXVBQ1dWR1c0ZdIBpAFBVV95cUxNaEpRZ3k4bVBCUHBFanlRT1BiMG1UUzQwTW5wNGpicm5jaDA2ZWdCQVBzZ0lRMmNDMXk4c3RQbzRhUldtNjAyUTdTY2dHeGF6N05IRUc0cjk1RlpRQ3RlbDlncUV4RjRFRlhVc3JSbWtuUzhvdEM2cFMtZFpybmQ1VDVDem0wSEFDRzlpWVFJeDR1Y3lCNUhOY3JMcXVBQ1dWR1c0ZQ?oc=5",
-      "date": "2026-09-28",
-      "timestamp": "2026-09-28T16:08:18+00:00",
-      "summary": "NALCO Pays Record Rs 1,083 Cr Dividend to Govt&nbsp;&nbsp;Rediff MoneyWiz"
     },
     {
       "source": "Google News",
@@ -204,19 +204,11 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO signs agreement with UAE-based EGA for smelter expansion in Odisha - OdishaPlus",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52ejdFVWkzQUZKQkZzQTlDam9vWEVaQTZ6eEdPQ0owVlF3SXA1SkxGVWptWlBRQUdBUlMyXzRnMEVFS0dhYXZ4XzhHY1NFWndXLVg1cnFJVk8ycmZpeTJmY1RxcXMzSGhCb09YeHZVR18?oc=5",
-      "date": "2026-09-08",
-      "timestamp": "2026-09-08T07:00:00+00:00",
-      "summary": "NALCO signs agreement with UAE-based EGA for smelter expansion in Odisha&nbsp;&nbsp;OdishaPlus"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO partners with EGA for advanced DX+ Ultra aluminium smelting technology in Odisha expansion - economictimes.com",
+      "title": "NALCO partners with EGA for advanced DX+ Ultra aluminium smelting technology in Odisha expansion - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPTXdVZTBacEt5WWtSSl9aQWZfSDVIZXAtaXF0aG1EUTRna1Nwa0oybkZHeUF2Q1lQSDRKYlE1YXdFbDczWk1taG90d091VTdiTm84RHpkTlRiVndJT2J1aW54eUtkdXNVanhmTHFKblVvaUZzWDJLQXRMV1pIRXh4aGIwN3dtQXJPM05ZYUFHbG5fUW9Qbk4xSDllSUIwdHVPWDg5YUdEVUNFUzAwZ19jeEFEdEtkTXdHSkRvZGw4NEFmb1RrcjFNVjBZa29NTUk0WElXWUJGTmd0NkJTWjJuRDMzcXVXNXhPV1VYeF9jZzdSc2pSQXJidzQtWUFXMzJLUFhIbkNJbWNhUExsRkJibE1LaVcwZ9IBmwJBVV95cUxQS2t3Zzk0TGQ2U3VuU0NnSF9QQ045ZlhidEdGVTg5VVIwc1RQcTRvZlNKb3daSFNDUDVuVTBock9vUVM3YmlsNUI2ZGkzSVRwVWhNQ3M5M2RoQVllVUFXR014VDAzVm1tTldjbGFiR0F5T1dfY0F2eVJ3YzJueDlLSWV3RWxJOHZCd2taaW1BSXlpUHNHTDBSMUJOSXBaaWxhVHpkVUxyNnRLVTNUQkNMUkdhQ1h1SU5qMVZnalg2S3hqdU94S1JPaV8zRVB1bUZiNGxqVmNPanBnY2ZCT2FpZDRnUkRnNUwyV3o5N3RiMU9WbzJyZXFjTDlkaThMOERnOGVVNDBCYUM4bXN2Ync2SC1QQVo2dnhCZmdn?oc=5",
       "date": "2026-09-07",
       "timestamp": "2026-09-07T07:00:00+00:00",
-      "summary": "NALCO partners with EGA for advanced DX+ Ultra aluminium smelting technology in Odisha expansion&nbsp;&nbsp;economictimes.com"
+      "summary": "NALCO partners with EGA for advanced DX+ Ultra aluminium smelting technology in Odisha expansion&nbsp;&nbsp;The Economic Times"
     },
     {
       "source": "Google News",
@@ -236,6 +228,14 @@
     },
     {
       "source": "Google News",
+      "title": "NALCO signs EGA technology deal for 0.5 MTPA Odisha smelter expansion - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU3JraWkxUjdMWWFUMy1ER29YcGFrVHBaaURBd3NpcmNuWWpqcW5aeExWRGlmdFk1Q09raXpNZE9KRXdoaFFOc0FkdEhDQjMwZklqTkJlWk84aXIwX2kwVjNJYXJuMl9HMURTUDRVaktjdkltcU1jZGZ0TXRPRU8xUXFWNFNYZUdaRDh3QW9CVGc1cldad2tMMDZHeXJkT1VqNzNvNGxQOEdzLTBIR0NJTjZ6QXBlTjJtUG1V?oc=5",
+      "date": "2026-09-07",
+      "timestamp": "2026-09-07T07:00:00+00:00",
+      "summary": "NALCO signs EGA technology deal for 0.5 MTPA Odisha smelter expansion&nbsp;&nbsp;ANI News"
+    },
+    {
+      "source": "Google News",
       "title": "NALCO signs Tech Partnership Pact with Emirates Global Aluminium - India Whispers",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaXFDSlVQQno3TFdnY19laWlrWXYyZmpHSS1LdlNSZ0dzU3d6VXJ5eTMzX2ZQdDRPS3lxYXpJZlptbTYyLTNOOTAzQ0R3QlZCU1JLcnJETVplS2JOLWN5UVFvMG5pdXZPZ1BSR0tVR3NlU3FidkJCXzh3UDNuTkV3MEVreC1JWXA5bXFZeXBaT2FabHNKdUJDMGtUbGRuMTZDc2dzbg?oc=5",
       "date": "2026-09-07",
@@ -249,14 +249,6 @@
       "date": "2026-09-07",
       "timestamp": "2026-09-07T07:00:00+00:00",
       "summary": "NALCO signs EGA technology pact for 0.5-MTPA Angul smelter expansion&nbsp;&nbsp;PSU Watch"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO signs deal with EGA for DX+ Ultra smelting technology - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcUJyNzhpQ1FMSmhtT1UwSUtWS2VKQXZqWGFrOHd6SVhPcXdZdmhOeXcyTV9GV1FVUEw5ajJBZl95U0RyZTh1bUdmblV5d1ctR1kycVcxNHhndFlIdmRiZlRhX2VhZlRySjJKMGFMTlZENnpITE9JeWxHT0xoTDhocE5VWk9PWUlLMTRFX3pIMmlGRVlweE10WHFfc192S2VWNzk0SVdSUlV1dw?oc=5",
-      "date": "2026-09-07",
-      "timestamp": "2026-09-07T07:00:00+00:00",
-      "summary": "NALCO signs deal with EGA for DX+ Ultra smelting technology&nbsp;&nbsp;scanx.trade"
     },
     {
       "source": "Google News",
@@ -321,6 +313,14 @@
       "date": "2026-08-14",
       "timestamp": "2026-08-14T07:00:00+00:00",
       "summary": "Nalco shares fall 5% as world's largest alumina refinery outside China ramps up production&nbsp;&nbsp;Moneycontrol.com"
+    },
+    {
+      "source": "Google News",
+      "title": "Nalco among 5 stocks flashing bullish signals, hinting at a possible uptrend - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQQ2tONVNpdHh2MU1OQXE2WVRmcFBuTnpnbzhuYjVuTUNtcUtELS1oTTB4aUhhSTFzQTI0LUJNOVpNODZnS3NDZG96RkNMZWgtN0FZSW5CXzRRRVBzSXZqTW1uN3BBSng5TXJseWhFRHlBZ3MyXzdoWVpZcUI2ZVN4T2l4ampCMmRGQnNmR09Kb3JGY1UwcXpTLVpxdS0teU1yM0JYLTRvMXBFMHV4bHlmTG1SZE5vY0I5elUyVVdNajRkSHNURHl2Sl9lN3NUOXBwNDFITXpoQ2ZjX2ZkVFhzR2k1STh3ZUNOSWdQWlJVV0NyaDBLMmtDa1FLSFNFVVVi?oc=5",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T07:00:00+00:00",
+      "summary": "Nalco among 5 stocks flashing bullish signals, hinting at a possible uptrend&nbsp;&nbsp;The Economic Times"
     }
   ]
 }
