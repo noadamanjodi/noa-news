@@ -1,15 +1,7 @@
 {
-  "updated_at": "2026-10-07T15:18:40.493359Z",
+  "updated_at": "2026-10-07T21:04:37.693828Z",
   "count": 40,
   "items": [
-    {
-      "source": "Google News",
-      "title": "Nalco, Vedanta Aluminium, To Hindalco: Metal Stocks Crash Continues! Brokerage Says 'Sell Aluminium Names' - Goodreturns",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc2pPcHFPLUNWajFDaTVLc1dNaW9DbFZLSVdYelUzbm1wWFJEVlk5c2tuS2R3SDAzTzNwMnhyMmdDck84b3hPZzludDh0Ymk4aFBndENRVW53T0t3MlNDRmpPU1RYaDRrUHVMRXVKWC0tQmxRZ0E0VHFLUEZfSjZGLU10aWQ0dEJKZ1ZNanpWOENYb2NxRnNRLUZxMlRJTy1WSWJLc3djNUlzZm5xSkhKOHhJRDV6ek9pVUpSQlNBSklYQS00alBFMF92aw?oc=5",
-      "date": "2026-10-07",
-      "timestamp": "2026-10-07T09:30:33+00:00",
-      "summary": "Nalco, Vedanta Aluminium, To Hindalco: Metal Stocks Crash Continues! Brokerage Says 'Sell Aluminium Names'&nbsp;&nbsp;Goodreturns"
-    },
     {
       "source": "Google News",
       "title": "NALCO’S MAJOR CSR INTIATIVE; Long-awaited Eye Care facility at Anugola moves closer to operationalization - Odisha Diary",
@@ -20,11 +12,19 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO Dividend Alert: Navratna PSU Stock To Remain In Focus Next Week Ahead Of Dividend Record Date - Goodreturns",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaE1WaU01a1ljZlJ0a01Ia1lwZlFldWNSellFcjdLZURFcDlZSE1SbDNjaUFFM0tHRUtGLVhWZjN3UUQ5S1Vpd1JITDJLQVZPUjlwU2xBWWtWeF9TX0dXQ3hlZ0pkN1JvdXk2T1VsNjMyMGlCRzRlZXQyQWJUckxEN0wtQWJpalR5V2RCc0p0X0xvc0pZRFNuRUNpejh0bjlmZ1poakdpbmNpLWNUSlAyc1NIa1hRLUphUWo3d3ducmthQ2Z3amxGd2VBX2h4bDNSQU9yWlZIVTdoUEE?oc=5",
-      "date": "2026-10-04",
-      "timestamp": "2026-10-04T01:21:19+00:00",
-      "summary": "NALCO Dividend Alert: Navratna PSU Stock To Remain In Focus Next Week Ahead Of Dividend Record Date&nbsp;&nbsp;Goodreturns"
+      "title": "NALCO Foundation and LVPEI Sign Addendum to Operationalise Eye Care Centre in Odisha - Indianmasterminds",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb1g3Ymt4RnZSVTdZa0NiR1RWNXN6cmhhNGJfQVZhQjVHcDBOdlFBcVp6d21HcHZKR0VmRGcxNmcxMzVTOEpkaDlIVkJTTGl6MU1GYUc5dnNxWXpxQl9HeHBfS3pybGtVM1F4ZjloejBoeERrMUtLal83ckJQUmJTNUt3ZjJEck16cHY5TG5vUzBNdlIxQ2h3d0x0TXdJZWhn?oc=5",
+      "date": "2026-10-05",
+      "timestamp": "2026-10-05T14:58:12+00:00",
+      "summary": "NALCO Foundation and LVPEI Sign Addendum to Operationalise Eye Care Centre in Odisha&nbsp;&nbsp;Indianmasterminds"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO Plans ₹18,000 Crore Greenfield Aluminium Smelter on 4,000 Acres in Andhra Pradesh - Indianmasterminds",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMHJLV0lSb1BZTVB4VWhpWll3cE5fR1NLdVRqVzl0YXQ2a2oxTlo4c1VfcHNVM0RDTldVbGpjTmEwYUVSZEVOcjUxb3hDQk5CcFVvN0sybTVsYkRhaU5nRndNTzh4UlBQVmgyRzNHYlRSeUx5MnBXaTBsRzdCYW1OSU9jN2ctTHFGenVKMmI4Y3g0bG9oOE41RENIcUZtZVdSekxYbWRwbw?oc=5",
+      "date": "2026-10-05",
+      "timestamp": "2026-10-05T10:18:35+00:00",
+      "summary": "NALCO Plans ₹18,000 Crore Greenfield Aluminium Smelter on 4,000 Acres in Andhra Pradesh&nbsp;&nbsp;Indianmasterminds"
     },
     {
       "source": "Google News",
@@ -60,6 +60,14 @@
     },
     {
       "source": "Google News",
+      "title": "NALCO Signs Modified Escrow Agreement for Utkal D & Utkal E Mines, Boosts Sustainable Mining - Indianmasterminds",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV2JiRzJHSWtlWEtfRGVwUlFHOUdZa0Vlb0IxQ2dJdi1zbzcwUVYxbDZKMlZyR0tnc2JVY1cxVU9Lbl9CbElhamVIMk03c0xOdFhIUjg3S0hnMzZKTnZQTWpNNFNadUdkQlhjTV9nVkoxQnI0TWxoVmF6aHBUZk50V1Z3NVRCZzN6WkFPMU5nYTRIVmdzbGJpc2xKcXQ?oc=5",
+      "date": "2026-09-30",
+      "timestamp": "2026-09-30T12:01:04+00:00",
+      "summary": "NALCO Signs Modified Escrow Agreement for Utkal D & Utkal E Mines, Boosts Sustainable Mining&nbsp;&nbsp;Indianmasterminds"
+    },
+    {
+      "source": "Google News",
       "title": "NALCO Pays 1,083.06 Crore Dividend to Government of India for FY 2025-26 - AIMA Media",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWW9DVGt6QWx4czVLUFFfNkh6WnFZZWlTYWFid21jc1NmODB1MzBtNnhfTkhvenFXUEN4aDRtdlBGd1QzMEo4ODlDSzJtRko1aTJST0p1MzI3R25zYjNuUi1OQVFBMzZuR0g5aS1VSWQ3WmdDMkY5TXVRcGEyMFZMa1ctV1R6VmdvUnpmVjlwdXF1LWh4WXFULVhsVnZZZW1MbUE?oc=5",
       "date": "2026-09-30",
@@ -81,6 +89,14 @@
       "date": "2026-09-29",
       "timestamp": "2026-09-29T16:40:22+00:00",
       "summary": "NALCO’s Angul Aluminium Park targets deeper value addition through downstream manufacturing&nbsp;&nbsp;AL Circle"
+    },
+    {
+      "source": "Google News",
+      "title": "NLC India Board Approves 50:50 JV with NALCO for 1,080 MW Thermal Captive Power Plant - Indianmasterminds",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTFJnNjJPaGVlZUVaQnNsZU1QNWpkZlQxeUJDbUtnVWhwekszNVdRYkZHZkRrTldQYjhHSzdkZ2E0cDR6UGJyY25RajRqazd4MlJlbXBWR1pKS3d6cTRVRjdiX3BKRGctbHJsbEZFLW50U1hSRE9iWmI4TkRKVU1mMlpCS0xocTQ2R21fT2MxMWxnUGtBbUszQ0xnTQ?oc=5",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T13:34:33+00:00",
+      "summary": "NLC India Board Approves 50:50 JV with NALCO for 1,080 MW Thermal Captive Power Plant&nbsp;&nbsp;Indianmasterminds"
     },
     {
       "source": "Google News",
@@ -116,11 +132,11 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO Pays Record Rs 1,083 Cr Dividend to Govt - Rediff MoneyWiz",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSklkZDktWWNqaWtMSC15NzJnVzRuRG1RcHNyUGYzZ0lfMFJfVE9wUlhybmVUakFWSkN6NXJiVmFMN3hfbjdKNkVvOEpHM0Vma1Y2ZkNhWVVjV0ZuaC0wSlJSV3BfeWt4WXhCVWVsUV9wTnFKSXJXbFRoZ0VwQTc4UVhQa0JYUF9LNVBBZzZkcVpJYy1NeGtKY29yUVRrZjTSAaQBQVVfeXFMTWhKUWd5OG1QQlBwRWp5UU9QYjBtVFM0ME1ucDRqYnJuY2gwNmVnQkFQc2dJUTJjQzF5OHN0UG80YVJXbTYwMlE3U2NnR3hhejdOSEVHNHI5NUZaUUN0ZWw5Z3FFeEY0RUZYVXNyUm1rblM4b3RDNnBTLWRacm5kNVQ1Q3ptMEhBQ0c5aVlRSXg0dWN5QjVITmNyTHF1QUNXVkdXNGU?oc=5",
+      "title": "Navratna PSU NALCO pays record Rs 1,083 crore dividend to Centre for FY26 - The Asian Age",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdTdSLWVoT1NLNXJ6QkZ5ZFY0ZlB6UnFVTEtNQzJ3UTdQRk9kUjd6RTZfVzJDNVRJTW9qbFNiLVRydEVWYW00RkxDYmw4eXhSel9YcXFBSF9mS29Kb045eGs5ZDJuOTJUWXhyU0tkVzFnMXJUTEdSazd5Ni0xSXlyRzlrdENyb182b1ZjVW1tUmpmRVh1bzZ6bVpMR1RtbnNoNzFpZEFPMXp1MlBUY0dPRERR0gG3AUFVX3lxTE82bTBMalA4SnoxVXRHM2F2emMxaWthMWktVWZHRFk1UkdPVkpRMzlVSHJLLU1oLXhxUG9Zal9Kd2tQVXhqYkF5TWg4R0NmcnF1a2wxMXBtcWZ5SW1ULU9nZGFxMUE1eXlUQnJhZUpCTDdKOHBLRGh5MUdVVnBua0NoMllLU0x3dDBxMEtLR2gwYzc2TmlwVldRZE1ES0tmUWQ3bkI0LXhRVUtGbkl6bXJOUS04S0xfbw?oc=5",
       "date": "2026-09-28",
-      "timestamp": "2026-09-28T16:08:15+00:00",
-      "summary": "NALCO Pays Record Rs 1,083 Cr Dividend to Govt&nbsp;&nbsp;Rediff MoneyWiz"
+      "timestamp": "2026-09-28T18:12:49+00:00",
+      "summary": "Navratna PSU NALCO pays record Rs 1,083 crore dividend to Centre for FY26&nbsp;&nbsp;The Asian Age"
     },
     {
       "source": "Google News",
@@ -140,11 +156,11 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO pays Rs 1,083.06 crore dividend to Central Govt for FY 2025-26 - prameyanews.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMnB0Zk1yOHNJNXRER3JIMGtwTXMxazFJcjVqdmhJYXp0RkdYei00TXZmaE9senNlTlNUcDJIV3lFZ0szUm05RGJpSDI0UkVXaDgySHdfRDk5RzNRQXFsblkzNHNXWDlIRUtza1ZXREZxYkdXTWR2QkJXdTFfaVhsN3JXdDFTRFMtUHU0Z0tpazAtc1g2LWd5QVdB?oc=5",
+      "title": "NALCO Showcases Angul Aluminium Park at Kolkata Roadshow, Offers 50,000 Tonnes of Hot Metal Annually - Indianmasterminds",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeXRWQzlZNFFVcHBfX1ZpOVcyUzNmeEJmSFVjMmhhbGtiN0gwT21FR3ktaU5vMnVsaHJlR0l5WEpXeDlwMEh6ajRfT01kUDJOUTQ4Y0JHRmYtR082bnp0SkhxZmVtc0ZGTHRHcEc1SXNmbDd0SW9UdTU3TDc5VUJfajVwWjZObWs2MFRqWlNBVFRORGVsMmJENkdQcWxYZHhfVEprS1ZSeV91WVh2ZXc?oc=5",
       "date": "2026-09-28",
-      "timestamp": "2026-09-28T14:23:08+00:00",
-      "summary": "NALCO pays Rs 1,083.06 crore dividend to Central Govt for FY 2025-26&nbsp;&nbsp;prameyanews.com"
+      "timestamp": "2026-09-28T15:09:46+00:00",
+      "summary": "NALCO Showcases Angul Aluminium Park at Kolkata Roadshow, Offers 50,000 Tonnes of Hot Metal Annually&nbsp;&nbsp;Indianmasterminds"
     },
     {
       "source": "Google News",
@@ -153,6 +169,14 @@
       "date": "2026-09-28",
       "timestamp": "2026-09-28T13:57:12+00:00",
       "summary": "NALCO Pays ₹1,083.06 Crore Dividend to Government of India for FY 2025 – 26&nbsp;&nbsp;orissadiary.com"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO Hands Over ₹1,083.06 Crore Dividend Cheque to Government for FY 2025-26 - Indianmasterminds",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzJyMTduYXJjYUNIUzBkMmh1ZDhkMU5QZHNkdEpZWXJ0djVaWlFvOHJKYU5qU0NHZVVZT3VMbERoWUt4OHBxRTF5VC1DbmluQl9BcW9naHNudEt0R1R2V1drR3Q5eUZHdjBnZEgxcDU4WThaU1pQSVVLT3F5emR0bFlxN0I5NXEzVVNtQk52emhSRExD?oc=5",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T07:00:00+00:00",
+      "summary": "NALCO Hands Over ₹1,083.06 Crore Dividend Cheque to Government for FY 2025-26&nbsp;&nbsp;Indianmasterminds"
     },
     {
       "source": "Google News",
@@ -188,11 +212,11 @@
     },
     {
       "source": "Google News",
-      "title": "Nalco shares: Buy, hold or sell? Target price after 14% rise this year - Business Today",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd2tUT0k3ZzdTdlJnZUNHYUNneFlPMGxvZFpUUkhKSi1hcFozbmRDLWtGeWQ2blhpZWszRVdvb3FndnZCSkZyZzRVVUJEQ0xnT2pPVVdXVWN0S3BwX2xlUktMQzZEZjNJaHZuQlpFMXRVeTk4UW9idURwVlhUU3RlVXdlckpXR3k5STdwdlphSnkxbjI3aWhMUGd2TjVhS3Q5TlBuTVMwQWNVQ3FkS2c2c216M0NieFV3Ym14UG1rNUxra0tmMVJJdFR4ekJlaTTSAdQBQVVfeXFMTnVwdFFTTF9lUS1JOW94U2VkTHZ5dXIzUTh6SmxaaE5hdEc0MHo0bG9jNDVseHFQR1pGekg4RWZaSHlJeHoyR2RUbzlIZ2lfVHBHbmk2Xzh5RWZSVzhuWmo0MVQzNnV2VU5LOEdKMGlIUWpOeXVFclZCZVNmN1JLdHRFQS1GUUxhSTBvRjk1OTlCaTg2UllMLWFac0ZhRjNKdHMzYzE1NVRaNTRwNHRUeWQ2OFo5SkhIV3NUMlRJN1RybExMWDllbGhZU3pVUzVrRzdsV0o?oc=5",
-      "date": "2026-09-17",
-      "timestamp": "2026-09-17T07:00:00+00:00",
-      "summary": "Nalco shares: Buy, hold or sell? Target price after 14% rise this year&nbsp;&nbsp;Business Today"
+      "title": "NALCO Partners with Odisha Pollution Control Board to Promote Fly Ash Utilisation and Sustainable Practices - Indianmasterminds",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPalpxQ01jREFlSk5ZUGRDM1RieVhCSWUyVnZmR3FGQzg4MHVxX2VMWEJWU3RoTEp0Wjd6WTFFejIwbU1UVnZlZTFyQ2hXVjZKcVRab0dvS0VleHBtN2VDdjVPQ2k1d3U0a2I3S3BCQ2Z4ZXlWRUt6N0hXWXJyU0I0TmloQVU0TkpLSU4zT1NjZE5PUjVmZnVDaDRJd2ZLcmR0VEFabUpR?oc=5",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T07:00:00+00:00",
+      "summary": "NALCO Partners with Odisha Pollution Control Board to Promote Fly Ash Utilisation and Sustainable Practices&nbsp;&nbsp;Indianmasterminds"
     },
     {
       "source": "Google News",
@@ -201,6 +225,14 @@
       "date": "2026-09-09",
       "timestamp": "2026-09-09T07:00:00+00:00",
       "summary": "NALCO Signs Technology Deal with EGA for Angul Smelter Expansion in Odisha&nbsp;&nbsp;My City Links"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO shares investor presentation ahead of September 16 analyst meet - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR05uSUwyanBxeFAyMHJRQmNvOGNtRXdCSWtNbDVZZ3R1Q3luOGNKR2FUX09FWHc3LUl2enFEWUM2Z3Z4cm84RXcyVFBSX2dLemJGbVp5aVoyaDllTElzdzR2aEtHbi1semQtT2x4dkQ1M1dQMnF2dGFySkFjQktPOXlHZ3NmLWJtazEycmxkaThpckw5a0V4NXpiRXNmT21fdTAzLQ?oc=5",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T07:00:00+00:00",
+      "summary": "NALCO shares investor presentation ahead of September 16 analyst meet&nbsp;&nbsp;scanx.trade"
     },
     {
       "source": "Google News",
@@ -228,11 +260,35 @@
     },
     {
       "source": "Google News",
+      "title": "NALCO reports record financial, operational performance in FY 2025–26 - OdishaPlus",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb09PVHhpTC05VFRPMEZHdEw2UzBZYTRUODNPc2tONG0zYnJKNjNqNmZtaXVNWTJHcnZFaFRsdEcwcXNlSjNWc3hveE9HdVVOTGpILWRuSnpuTGxZM2huY01YWWY1V2ZZSVhoMmlXRFJsRnBaWWhiblkxQjg5TjlSOGU2SGFqZm1mVlR6YmQ3aw?oc=5",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T08:59:53+00:00",
+      "summary": "NALCO reports record financial, operational performance in FY 2025–26&nbsp;&nbsp;OdishaPlus"
+    },
+    {
+      "source": "Google News",
       "title": "Nalco gears up for next growth phase, steps up ₹30,000 crore expansion - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU1g1QXBlRmlhTUFuNXdaQUk4Z1RmS3N5Wm45UWFJX1VfcG5FcEZpMHJxVHNUc1hRc1ZYdzl2VkdNLVpMeVpQN1ZMTTZ3Q183aWpaWXJoX0htYXA5SXRWTjJ2VF9neGE1bVU1TVNqd3FjVnVrQ0JHUS1QbFl1Uks1czQ5RGY3SGt5X2swOE9BNTdUZl90Z3VGcl9nX2pGTkZwRW16SXprWXFDU0g0Z0NhVWk0RTF5QmhFcjU2SlB0Y0hqZGUxX01ZdC13V0xfUlZINWww0gHYAUFVX3lxTE9ObFRWb1B5RUp5WElENkVkekdGcnN2dnFhX2gtUUEwMU51al81ZEN2T3pJc1ExZ3lKNzloa3YwT0RlTHo5ejQ3YzgwUjNuOGhlNC1WS0VqdktFczFHVTFvZE9oQkpkekFSYUw1ZE5qc0Rub3dlczE0cF92eEtTbGV3S09DcWJvX1dIMF94SFpGR0V0YktlOUR5TXFabDNqOHZ4N25SV2xONmg1ZnRsX21ESXk2R004UjZlRi1FYmRMNkJELWFYOFg4ckNET0lIb19DTzMzNFpsZw?oc=5",
       "date": "2026-09-01",
       "timestamp": "2026-09-01T07:00:00+00:00",
       "summary": "Nalco gears up for next growth phase, steps up ₹30,000 crore expansion&nbsp;&nbsp;Business Standard"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO shareholders approve FY26 results, ₹1.00 final dividend - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSGRiNGVKX3JxUzlRdFB6YVl3SmFBdDFJQ1lCVTRURTJzREhndXFSLWptNE1rQldQeVBKRjZpUWZXcW5hTzl4dkFnQnUwNmNlYURrNDZIcmRDb2NnT1RRQldsQ3cyanZkTzNxQVhNcERleDhDSlVmWXFaRFJGN3BVS2dSV0lDQVgyUzRjNFpPczZYblhveFZIMDlGZFVLRktkRW1LTW9SV0tHYm1uMzNVRDdOcHljUQ?oc=5",
+      "date": "2026-08-31",
+      "timestamp": "2026-08-31T07:00:00+00:00",
+      "summary": "NALCO shareholders approve FY26 results, ₹1.00 final dividend&nbsp;&nbsp;scanx.trade"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO Signs Govt Land Lease Deed for Pottangi Bauxite Mines, Boosting Captive Bauxite Supply in Odisha - Indianmasterminds",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc3BVQnhXa216cm9SU1huYW9lTTR2ckJQY1RGYzloYnltUDVBY2JvYm9UZENLNlRTNGhQeEV2V0p1U0h6dE5MUzhQRHpUcklTQ28tQzdoUkJmdTlPMlNJODRwYTg0cjdON3ZyYVBHTHpWV0N1R2plVVU0Qm15d0FYemc5d0k0VVI0VFZQNWdhNWV0eXVZamJTY0h4OEl1bm4yX0E?oc=5",
+      "date": "2026-08-26",
+      "timestamp": "2026-08-26T14:55:57+00:00",
+      "summary": "NALCO Signs Govt Land Lease Deed for Pottangi Bauxite Mines, Boosting Captive Bauxite Supply in Odisha&nbsp;&nbsp;Indianmasterminds"
     },
     {
       "source": "Google News",
@@ -265,62 +321,6 @@
       "date": "2026-08-18",
       "timestamp": "2026-08-18T07:00:00+00:00",
       "summary": "NALCO Collaborates with Research Institutes to Advance Industrial Residue Valorisation and Critical Mineral Recovery&nbsp;&nbsp;PIB"
-    },
-    {
-      "source": "Google News",
-      "title": "Nalco launches pilot plant to recover value-added products, rare earths - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONUwxV1FBejZ5VmZ6cFhpZ2RhRFFEdnZWS1VpUFRpTWFGZFZzQWd1ZVVvMC1OeVY1X19USE9kMzNOcGVhdmwtMHBvb2F5ckVySnVjc3ZEc3luRG9HbW5tMWZ1Tlg3V2dDYlV3b2w1SEs4M3Y5Y1pjUjF4dEZ2bFFCbnJ4ektpMGR4YUp1VTM0NzJXemhlSmVLYU04cnYzTk5DbGhWdF9NSHFQRmoyUEFWQW9MZW5HX3ljM0tlOUN1VGZYeFl0NEluWU9tRnEtX0NFWXE4LdIB2gFBVV95cUxOZ09RQ2tuUkJ2MlM2Q2NyQXBQV3g1dXpXdmMxbmtvY1JFU0pxd3NQUU1RSWZ4M1VKRmFvbVFpOGcyTlg1VXUzSnRzRzh6d3hxT2V3TVZUYXB3MDhxSEgzcEFFYUx4bmVkdE9kX2w5UkZ2MVFlMXVaM1FyVEs5YzdrOWNZNWlOTUFCTDdib3c2ZXlXT1NUM0VmS2tFaDdUMmw3TVlrVFpyNVd0Q0thbGFmbzU5UEgzWUZtaGVNUVlRVTVmaGhqUTNWVG9tWHNPYk1YZlFKemthRXVnQQ?oc=5",
-      "date": "2026-08-18",
-      "timestamp": "2026-08-18T07:00:00+00:00",
-      "summary": "Nalco launches pilot plant to recover value-added products, rare earths&nbsp;&nbsp;Business Standard"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO sets up indigenous pilot plant to recover valuable products, rare earth elements from fly ash - PSU Watch",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX2QyUmNqb3FPY1NaT3ZrX1A0MC1FWlI5VTdwVTRJQlVzZzNScWctWWE2RzJrVHg3a2s4NGQ4TzR6dzh1NFN0eG95R1JrX2xETnBkbG5xWVVkTHZaUHVLQ0xnSFRYMU1lanBKcVl0dngtdmVUQUtoMTgyYTVCb21fS1lfRGk1U25Oanc5Y2l1TXlySWZTclhnUDhTS1hBLVdyR1hQcTQ2RnNfQlNXSjZfZDNtWUFBN3cyNG5KVWNMSmVYNUdmbjZNMG9ENNIB2AFBVV95cUxQUlBWTm8tSDU1OFA5NGJNb2ctZ2FtTVlXYWljMzZhY0hqcGQybEZiQ0duVmE0M2hocktDOGV5bmtEenZHQkV4VjFZSXJja2N5X3FZWTRqcy1BaWlOWHZxd2p6MEU0dXBXdU9iMnFsLUJMWmhzQkhLSUJoSmhuSFFYUVY1QUJiUllQMTVHNjFEajhHN2FmVnc5SmpVYjd2MlFGLXlhVDV3Ukl6MmhsWUU3THBjak9aRFZvN2tBbXVrYVBtT2NtYmxWR0hodW0yUDNYUmc1M294d1Q?oc=5",
-      "date": "2026-08-18",
-      "timestamp": "2026-08-18T07:00:00+00:00",
-      "summary": "NALCO sets up indigenous pilot plant to recover valuable products, rare earth elements from fly ash&nbsp;&nbsp;PSU Watch"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO expects aluminium prices to cool to $3,100-3,200 a tonne - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWlJiMGhrbGZndkc2eWdHLTFvTmZqNEpMSU1xc1RWV2J0d1lzY3pJVEpfQThJNWZxS0dEQVBnT2Vad0hiM24wNGoyWGw3UGl4YzN2SXlkaWI1UnNEZlNFZ0F6VEpfWDlaNlk5d0NraFlOb0RweVJ3QUpTVTJhUVV3OV9TUU1SWjFpWTdGbTFvT3J5eFp1MHBtXzROaGZHRGRkYzNYZVlR0gGrAUFVX3lxTE1kUkliTDZzUElSN3lWVkUzR0lsdmRHclF6UDdSUFQ0azRCUVF1b0MtakREZWtaQUpXa1d6bV9uY3RXaVh6OGdzNkhaR3gxXzkyb0htZHFxVm9TQlJDRlFpNlk3UnpJYlprRFhST0NxcV9rVTF0bTJUMEJuOFI5ZklZZTJfaTN4NVJ3X21TR2ttX3IzNHp2RnRTdEI3eXVQYTdDbnpQVDBYNVhaNA?oc=5",
-      "date": "2026-08-17",
-      "timestamp": "2026-08-17T07:00:00+00:00",
-      "summary": "NALCO expects aluminium prices to cool to $3,100-3,200 a tonne&nbsp;&nbsp;CNBC TV18"
-    },
-    {
-      "source": "Google News",
-      "title": "Nalco shares fall 5% as world's largest alumina refinery outside China ramps up production - Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSEtvMEt3aVdhMGhVWHZ5LUZuUEw5Tmo2X05NSE1hRTBkMEpxWnlVdXdFSjRVQlZubjlRYkQ3WEIybWJHOFYtY2lOdUhaVE5GY0JaZkFxYTBORFhrWUViSTRUZlRlNTdFYk1kU2NUTlhNV0tUVFc0ak5vWThGR2FscVBXdFVEV2ZUM01HZUQ1cmg3UVRzZFp0MHZiNUFReDJwRDF2WW9Oci1Vd2JBdjZpLUFXdXM4VjBXb01NcTlJLWpneHpxdkRpSkxIcm5mZkFpZkZrWEhKTUNFaEVRaU4tZWtBY3NDYl9QSXfSAe8BQVVfeXFMUEVOeEUzUlFTLUMtM0taVGtlank1V3B2YlBvRWt6Sm5UeExQWmhuOHBhSEhuYzlsME9mMTc5MVdxQ0JvLWc5d0ZmR2V5dFlVUzhVem1XSF9BS05aZXhMbHhtWXBmSEppN2Fid2w0WGMzWXdGYkdpQzQzd1dnZFZUS2NzZzRVTEpGaTFrdGxxSHRaRTNvcmJaTWpwb19VZUtkR01QR09IOEJFSFJQb05MMkZodEpiWFhna3NwbUczRThnb3YyY0VYQVBOWHRmNWNXV1hnRExHbHdHN3l5bkVrTWtsV0p1R1VEOEQ4ckNaWlU?oc=5",
-      "date": "2026-08-14",
-      "timestamp": "2026-08-14T07:00:00+00:00",
-      "summary": "Nalco shares fall 5% as world's largest alumina refinery outside China ramps up production&nbsp;&nbsp;Moneycontrol.com"
-    },
-    {
-      "source": "Google News",
-      "title": "Hindalco stock jumps 3.5% as top Nifty gainer, NALCO up 8% after Brazil production cut lifts aluminium... - Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcG1SaFQ4WmpwalBoTXRuQW5xd0d0WF9hcnVSdTc2aWwyOTZQZ05kdTBIdDloWkFnaDA3UWhvWXBKNGVnU21hX1QzT250bDlWRnBXZlM0SnpMdXNaMFVheThUXzBTWnc0R0JXWUlreGNnY0F2Y1BDZ0ZUd3VMV1E4QXFWVElCLV9EVGlnOEZFUm5HbXMtS2stSnFXUXNzSXd5ZTNXajB6RkRDLUx6dWRlbWFTZ2Z0QXVzWjlsU0NaSDh3UzBBeEJ2QjF6eERDUjVxS1Y0blZmQUV3RHpLOHRyT05FZ1VhbDlZX191TDVWZEZqTjJJbFVpRHBtSm9zaVRr0gGGAkFVX3lxTE5pSE5yMXVBMXBiOU5Pa29Kc1czZF9KR0J0bXhibDBqMnpnVXNsb2M1R1hjamlpeWJBOWR4d09Namg3Ml9TZGJZZ09XQ3VGMWpmVWx4MHBZLVVtc1Fka1ZCdzJYRU1JUUhDSWk5d1l5cmhnWVM3VVphaERSNTd0TjkweUp6NmdXbkdsZ0RkWXJYeGZqYU1ZT1VlZ0RMM3FGYVc3aFc2ZlpWSjRxcmR0MDNKT01MY1dia3BaWmh5LXNieUxCQ191SnBLRTJIRHZmbEw3eFRxbjhNcld6a0dqYXd3bmFNdC1WLU5FYXhuQ1ZPQXlwQ056OEZ4ci1oX1ExZ2k0bjh6SWc?oc=5",
-      "date": "2026-08-12",
-      "timestamp": "2026-08-12T07:00:00+00:00",
-      "summary": "Hindalco stock jumps 3.5% as top Nifty gainer, NALCO up 8% after Brazil production cut lifts aluminium...&nbsp;&nbsp;Moneycontrol.com"
-    },
-    {
-      "source": "Google News",
-      "title": "Explained - Why shares of NALCO, Hindalco, Vedanta Aluminium surged up to 8% today - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVEw2ci1FMGtxNjh3QmVBZkF2eTJCanlVX0xDN29FcDhSamx0ZXIzMGMyQk1aRkI3Rlc3cTRFdVJSQThnQnNWOXFQWkMzcjk0OEdkT0E4Uy14WjBCTTU2eldhLTFYZGZGOVZqTFNNa2hVMlpObVlYTWZaZVFGeXozYlQ3MFhvUHl6aDV5bWR0YU0xYjdqZzFDX012VUVhaGM2WFhNZ1I0X3BYX1ZRak1SVTdtXzlZZXRBREpmbmtMQ0pEMUl6OHRQcVNXZW1Fd9IB0wFBVV95cUxNOXVCZlJNSkgybnRkQTJobkZnT0JqeDQ3bVcwR1g2VU1VeENLbjQ4TGJwR2xCSVB1Vk03THlEUElBMk9pSHo3VDJ0eldKd2llWGI0b0xyRkNzWUZLbkR0LU5ZVk81bF94YjBKdW5GT21pZE5ud0h3TlNnYjFRY3BEWXNLVzI0ekl1Nnp2UC1FZ3RTd09BakR1TXZ6QnIxeVE1LXZiUWI0ZV9ISE13b3A3bFVWa0xKQTBOTnVwTFBwVHRzZTN3NTF2NlFOTkZFQlZmUzhV?oc=5",
-      "date": "2026-08-12",
-      "timestamp": "2026-08-12T07:00:00+00:00",
-      "summary": "Explained - Why shares of NALCO, Hindalco, Vedanta Aluminium surged up to 8% today&nbsp;&nbsp;CNBC TV18"
-    },
-    {
-      "source": "Google News",
-      "title": "Why NALCO Share Price Rose 7% Today? - Equitymaster",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQejcxdjdrX3JxNkMtNkJoQlFMZGhXV25Qa0dHallDclZ2UUdLSWpqMG12RHI3eWtFQjRFMmdZb1kzRG1EWVo4QmZUdmloTkFuTExLNEtUOHczLUxqSVkydWNJWXlQQUxWYjZXc3Y4cVpZMjNvbG1hcDhQMF9TcndUcnR5b3VsSVNybzlkUmgwaTREYWVmS2pkQmlHWDc1NDJ5TmdmU0FIUQ?oc=5",
-      "date": "2026-08-12",
-      "timestamp": "2026-08-12T07:00:00+00:00",
-      "summary": "Why NALCO Share Price Rose 7% Today?&nbsp;&nbsp;Equitymaster"
     }
   ]
 }
