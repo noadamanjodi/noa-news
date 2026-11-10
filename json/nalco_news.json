@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-11-09T05:15:05.334490Z",
-  "count": 34,
+  "updated_at": "2026-11-10T02:35:19.138319Z",
+  "count": 40,
   "items": [
+    {
+      "source": "Google News",
+      "title": "NALCO Sees Stable H2 Alumina Margins Despite Higher Costs - Multibagg AI",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZTk2enpEbGgwYVVNYVZWdVhIZGwxc2lnalpMY1Z3amZ3d01VWGFfVG1EU01Rc1Q2eVNyQmFKZXc2aWQtcFl1UmliREstV2pCcC1YRkNFYmpKMmdWZHc1aDB4dGJ1VENLSlZjcWo2cTA4UE5zZXNRaWcxQ29WTEtSWHRGZ2cya21uV0JDcVZRNl9TbDFXalFkYTRmNXBFTVJPX2xNWnk1N0ktV0xpU3c?oc=5",
+      "date": "2026-11-09",
+      "timestamp": "2026-11-09T06:43:12+00:00",
+      "summary": "NALCO Sees Stable H2 Alumina Margins Despite Higher Costs&nbsp;&nbsp;Multibagg AI"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO targets FY31 Angul commissioning after refinery start - Multibagg AI",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNk04aDlBdEdVd2taT1ZQNzNBUmM4OUN4Z1hmV1hRY21tVWhDOWJqcnVTRmR1WDZKTUtaWUFNbHBqYWhROGh3YjB0dFRxaG0wQ1ZNTDVPWDBDYWhCbllPNjh5enVXNjhtSVVIMHllUlVUNkE4TlU2MjZyX2pERDJzLVMzWTZHTDlTdUpfQm01UFJFV1dKOUxxX3NkSklXSVVWMTFoRmVzeE9jVFJOdWlIQkkxNVZHdXB2S2c?oc=5",
+      "date": "2026-11-09",
+      "timestamp": "2026-11-09T06:43:07+00:00",
+      "summary": "NALCO targets FY31 Angul commissioning after refinery start&nbsp;&nbsp;Multibagg AI"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO explains ₹317 crore first-half power cost increase - Multibagg AI",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTl9LdFlwV2hjLWFUb2hZVGJNY05XNU9CTm5MN2syNGRVUGVSY29ER254TEZTa3A2dHNjbkg4R2NTazBGM21tU3JQemNkMmFWVzhJTWV2c2JNUXJQOTdJeUotaV94OUw2TW1Gb0p5ZGpfNXRBNWs2SzZ4bFNrdWY2U1VRSElTMy0xdHU2YXNOTWdmQmZZVlBERWVDX0lROWU3OGVRMVprYkRXbjg?oc=5",
+      "date": "2026-11-09",
+      "timestamp": "2026-11-09T06:43:05+00:00",
+      "summary": "NALCO explains ₹317 crore first-half power cost increase&nbsp;&nbsp;Multibagg AI"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO targets six November vessels after October disruption - Multibagg AI",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTnZad3NaTVdpODRTeDhDZ3B6LXlXU2pfV1BVUUUwQ0wxbzNic3JPUzhUN1RGWGFmVGl5bzlRU3hiZ3A0ZVQtU0pLUkFrQnBTdmdCdnVyMnMwbUl1MTRrcVFJa1hxNXlBU2FXRjAzYXppT2p0czdFQ3VpYkFYZjluWl9MVy1yLVN3N1dBbTA4Sk9sY1ctWGZ6RkVOQ3h2OVJJY0Z1OWNLUWZrd3VLbDV5TTlvYV91OUxEQmc?oc=5",
+      "date": "2026-11-09",
+      "timestamp": "2026-11-09T06:43:00+00:00",
+      "summary": "NALCO targets six November vessels after October disruption&nbsp;&nbsp;Multibagg AI"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO reports record half-yearly results with all-time high revenue and profit - InvestyWise",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMFQwSzZZRHJkRklSZzNlUTdhaFRKNF8zcDdidlVnMGxZTkdrZlMxSjJnYUV0VWhEcUktS3VHQVFEaVZjYXB6Vnc5eGlhOXNwOFNZbFJrbTZsY3l2V0szQ1dvRlZvVVlERFRnWVNYQk9nUm5yUjNSN09nQ3hIN2VIeUtYTnM?oc=5",
+      "date": "2026-11-09",
+      "timestamp": "2026-11-09T06:41:58+00:00",
+      "summary": "NALCO reports record half-yearly results with all-time high revenue and profit&nbsp;&nbsp;InvestyWise"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO Organises e-Office Workshop for Corporate Executives - PSU Connect",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWFZsMHdqQmFmSFFWRVBPWE54Sk02cEJTUERMdmhDRk9lX1AtaW9adTNVbjhGZnBPMHhQSDVIUlhRcVB1OTJKRlJhTlRMVUZTbTRVLUY2eE15R2w3ZGFvdktKbHFfT2NLMnRQQzM1MGJkQkdiX3NhejhsaEpRVVlrTEgxRi1rbTVCbHNaY1QwZ3NZclpkbDBLNg?oc=5",
+      "date": "2026-11-09",
+      "timestamp": "2026-11-09T06:37:00+00:00",
+      "summary": "NALCO Organises e-Office Workshop for Corporate Executives&nbsp;&nbsp;PSU Connect"
+    },
     {
       "source": "Google News",
       "title": "NATIONALUM Share Price Today - NALCO on NSE/BSE - scanx.trade",
@@ -9,6 +57,62 @@
       "date": "2026-11-06",
       "timestamp": "2026-11-06T20:09:43+00:00",
       "summary": "NATIONALUM Share Price Today - NALCO on NSE/BSE&nbsp;&nbsp;scanx.trade"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO Plans ₹30,000 Crore Aluminium Smelter Expansion in Odisha, Targets 1 MTPA Capacity by 2030 - Indian Masterminds",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLTBnWkdxd1hjWG9WT1pKOC01YVc2T2dRV2tKMFFEUEdXX0FMc1VSaEZBMmN1MnRYclhjNzBwRFFIVmpsZ0FpdUNheXZWYTRsNm5GNnptbXFHNUt0dWVmN0J1UTBhZVk5aG5JbG52d0hFcjF6eG1jWEkydGJMcFJsSTV1ZUZFekZkTVpPcGpsTG5VOE1zOUQ1Z1lROA?oc=5",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T14:55:27+00:00",
+      "summary": "NALCO Plans ₹30,000 Crore Aluminium Smelter Expansion in Odisha, Targets 1 MTPA Capacity by 2030&nbsp;&nbsp;Indian Masterminds"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO marks ₹300b Angul aluminium smelter progress with 1 MTPA ramp-up approval - AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWmRfZkZmODBTQ3B2TzN3bDVKSzVVNGhNTDVxaGJEWnFTZS1UMW5GNGhZVXE3ejJoOGo0WkN1T0kxSXhvSW45aEI5OW05QWFEcnRZQ2dfX3AtcXhLdGp2VERWZml0YXZLaElOdmJPdVF2ZXFMY2dybG43YkdDb2QzU051NU1meEJhZ2pubjkyN3ZCcEg2Q09HSmFnTGhsSkdva0U5cmluVUZuaHNyNS1pcFdvVkJiUQ?oc=5",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T14:12:00+00:00",
+      "summary": "NALCO marks ₹300b Angul aluminium smelter progress with 1 MTPA ramp-up approval&nbsp;&nbsp;AL Circle"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO Pushes $3.15B Aluminium Smelter Expansion in Odisha, Aiming for 2030-31 Launch - Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdExqbkhiOVJSdkMwOXgwOElUVTlJNVFRQlFjQ1lReXJ0RDlValJab1E5dDlVUnhtTG9teVZpenVxWmZJcUVnZGE1MmRKZXJna2E0RUEyYzRxUzZEdmRUbVZZV1FwRF8yMmZQTmlwazMwSTJMdVg0amVmTHJhWVQxbVAxcHpycTJ1b1FUUEwzb0NuNEhjOFRNbm5LcWN6NU9xdEQxYVppQjk5MzFyQmx6ajkxbTFESEwwSzQ4cm5HSWg3Zmdk?oc=5",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T11:40:00+00:00",
+      "summary": "NALCO Pushes $3.15B Aluminium Smelter Expansion in Odisha, Aiming for 2030-31 Launch&nbsp;&nbsp;Shanghai Metals Market"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO’s proposed Smelter Expansion at Anugola gains momentum with key approvals and partnerships in place - PSU Connect",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXZnFEZ1VHa0ZPZklWU2pSSWdBWk5XYm1GVnZnWmU3SnFIMlJaVUdpRm1fYVg1RXJ5VEYxVFJmQXFnRkxoSlU1bFZIUVBQWWlheXNjOEVsQWVjc1AxN19lWGFjaENaVGVvNDU0dkwzUmxjaDFPSW84?oc=5",
+      "date": "2026-11-04",
+      "timestamp": "2026-11-04T18:24:00+00:00",
+      "summary": "NALCO’s proposed Smelter Expansion at Anugola gains momentum with key approvals and partnerships in place&nbsp;&nbsp;PSU Connect"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO plans ₹30,000 crore smelter expansion to double capacity - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUlVJSmJ0SmRsTElLaFk1Z0J3bHJKU3NudmtjR0RMM0g4RkxpenlxTGNmbmdBWFR0ZkZ1dDdIZlNxdGpiWGZPUk05MWhSUk1heGh4dVJ6RTRIYjlHRWtQV0o3eDNHM01pMFlrczFPQ29la3JTTXhodE9nNk5PUU1FbC1zVnBTc01PaF9kR09RdWtMOFRacjZ6dWdScUtWMHFwbFVuZmlkOTNaODFRdzZDenRJUkt5UQ?oc=5",
+      "date": "2026-11-04",
+      "timestamp": "2026-11-04T17:32:59+00:00",
+      "summary": "NALCO plans ₹30,000 crore smelter expansion to double capacity&nbsp;&nbsp;scanx.trade"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO moves forward with ₹30,000 crore Anugola smelter expansion - InvestyWise",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX21XQmdOa1J0TkFWNlZrdmhNa3Y3T0JnblFLRGhNVEduYnZMS0ZYbF9oSHkxMy1UUnBnem5TQXBtQWlHZkNKX3ZCb3lvYUk3b1JwT1gydFFSQnVkc1IzYUMzS2ZCeVZ2RUZQOWpFMnFFZkJhdWxkNzRIVGR5YkNlSmNn?oc=5",
+      "date": "2026-11-04",
+      "timestamp": "2026-11-04T16:08:02+00:00",
+      "summary": "NALCO moves forward with ₹30,000 crore Anugola smelter expansion&nbsp;&nbsp;InvestyWise"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO standalone profit rises 28% to Rs 1,835 crore in September - Multibagg AI",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZjNoWjJvMTU5ZEstT1hneWFqa3JIS19oYmRMR0hfVXBhOWdBaGpLZEZTajZocDNCbVdrMU5ZWFZuWWp1b2RrOENySDZidDlnMml3OFAxN3lWRU1mWklzZWQ2cnZ0ZS1LNmNueTRHUVppQkhVeXM2V2ZZbEJ0bkloQnFUdGFjX1d5cFZvSDNiTFpSUjRYNVZiNGlsSnVibTBuQlBIenNnNTNYRy02cHlzblpQa0lfMm00dVFQZS15ck5WWlpOUFE?oc=5",
+      "date": "2026-11-03",
+      "timestamp": "2026-11-03T14:11:27+00:00",
+      "summary": "NALCO standalone profit rises 28% to Rs 1,835 crore in September&nbsp;&nbsp;Multibagg AI"
     },
     {
       "source": "Google News",
@@ -28,6 +132,14 @@
     },
     {
       "source": "Google News",
+      "title": "NALCO Q2 PAT Up 28% to ₹1,835 Cr; Best-Ever H1 Performance - PSU Connect",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOTcwNmpRR0xQaHhNSE5HTUtKWlFvZmljZS1kbkhGUXotSWVCM3RucmktLXh5bVRzYW5rX1J2dmRVZFBsTHJLVUxxNUlnTmF4T3VyTGw4ZGpaZWJBRFFKQzhoR0lNSWV5bGZZNm1RUmUyTXdvUDB2N2tQd2YzeVUtaUswQ3pibUpsSmZfek1xcGl5MUp3Q1E?oc=5",
+      "date": "2026-11-03",
+      "timestamp": "2026-11-03T05:13:00+00:00",
+      "summary": "NALCO Q2 PAT Up 28% to ₹1,835 Cr; Best-Ever H1 Performance&nbsp;&nbsp;PSU Connect"
+    },
+    {
+      "source": "Google News",
       "title": "NALCO Q2 Results: Rs 4.5 Dividend Declared, But Profit Slip, 660-Bps Margin Shrink May Alarm Investors - NDTV Profit",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTGtjTlZvaW9iU2ViRTh1RXEzOHhyTjlNVDVENlNabnhKRjZfbFgwOGk2Yl9PTjBJVTZETlZ4NGg4NFFnRkY3cHJIWGJ0OHpwckRIQ3k2SEFUOXhTT0t3cFpQSTl3RzZ4Mlc2dGhRUnBwRU5lN0ZkVVZidTN4ZjdjNERRd05FSXM3Q3lfdFBzRDlHMzZ3S3dSSTB1OEZWdzNYcnE0Zmgxa3NmYVUyeGZfWWlNMEFCYnJKbUs5X1FVR2NUTEZvcFlVYVhRUklSTkRlUG5GZWlldE1BNWfSAeMBQVVfeXFMUDd6bllJbmNrTExxcXJkejJsZzhObXpSVW56QTRmSU42VnVIWFVUd2tOeEgzMVZMblctUnpWa1BGS1U0YjN0Q2pmMzlyXzgxbHlaZnlaWGxyWC0yUXJ3OXFSSnRMSDZ3VGtnQm1BT1hQblVxaFdOUTlnM09EYldYZE9CZ2dBS05OVUpOS3E0b25sWldlMTd6YTlWS3FOUXJCeXNRM2hCX2VmNHBaY1k1c2FvcGFQLTNWN0xrZXBISG5lR3FERlBkRGk2Q19iMTRnQjdjMlVpbS1weldHT2wwc1JrVDQ?oc=5",
       "date": "2026-11-02",
@@ -44,19 +156,19 @@
     },
     {
       "source": "Google News",
-      "title": "Jatin Kumar Nayak Takes Charge as IREDA Chairman and Managing Director - Adda247",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORUlVaUl4MDNUZGhaSTZHVm0xak5MRUZxX1JiMlRmUTNDWDdlNUZuWDQ4Zl9BUDhyOFNTX21MVnFBdkI3d29leFlvay04ellsLVNUVkZNdGlpY01nclBFZFRoRWN2TlFwUlhZdEtqZEdESzJfU3VIVE1mbERfclZnY2dUTDNaLTlBODlQdFdKa1VISW0tN1VhclNRUy1sOTZScXVFVk9aX3Zvdw?oc=5",
-      "date": "2026-10-31",
-      "timestamp": "2026-10-31T09:15:48+00:00",
-      "summary": "Jatin Kumar Nayak Takes Charge as IREDA Chairman and Managing Director&nbsp;&nbsp;Adda247"
-    },
-    {
-      "source": "Google News",
       "title": "IREDA appoints ex-REC executive Jatin Kumar Nayak as CMD - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnAyTDFaM0w1c19JeU1lZG1aazN2bkdSdTZuMEF5OFR2RUdab0JvZ1lNbUtMZ0dQNnhmWkFLVHJFNVpUT3BuTnF3T2tXOThUM2t2T3NXcG1mQ2VNc3g3bG9ybHNSdno5WUxTMGFLck5ubmlyWlhQQk5OVC12eVBpNlVqUlh0enNlX3FjUjFfYVBFX25TeC1YblJkMUxPWm9odkRVYXNqQVdPcHRjZ3d1VUJxSHBuLXR4LWpYb0tJdEJCWXdQcDlCYzVB0gHPAUFVX3lxTE5TcmJuY3doMFdtSnB1Sm5RLTJ5eVhIc0JWOWxvdHdDbGY4TGJBLWZqbENiWjM2alNSbVFUSk1xaC1ud05JSjYxOVk4aHhfSTZHclRoZ3lELVMzc1hENnZuMWJDaWx3bDhCMHJqV0k3UGJwdlh1QnFZdHdlcmlsTGdGcVpqMUZ0bW1IbEo3TDIycERuYWhxaXFiZjQ2Xzl6SEVMVmVxR1J0dFVsQk8tN25MWFlkTWRCYzAzRVZZVDhOcmNfbTZNY3VvdExzXzdpNA?oc=5",
       "date": "2026-10-31",
       "timestamp": "2026-10-31T07:00:00+00:00",
       "summary": "IREDA appoints ex-REC executive Jatin Kumar Nayak as CMD&nbsp;&nbsp;The Economic Times"
+    },
+    {
+      "source": "Google News",
+      "title": "Jatin Kumar Nayak Takes Charge as IREDA Chairman and Managing Director - Adda247",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORUlVaUl4MDNUZGhaSTZHVm0xak5MRUZxX1JiMlRmUTNDWDdlNUZuWDQ4Zl9BUDhyOFNTX21MVnFBdkI3d29leFlvay04ellsLVNUVkZNdGlpY01nclBFZFRoRWN2TlFwUlhZdEtqZEdESzJfU3VIVE1mbERfclZnY2dUTDNaLTlBODlQdFdKa1VISW0tN1VhclNRUy1sOTZScXVFVk9aX3Zvdw?oc=5",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T07:00:00+00:00",
+      "summary": "Jatin Kumar Nayak Takes Charge as IREDA Chairman and Managing Director&nbsp;&nbsp;Adda247"
     },
     {
       "source": "Google News",
@@ -172,14 +284,6 @@
     },
     {
       "source": "Google News",
-      "title": "NLCIL signs MoU with NALCO for thermal and renewable energy collaboration - The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcHhZWTFCeFdHWGVsd0xad3VvS0p1WUktYXNtcldQczIyOWsxQUdfSVM0OXdHVmN4WFNrbTB1REtwM3ppck4xRW1uM0c5aHVxcHp4Ym1Cd05xUmNvS21MSndIQkRBMno5UTZydVUzb0U5cjFLaEswTWZoRFFkZDIxTWRZNkJrLTNYeWlNTnZYdURwNGZZcUc0RlFOdHIyN1RJQ2pDd1Q4dFRPQXRGSXFTQ1RCYVdUQzlTUkpSN2Z6UzQ3ZU9uTDFDbkUwTkhUUEFNSWttNWxPaTN3cE3SAeIBQVVfeXFMTm56WnNSd1h3dVBzNnlkS3ZDS2lXTTMxOWdHTzJkM0dGTUFkQ09xR2huYWJqZ3BBT1J4dDMyLXpYQXFDdW52YkFUNEFkeVpDMGZtcUtTVkRuUXNQa0NhbFlzWEJiU0ktU2V6LVdmZmU5ME1uOWhodUlaakJPUFEza2p1aTN2a0prN2lxSHozeFc3UEw3ZlBkUjYzWFNfamszRDFfcVBDYUhmX1FneUFVZDlQVDlNNlBPYjhXR0EySjFqdUxiRVZ4SGI1NzRHT3JIa2RTbXVKaElKaC1ZaDhxQ3NOdw?oc=5",
-      "date": "2026-02-15",
-      "timestamp": "2026-02-15T08:00:00+00:00",
-      "summary": "NLCIL signs MoU with NALCO for thermal and renewable energy collaboration&nbsp;&nbsp;The Hindu"
-    },
-    {
-      "source": "Google News",
       "title": "Aluminium sector is not yet ready for green transition: NALCO CMD - The Indian Express",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmd4N2lIUVg5NU1mOXRVRWZCRlQ0TFlTUk1MOEFhX2hrVkpOWV93c1VTa2M3SENlVkhXd3RxbUtpN2huZ3dvcVUwRWRUZ1k3Z1hfZURDbkZzbDU1bTRrRmxhUmVqbElLZkdDNDhERzBjNTE0OVVqbkk2RHRhVUpzczMtM2pCeG1Tc1UydW1DNXAwZ3A5RjdyTVh6OGp0X1BkMTRCNXY4V1ZWZ1FGRHYxWkJDQ291QXRZ0gG_AUFVX3lxTE9kU3RtYkVlb0xISGVMWUdsQWxZTU1SS3U3UDVZZjBtU1RjT1RDakFQYnVjVXV2QWMwdlVBRFprUHpxYlF5UWU0c2JLRHp1TGUtcUNfcXdGNlpSQktwMU8wWlRiT1ByeXNMbFNxc2Vyd0FRZ0VmUEZXcFF4dmlxMXQ2bUdNTlBRVDVxdkJ5Yk9YbzVNSTdISXhIejdsTXVqS1B3S2FGbjQ1YmpuendMSXlwRlFWYzFkUUlmY3Z1MnJr?oc=5",
       "date": "2026-01-18",
@@ -204,14 +308,6 @@
     },
     {
       "source": "Google News",
-      "title": "National Aluminium Company Ltd. Share Price Live Today - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNGtkbzQ1TE1NVmhsUkpPQU1oSXB4WHFjdVp1WjFzaFUtd0tPZC1laVBYejlXek9XWWVwTXlURndMc0o0cHI3bW5CTGJqVlhXb0l2QlZobzNjb1h6M0JQYmFCY0JsUnVicV9KclVVNWgzODdpYk8zMzFBMkZnV1g3MnJ6emUyWnBZLVE?oc=5",
-      "date": "2025-01-02",
-      "timestamp": "2025-01-02T08:23:16+00:00",
-      "summary": "National Aluminium Company Ltd. Share Price Live Today&nbsp;&nbsp;CNBC TV18"
-    },
-    {
-      "source": "Google News",
       "title": "NATIONALUM Share Price Today - National Aluminium Company Ltd. Stock Price Live NSE/BSE - Univest",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLTB5dE9ZS0xtQ3JUWUd3cWJZQ3RpbEtXSHRJUk4wZTRQa015a2dkcXh6d0F0dXdDNEZCazlkTGNiQjVVc2hRWlZnSXB6ZGhCRmtQNUFIRjFZSmc2anZYeEFTZ3A1SDZUVEQyaGVQN3lWMUhxbDdtRDVnZ3lXNzg4Z3VwN041REpqTm5OdXVR?oc=5",
       "date": "2024-02-08",
@@ -225,54 +321,6 @@
       "date": "2023-10-09",
       "timestamp": "2023-10-09T07:00:00+00:00",
       "summary": "Full Form of NALCO, National Aluminium Company Limited&nbsp;&nbsp;PW"
-    },
-    {
-      "source": "Google News",
-      "title": "National Aluminium Company Ltd Share Price Today,, NATIONALUM Share Price NSE, BSE - Business Today",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM3ZTVXdKWjBFZUlMSjVXeTl1TzdLRFl1YjYtdGFTa3VkSGhFLXN0b0g2VlBod0ZKeHdzcGprdEo2U3ZZakRaRjZHd1BXSE1RVGozZFZBUEVHUGhONWh3VXpnbUlGWkFSSHgxNy1kV2Z3NUlVaW9qR3RGUFRDMDNiZTNxV2J3WmU2dTBad0tHN2NWNTk3UjVWaDJiRkI?oc=5",
-      "date": "2023-01-24",
-      "timestamp": "2023-01-24T05:37:56+00:00",
-      "summary": "National Aluminium Company Ltd Share Price Today,, NATIONALUM Share Price NSE, BSE&nbsp;&nbsp;Business Today"
-    },
-    {
-      "source": "Google News",
-      "title": "NATIONAL ALUMINIUM CO LTD Option Chain - Live NATIONAL ALUMINIUM CO LTD Option Chain Data, OI & Price - Upstox",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PelFJOFJXSm55NGktazFYeGIzbERTeUR3OXJSeDBlemRCLWNxWlgtTG85VFB4S0NnQUJSeVhlZk5udVcya19kdlplemRqOGxhZHItRVVtOEVqQ3pNQzFlTmlZRjdPTW1qUGc?oc=5",
-      "date": "2022-08-24",
-      "timestamp": "2022-08-24T04:48:01+00:00",
-      "summary": "NATIONAL ALUMINIUM CO LTD Option Chain - Live NATIONAL ALUMINIUM CO LTD Option Chain Data, OI & Price&nbsp;&nbsp;Upstox"
-    },
-    {
-      "source": "Google News",
-      "title": "National Aluminium Company Ltd. Share Price Today | National Aluminium Live NSE/BSE - Value Research",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUGlKOVpDXzZGNklIdVh1UTk5U2EzdDBqZTAxMm44MWw5ZEVwdC02bEFKeXJ2R0EzVkpmbkdUUTJJZzRZWU4yQVF2R1RwZlgwcjJpWmJYZ1AtaHpIYkFjbEx3RnRoLUwzN2k3N2FPeElEOXVmV1BwdmFqd3JXR3JEU2ZyX25jQTQ?oc=5",
-      "date": "2022-03-24",
-      "timestamp": "2022-03-24T19:04:54+00:00",
-      "summary": "National Aluminium Company Ltd. Share Price Today | National Aluminium Live NSE/BSE&nbsp;&nbsp;Value Research"
-    },
-    {
-      "source": "Google News",
-      "title": "National Aluminium Share Price - Live NSE: NATIONALUM Stock Price & Chart - Upstox",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjSVgtTGxsel9Od0lNQ09hVEhpY3MxTVJWMGJ1NGVTMWpRb1hwWEZoRl9obExfYmR6ck1kNzZsX1lqSjJSc01VZWJUeGxRNWVBWk9DbEhjZUJyTk41eHJDZktrU2pDWGxCTlNIdHpheEpwUQ?oc=5",
-      "date": "2022-01-20",
-      "timestamp": "2022-01-20T05:57:15+00:00",
-      "summary": "National Aluminium Share Price - Live NSE: NATIONALUM Stock Price & Chart&nbsp;&nbsp;Upstox"
-    },
-    {
-      "source": "Google News",
-      "title": "National Aluminium Company Ltd Stock Price: Natl. Aluminium Share Price Today - India Infoline",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMXlXVW1VbFZZWFAzY01FTExKcExSMlNvTDFudFBxTm9ZTnZIdGRVanBaTWU1UjBNWEtObW0tX1U5bzJFa0FxVnVRWkkyczlfUjEyb3ZWeXlpSHdUMnlwcDYxbDBMd29wbEt5U283UWxUbzV6b0ZmdkVEa1pPeW0zNVZiQ2NhZ1U?oc=5",
-      "date": "2021-03-16",
-      "timestamp": "2021-03-16T15:12:13+00:00",
-      "summary": "National Aluminium Company Ltd Stock Price: Natl. Aluminium Share Price Today&nbsp;&nbsp;India Infoline"
-    },
-    {
-      "source": "Google News",
-      "title": "NATIONALUM Stock Price and Chart — NSE:NATIONALUM - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaV3ZWZlRXN2xBYlpJQ3VfM0hQUWQ4MjJURmk5cWV5azlJRGV6Q3FmTjdrd3VveGZ6SHlnVDM1d2VZcEF0ZWpkYnNuNUpxYl9zX0RKV3lsNFhpek5NMmEtMg?oc=5",
-      "date": "2017-07-21",
-      "timestamp": "2017-07-21T05:25:27+00:00",
-      "summary": "NATIONALUM Stock Price and Chart — NSE:NATIONALUM&nbsp;&nbsp;TradingView"
     }
   ]
 }
