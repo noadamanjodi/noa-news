@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-12T06:18:59.511161Z",
-  "count": 40,
+  "updated_at": "2026-11-12T16:38:56.132698Z",
+  "count": 32,
   "items": [
     {
       "source": "Google News",
@@ -9,6 +9,14 @@
       "date": "2026-11-11",
       "timestamp": "2026-11-11T06:19:00+00:00",
       "summary": "【SMM Aluminum Flash News】NALCO Plans ₹300 Billion Aluminium Smelter Expansion in Odisha by 2030-31&nbsp;&nbsp;Shanghai Metals Market"
+    },
+    {
+      "source": "Google News",
+      "title": "NATIONALUM Share Price Today - NALCO on NSE/BSE - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40aWswS3FINElFdHJfdUZ6dnY0X21rNlY3MENDSndOd0pjTEJrX0dUd1BvckNZcG0tZWt6ejQ2elpQOTNFa1o3TndablNPeUc0T1FtV1NidWhpQ09WMGt1ejBoYW4zc0xXUWc?oc=5",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T07:55:26+00:00",
+      "summary": "NATIONALUM Share Price Today - NALCO on NSE/BSE&nbsp;&nbsp;scanx.trade"
     },
     {
       "source": "Google News",
@@ -28,30 +36,6 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO reports record half-yearly results with all-time high revenue and profit - InvestyWise",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMFQwSzZZRHJkRklSZzNlUTdhaFRKNF8zcDdidlVnMGxZTkdrZlMxSjJnYUV0VWhEcUktS3VHQVFEaVZjYXB6Vnc5eGlhOXNwOFNZbFJrbTZsY3l2V0szQ1dvRlZvVVlERFRnWVNYQk9nUm5yUjNSN09nQ3hIN2VIeUtYTnM?oc=5",
-      "date": "2026-11-09",
-      "timestamp": "2026-11-09T06:41:58+00:00",
-      "summary": "NALCO reports record half-yearly results with all-time high revenue and profit&nbsp;&nbsp;InvestyWise"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO Organises e-Office Workshop for Corporate Executives - PSU Connect",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWFZsMHdqQmFmSFFWRVBPWE54Sk02cEJTUERMdmhDRk9lX1AtaW9adTNVbjhGZnBPMHhQSDVIUlhRcVB1OTJKRlJhTlRMVUZTbTRVLUY2eE15R2w3ZGFvdktKbHFfT2NLMnRQQzM1MGJkQkdiX3NhejhsaEpRVVlrTEgxRi1rbTVCbHNaY1QwZ3NZclpkbDBLNg?oc=5",
-      "date": "2026-11-09",
-      "timestamp": "2026-11-09T06:37:00+00:00",
-      "summary": "NALCO Organises e-Office Workshop for Corporate Executives&nbsp;&nbsp;PSU Connect"
-    },
-    {
-      "source": "Google News",
-      "title": "NATIONALUM Share Price Today - NALCO on NSE/BSE - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40aWswS3FINElFdHJfdUZ6dnY0X21rNlY3MENDSndOd0pjTEJrX0dUd1BvckNZcG0tZWt6ejQ2elpQOTNFa1o3TndablNPeUc0T1FtV1NidWhpQ09WMGt1ejBoYW4zc0xXUWc?oc=5",
-      "date": "2026-11-06",
-      "timestamp": "2026-11-06T20:09:43+00:00",
-      "summary": "NATIONALUM Share Price Today - NALCO on NSE/BSE&nbsp;&nbsp;scanx.trade"
-    },
-    {
-      "source": "Google News",
       "title": "NALCO Plans ₹30,000 Crore Aluminium Smelter Expansion in Odisha, Targets 1 MTPA Capacity by 2030 - Indian Masterminds",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLTBnWkdxd1hjWG9WT1pKOC01YVc2T2dRV2tKMFFEUEdXX0FMc1VSaEZBMmN1MnRYclhjNzBwRFFIVmpsZ0FpdUNheXZWYTRsNm5GNnptbXFHNUt0dWVmN0J1UTBhZVk5aG5JbG52d0hFcjF6eG1jWEkydGJMcFJsSTV1ZUZFekZkTVpPcGpsTG5VOE1zOUQ1Z1lROA?oc=5",
       "date": "2026-11-05",
@@ -68,35 +52,11 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO Pushes $3.15B Aluminium Smelter Expansion in Odisha, Aiming for 2030-31 Launch - Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdExqbkhiOVJSdkMwOXgwOElUVTlJNVFRQlFjQ1lReXJ0RDlValJab1E5dDlVUnhtTG9teVZpenVxWmZJcUVnZGE1MmRKZXJna2E0RUEyYzRxUzZEdmRUbVZZV1FwRF8yMmZQTmlwazMwSTJMdVg0amVmTHJhWVQxbVAxcHpycTJ1b1FUUEwzb0NuNEhjOFRNbm5LcWN6NU9xdEQxYVppQjk5MzFyQmx6ajkxbTFESEwwSzQ4cm5HSWg3Zmdk?oc=5",
-      "date": "2026-11-05",
-      "timestamp": "2026-11-05T11:40:00+00:00",
-      "summary": "NALCO Pushes $3.15B Aluminium Smelter Expansion in Odisha, Aiming for 2030-31 Launch&nbsp;&nbsp;Shanghai Metals Market"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO’s proposed Smelter Expansion at Anugola gains momentum with key approvals and partnerships in place - PSU Connect",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXZnFEZ1VHa0ZPZklWU2pSSWdBWk5XYm1GVnZnWmU3SnFIMlJaVUdpRm1fYVg1RXJ5VEYxVFJmQXFnRkxoSlU1bFZIUVBQWWlheXNjOEVsQWVjc1AxN19lWGFjaENaVGVvNDU0dkwzUmxjaDFPSW84?oc=5",
-      "date": "2026-11-04",
-      "timestamp": "2026-11-04T18:24:00+00:00",
-      "summary": "NALCO’s proposed Smelter Expansion at Anugola gains momentum with key approvals and partnerships in place&nbsp;&nbsp;PSU Connect"
-    },
-    {
-      "source": "Google News",
       "title": "NALCO Increases Utkal Coal Mine Production Target To 4.8 MT For FY27 - Sahi",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcG9qRl9fSWdTMHY4X1htV2xzanQ3Y3NmOWtrdXYyQ0p2NkpmNUo1WjFXYnBONVhLdGg3ZDBYUW8zUGtIcTVuUHZia3IwVU5CcTJiRjRHdXZmSWhPSXNrWTR0MU1BZVlmNzhRTlNjb2pPUHd2UlQxZG1TZDFCbWZOTmxzdkV5akFsSkhETEwxNGVTbWlMdVRvbWJR?oc=5",
       "date": "2026-11-03",
       "timestamp": "2026-11-03T08:00:00+00:00",
       "summary": "NALCO Increases Utkal Coal Mine Production Target To 4.8 MT For FY27&nbsp;&nbsp;Sahi"
-    },
-    {
-      "source": "Google News",
-      "title": "As Angul smelter expands to 0.96 MTPA, NALCO turns to aluminium fluoride supply security - AL Circle",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXU5VDZXZWdvMnpTVWxSaGtTU09kQjYwLXpBcmlyYjZZd2QwLTdOVnFqYnk1VmRWYUVXR1dXWngta095VGtITFZ4eExOcGVmcGRxdkFOVWRPVjFaeWoyU0lONWhweHZfYXRfVUplNjVGd09XdzJlaEV0Q3JuSWZ0akljVl91MUpuOV9RV3RGM0F1dnpHOXFRMkhXajZDVEljQmtKaHJQYU9ld2FrZGJGRjlsS1hZd1pHblV3Sm10S1U0dw?oc=5",
-      "date": "2026-10-13",
-      "timestamp": "2026-10-13T07:00:00+00:00",
-      "summary": "As Angul smelter expands to 0.96 MTPA, NALCO turns to aluminium fluoride supply security&nbsp;&nbsp;AL Circle"
     },
     {
       "source": "Google News",
@@ -140,14 +100,6 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO's record FY26 sets stage for major aluminium expansion push - AL Circle",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2NuQjdTT3FHNE80aEVfQ1ZrZTdpd0taSHRVaTZuY09uOWd1ejdoNGxoTGxqOHVmR1dsVmJxT3JxRC1oX1BvX2NmeGFjcDV2TkpBZ1dycVhpRFVHQ3hqTG81eTlUT2dpcGlqZHJZbm4wS3JTTG16T2hVWU03ektHWTVqdDNaNXduTjk5UHhvRzJHSkdXRDFOYzRoUjJHQnZGRE0wQw?oc=5",
-      "date": "2026-09-01",
-      "timestamp": "2026-09-01T07:00:00+00:00",
-      "summary": "NALCO's record FY26 sets stage for major aluminium expansion push&nbsp;&nbsp;AL Circle"
-    },
-    {
-      "source": "Google News",
       "title": "National Aluminium Company Limited Submits Business Responsibility and Sustainability Report for FY 2025-26 - scanx.trade",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQ3YwcWFWdkhJeEEzOXJyZy1XY2RGNElUaWlXZzE3WHRHWFcxVURYMUNFWmpIbVVKRkl6NUFGSDFxSHlyVmROM2RuWmFIR2M1ZzV0MW9PeGdwTjgydTY3SjRXVDVMYWNXQ0d2LWdyZW1GQW1WLWl0eEpqUWxqbVJmZldid05mT19lbzBHTmJfa2pDN292UTBac3N2TGM3VFgwNzVSc2p2enRSa2VvNkgzbnNJVmVYeS1sNmxPa0ZwUng3SEM5NjNvRlkwbUF6cGZOTXlGNk12OHNlb1VDV3V3NUJ2YTM4bEN4Q0l3ZkZzVmw5MDVhVi1N?oc=5",
       "date": "2026-08-07",
@@ -164,27 +116,11 @@
     },
     {
       "source": "Google News",
-      "title": "List of Navratna Companies in India - Groww",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZeUNXMUZMaVZVVDJNRDZXdmdPeWY3VW42V1ZzcklrZktieVJYbGQ1YlBwN3NnSGs5VW85cFNOOVY1QjN0aUpNUHRFMnF5LTFNU3FyWnJfWVg2eVRO?oc=5",
-      "date": "2026-07-16",
-      "timestamp": "2026-07-16T07:00:00+00:00",
-      "summary": "List of Navratna Companies in India&nbsp;&nbsp;Groww"
-    },
-    {
-      "source": "Google News",
       "title": "NALCO to invest around ₹30,000 cr over next 3-4 years for new smelter, captive power plant: CMD - BusinessLine",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYXFoX3o0R0Vvb09ZX1oxVU9BN204SEpWR2dzRWdlOGtOeGxfUEpwbU01Qm1YUW5tc2VzY2RXWE5WdXdzb2pvbG85NUpkVEtpV2VPdUU1ZE1PYnpMVjFKdDhCbTZLV19IWm9nbHhDQ0NFMTd3ejVldHkyYm9vUE8ybzJ2TE1uMW5qMkJ3X3k0NElCUGxDNm9RVjFnaV9OUjhUQVVqaVZnYnBlX05IRmo1eTlLZkhNME5qRWlXaDBPeGpDelZreG1rcC1iWHdFR3ExS2RSN09rc1djWDdrM0RmV21rc25ITmUwdVk3dmxpVdIB9gFBVV95cUxQUFJLYThyZEFnRXVWRWhSZHZuUTBYTmpIenZOZ0ZCdWJyblJfekwtemUyTHFmb3FZSjM1cXVvaEx0bVZyZ1M1YzF6eUZ1eHd0QWljZXlVa1RBdFV2YWpxdjk2VU5rYjIzdFQ3RjB2T2RCMk1MZjkxMHhZaVJaNElmT0lBOS1pZ2dLd2MtRTFELUlYSjJsTUhWQU9yMjFiNDBTeFJwUmtfSHUxelh6Y210QzdQNE1OVGZDdDhlaTVwUnppanp0SE5Tci0tblBUQ0pFdEktVnZ3UHppWWhyRVllbHZjQ0RVbG5FdUlTWVloM2MyN1JBbXc?oc=5",
       "date": "2026-06-30",
       "timestamp": "2026-06-30T07:00:00+00:00",
       "summary": "NALCO to invest around ₹30,000 cr over next 3-4 years for new smelter, captive power plant: CMD&nbsp;&nbsp;BusinessLine"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO targets $2.22bn FY 27 revenue on expected aluminium price stability and higher alumina output - AL Circle",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcVhBaVh3SEcxUEtyaXVCSHFndkVLWW5HU085am1RZWViM3FVVGNPVWgtZjU3eFJROFhrVVJ6QnlBMktDcEZWWUhfbFkxOXFLN2VGT1A5TWZ1NEdudlpQQ3I1bXFOc001emF0RTZaV3paUy1YdG5keG5sTXZlbEdPb0Q1UFlTUnZrcE95R0x1VGtCY3VWS2ZhSnZYdUFTcW4ydVF4VDVVRklJdWtZTXR5Mi1zQjJmUEs0NGl4eUJaNld5Y3BjNWozTmRLV1JmaFU?oc=5",
-      "date": "2026-06-30",
-      "timestamp": "2026-06-30T07:00:00+00:00",
-      "summary": "NALCO targets $2.22bn FY 27 revenue on expected aluminium price stability and higher alumina output&nbsp;&nbsp;AL Circle"
     },
     {
       "source": "Google News",
