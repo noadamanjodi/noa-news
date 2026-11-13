@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-13T00:56:18.527665Z",
-  "count": 32,
+  "updated_at": "2026-11-13T11:56:55.213189Z",
+  "count": 33,
   "items": [
+    {
+      "source": "Google News",
+      "title": "Record profits, mega expansion: NALCO bets big on Odisha growth - prameyanews.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTlFsWm9yeDJsZVlENHN5UFZ0YkdwUzFSWFFRWHBROVRCNDZhem1fNi16UjM1TzVmd2xxSjFiZjM5ZDdCSmZnUWwyUURUWExqOWY2amhJUk4xSXM2bldXRXJlS3pibndJVV92dmJjX0ZycF80NU5ZOW9oQjNzVXc0MF9FWlh0ZURaTHEyTm4wdWZNejQ?oc=5",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T11:06:02+00:00",
+      "summary": "Record profits, mega expansion: NALCO bets big on Odisha growth&nbsp;&nbsp;prameyanews.com"
+    },
     {
       "source": "Google News",
       "title": "【SMM Aluminum Flash News】NALCO Plans ₹300 Billion Aluminium Smelter Expansion in Odisha by 2030-31 - Shanghai Metals Market",
@@ -33,22 +41,6 @@
       "date": "2026-11-09",
       "timestamp": "2026-11-09T06:43:07+00:00",
       "summary": "NALCO targets FY31 Angul commissioning after refinery start&nbsp;&nbsp;Multibagg AI"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO Plans ₹30,000 Crore Aluminium Smelter Expansion in Odisha, Targets 1 MTPA Capacity by 2030 - Indian Masterminds",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLTBnWkdxd1hjWG9WT1pKOC01YVc2T2dRV2tKMFFEUEdXX0FMc1VSaEZBMmN1MnRYclhjNzBwRFFIVmpsZ0FpdUNheXZWYTRsNm5GNnptbXFHNUt0dWVmN0J1UTBhZVk5aG5JbG52d0hFcjF6eG1jWEkydGJMcFJsSTV1ZUZFekZkTVpPcGpsTG5VOE1zOUQ1Z1lROA?oc=5",
-      "date": "2026-11-05",
-      "timestamp": "2026-11-05T14:55:27+00:00",
-      "summary": "NALCO Plans ₹30,000 Crore Aluminium Smelter Expansion in Odisha, Targets 1 MTPA Capacity by 2030&nbsp;&nbsp;Indian Masterminds"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO marks ₹300b Angul aluminium smelter progress with 1 MTPA ramp-up approval - AL Circle",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWmRfZkZmODBTQ3B2TzN3bDVKSzVVNGhNTDVxaGJEWnFTZS1UMW5GNGhZVXE3ejJoOGo0WkN1T0kxSXhvSW45aEI5OW05QWFEcnRZQ2dfX3AtcXhLdGp2VERWZml0YXZLaElOdmJPdVF2ZXFMY2dybG43YkdDb2QzU051NU1meEJhZ2pubjkyN3ZCcEg2Q09HSmFnTGhsSkdva0U5cmluVUZuaHNyNS1pcFdvVkJiUQ?oc=5",
-      "date": "2026-11-05",
-      "timestamp": "2026-11-05T14:12:00+00:00",
-      "summary": "NALCO marks ₹300b Angul aluminium smelter progress with 1 MTPA ramp-up approval&nbsp;&nbsp;AL Circle"
     },
     {
       "source": "Google News",
@@ -156,6 +148,14 @@
     },
     {
       "source": "Google News",
+      "title": "NALCO FY26: Record ₹5,816 Cr Profit, Third Interim Dividend Declared - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaXJGUUhZMXpDZzhwdVZpemtHY3gtaUxCM3I1NGktZ3pmUnp6NEMwRFZRQkJYUEZrNndmVWxkNEFzYmpXNE4xeDY0V052b29fX0NieW4zcjV3RDFaS1JmSXJ0T3k1UFppTlZpNFJIcUJEOC14aFZ5bHpBakJyQjlfZlE5OWY4RFBTSF9TVl9HUnp1dkIwYklYX05oaTE2RVZWUDJES0hLc0V3dEVCSW5XTXJGbFlKVHpkSHFKNjhZYkV1N3RNRVV4TVA2LVNRd09GeE91anMxVldISDA?oc=5",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T07:00:00+00:00",
+      "summary": "NALCO FY26: Record ₹5,816 Cr Profit, Third Interim Dividend Declared&nbsp;&nbsp;scanx.trade"
+    },
+    {
+      "source": "Google News",
       "title": "National Aluminium Company (NALCO) shares surge 14% in three sessions, here is why - Upstox",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOFJJUk9lZlVHV2ctNFVpaU5VNTNOMHMxZFdKQVJWMDNrTVlfbm9mZWNmWWxNbk5BUWNZTkNmczk5ZHV5WHY0WjlleVdvMlV4al9rdjdPZ1RsdEdkMFNTWElVSFZ4NU5IVXpqRS1QN0Y0ZlVzX19fVDF6bDFOakpxaDhsNWVqczQ4a0h1V09DeFVaSnlhOG1VeWZTUjI4ZGRDdDRwaVkwcG9sVEd5U1I1bWhGWVFiVkhYLVFEeUtPZUUyZzAxc29oSWpQOFBMR1RERno4?oc=5",
       "date": "2026-03-04",
@@ -164,11 +164,11 @@
     },
     {
       "source": "Google News",
-      "title": "NLCIL signs MoU with NALCO for thermal and renewable energy collaboration - The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcHhZWTFCeFdHWGVsd0xad3VvS0p1WUktYXNtcldQczIyOWsxQUdfSVM0OXdHVmN4WFNrbTB1REtwM3ppck4xRW1uM0c5aHVxcHp4Ym1Cd05xUmNvS21MSndIQkRBMno5UTZydVUzb0U5cjFLaEswTWZoRFFkZDIxTWRZNkJrLTNYeWlNTnZYdURwNGZZcUc0RlFOdHIyN1RJQ2pDd1Q4dFRPQXRGSXFTQ1RCYVdUQzlTUkpSN2Z6UzQ3ZU9uTDFDbkUwTkhUUEFNSWttNWxPaTN3cE3SAeIBQVVfeXFMTm56WnNSd1h3dVBzNnlkS3ZDS2lXTTMxOWdHTzJkM0dGTUFkQ09xR2huYWJqZ3BBT1J4dDMyLXpYQXFDdW52YkFUNEFkeVpDMGZtcUtTVkRuUXNQa0NhbFlzWEJiU0ktU2V6LVdmZmU5ME1uOWhodUlaakJPUFEza2p1aTN2a0prN2lxSHozeFc3UEw3ZlBkUjYzWFNfamszRDFfcVBDYUhmX1FneUFVZDlQVDlNNlBPYjhXR0EySjFqdUxiRVZ4SGI1NzRHT3JIa2RTbXVKaElKaC1ZaDhxQ3NOdw?oc=5",
-      "date": "2026-02-15",
-      "timestamp": "2026-02-15T08:00:00+00:00",
-      "summary": "NLCIL signs MoU with NALCO for thermal and renewable energy collaboration&nbsp;&nbsp;The Hindu"
+      "title": "Higher alumina output may not translate into revenue gains for NALCO in FY27 due to soft prices, says Brijendra Pratap Singh - AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdi1QNEEtMXpVTEt2WXkzZU5UN1dwbzhCeFBhNnBkZ2hTWlFSeEhxb09YZWt6Njl5bndZWU4zaDlXbERQVUVpb2VYdmdlVUY1ZGxhZXJYZEp6QzVIUGZRTllNWERidjhYdmlfYWFiQW4xTHBUa2FmSnA1Rm5US252T0V3R3FHeGp5NzVKa05HQU9HOWs2VFFSRzYtN1FRNk5aZ1lHRnl5eWlQLUF2bmNyY255WkZNUGNHUzNWRzdrbzhveDd2ek5jRzBXYjZfTnA3azd3NU1FVklLdE1kVHltM3VkdWJmaVd2bjRvQm1iaTlodw?oc=5",
+      "date": "2026-02-10",
+      "timestamp": "2026-02-10T08:00:00+00:00",
+      "summary": "Higher alumina output may not translate into revenue gains for NALCO in FY27 due to soft prices, says Brijendra Pratap Singh&nbsp;&nbsp;AL Circle"
     },
     {
       "source": "Google News",
@@ -193,6 +193,14 @@
       "date": "2025-11-10",
       "timestamp": "2025-11-10T08:00:00+00:00",
       "summary": "National Aluminium Company (NALCO) shares surge over 8% and emerge as the top gainer in NIFTY Midcap; here is why&nbsp;&nbsp;Upstox"
+    },
+    {
+      "source": "Google News",
+      "title": "National Aluminium Co Unveils Ambitious Expansion Plans, Including Foray into Aluminum Foil Segment - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMDVORXk5N0x0eEd0dHcxU0V2cGlOSEpYRnJocDI4MWVCTy1KalF4NUx3U2hpdXdMYWFfbmFvM3BJcjVYVUJQSWFCVm5rNGtFamZEYXA2S0FDcU1NQmU2VlZNRW1jQmJVYmo2V3poZ2dRX1VFYzlKT0hCNHQtTEFVNlByelQ5RW9nTHhXeDVVQjFhNTc5dTB3VTFqS3NPQ1ZYWWI5VEFsQ3NtdE5Xa3dXbDAxVzVmYVJLckxITU9zVF85bUF3bHVTU0JpTkhBdVd5NzRrVUNlS1Y2bk5MZjRTMm96eFBnSWw2a0N3UmN6aGFibGNYTEE?oc=5",
+      "date": "2025-08-10",
+      "timestamp": "2025-08-10T07:00:00+00:00",
+      "summary": "National Aluminium Co Unveils Ambitious Expansion Plans, Including Foray into Aluminum Foil Segment&nbsp;&nbsp;scanx.trade"
     },
     {
       "source": "Google News",
