@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-21T21:29:19.705652Z",
+  "updated_at": "2026-11-22T05:42:12.784462Z",
   "count": 40,
   "items": [
+    {
+      "source": "Google News",
+      "title": "NALCO holds meet on Anugola smelter expansion - The Hans India",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZEgta2tneVhsbWFhNzFuSjlURUNkNTM1S3pWdHFCMnBvdzdPTmY5TmZGbGI4Q2tsb0JPdmZkOVNhS2dtZFg5T19lV2VUSE9XZ3ZSeWpPVkJiNmRCcE13UVgxaGpqTVljQ0hYLWZiVUxRbU5XRW51OExQbGZ5MW1kNUw0YzhiTjlOSnJlUWNNTFluem_SAZgBQVVfeXFMUGdlWGdJSkxSeFNfM0c2Q1Nja2N4YlhrN0lWTXNtZXpoOWViYVNJRHAwcUJCMFFocURpTDdnRzZQNm1TZVRXR2VlbkhUS295WWZ0cWZ5SWtNWTYtQ3AxdDRtWElfcUpuV3VvTHplb05wVUJKSjNnUUM5d2pLY2QyazZrM3VGcDZ4LTFiMmJqWnU5LW0tWWhteFU?oc=5",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T23:29:56+00:00",
+      "summary": "NALCO holds meet on Anugola smelter expansion&nbsp;&nbsp;The Hans India"
+    },
     {
       "source": "Google News",
       "title": "NALCO initiated process for Anugola Smelter Brownfield Expansion Project - India Whispers",
@@ -9,14 +17,6 @@
       "date": "2026-11-21",
       "timestamp": "2026-11-21T13:03:56+00:00",
       "summary": "NALCO initiated process for Anugola Smelter Brownfield Expansion Project&nbsp;&nbsp;India Whispers"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO Holds Industry Interaction Meet for 0.5 MTPA Anugola Smelter Expansion, Targets Major Orders by 2027 - Indian Masterminds",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLWVhcWs4NXBVZGwwbHhCbDU0UXFNVTdtc0tsMWRNclFYaDV4RktBdUUzWlF3VkVvVFQtY0xsYTJmZ1VGdWgyS0wtd1o4cnA3ZUlvXzZrWllaYnNYTTNwSkVaVndUWDJiSC02ODNjN3puRkhOVEdJb3pWblVqcktzLWw5TXlJUzhMN1EzVmhqVTFoRGpZQXNqeFBRTFNwdHdORVNsbk5pNkc?oc=5",
-      "date": "2026-11-21",
-      "timestamp": "2026-11-21T12:14:49+00:00",
-      "summary": "NALCO Holds Industry Interaction Meet for 0.5 MTPA Anugola Smelter Expansion, Targets Major Orders by 2027&nbsp;&nbsp;Indian Masterminds"
     },
     {
       "source": "Google News",
@@ -137,14 +137,6 @@
       "date": "2026-11-16",
       "timestamp": "2026-11-16T00:38:00+00:00",
       "summary": "NALCO weighs new aluminium smelter as ₹30,000 crore Angul expansion advances&nbsp;&nbsp;Maritime Gateway"
-    },
-    {
-      "source": "Google News",
-      "title": "No plan to shift Angul smelting plant to Andhra Pradesh: NALCO CMD - Industry Odisha",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZk1LckJNcG9qVlU3eWo0eUlLQzVKYm9wb3pkdWdIRVRMTmRRUzVGM1dxbjVmQVJzNTkyMk1scmpNd1hJXzRNdVpENjl0RGVNUnFkWGRaT2ZReURwQUtIZjFqa2I4N09ob3pwem1NOWdCVnBmMWFWT3Q1TVJGbllkdjJoZFJLOW9yU2lzYnpjMzQydDY1X001eThsNGlsY2V6ZjFTc1lOR2k?oc=5",
-      "date": "2026-11-14",
-      "timestamp": "2026-11-14T08:00:05+00:00",
-      "summary": "No plan to shift Angul smelting plant to Andhra Pradesh: NALCO CMD&nbsp;&nbsp;Industry Odisha"
     },
     {
       "source": "Google News",
@@ -321,6 +313,14 @@
       "date": "2022-08-24",
       "timestamp": "2022-08-24T04:48:01+00:00",
       "summary": "NATIONAL ALUMINIUM CO LTD Option Chain - Live NATIONAL ALUMINIUM CO LTD Option Chain Data, OI & Price&nbsp;&nbsp;Upstox"
+    },
+    {
+      "source": "Google News",
+      "title": "National Aluminium Company Ltd. Share Price Today | National Aluminium Live NSE/BSE - Value Research",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUGlKOVpDXzZGNklIdVh1UTk5U2EzdDBqZTAxMm44MWw5ZEVwdC02bEFKeXJ2R0EzVkpmbkdUUTJJZzRZWU4yQVF2R1RwZlgwcjJpWmJYZ1AtaHpIYkFjbEx3RnRoLUwzN2k3N2FPeElEOXVmV1BwdmFqd3JXR3JEU2ZyX25jQTQ?oc=5",
+      "date": "2022-03-24",
+      "timestamp": "2022-03-24T19:04:54+00:00",
+      "summary": "National Aluminium Company Ltd. Share Price Today | National Aluminium Live NSE/BSE&nbsp;&nbsp;Value Research"
     }
   ]
 }
